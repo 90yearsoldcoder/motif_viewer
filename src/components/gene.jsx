@@ -1,12 +1,13 @@
 import { SeqViz } from "seqviz";
 
-const GeneViz = () => (
+const GeneViz = ({ RNAname, RNAseq, RNAtype, motifs }) => (
   <SeqViz
-    name="J23100"
-    seq="TTGACGGCTAGCTCAGTCCTAGGTACAGTGCTAGC"
-    annotations={[
-      { name: "promoter", start: 0, end: 34, direction: 1, color: "blue" },
-    ]}
+    name={RNAname}
+    seq={RNAseq}
+    viewer={RNAtype}
+    showComplement={false}
+    zoom={{ linear: 80 }}
+    annotations={motifs}
   />
 );
 

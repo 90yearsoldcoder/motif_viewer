@@ -11,6 +11,11 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  --basic-color1: #0081a7;
+  --basic-color2: #00afb9;
+  --basic-color3: #fdfcdc;
+  --basic-color4: #fed9b7;
+  --basic-color5: #f07167;
 }
 
 #root {
