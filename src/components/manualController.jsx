@@ -1,6 +1,7 @@
 function TextInput({ text, textSetter, labelName }) {
   // Handle change in text input
   const handleTextChange = (event) => {
+    console.log(event.target.value);
     textSetter(event.target.value);
   };
 

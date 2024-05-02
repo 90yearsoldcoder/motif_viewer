@@ -4,7 +4,7 @@ import "./App.css";
 import ControllerMan from "./components/manualController";
 
 function App() {
-  const [RNAname, setRNAname] = useState("");
+  const [RNAname, setRNAname] = useState("Gene1");
   const [RNAseq, setRNAseq] = useState(
     "tcgcgcgtttcggtgatgacggtgaaaacctctgacacatgcatcgcgcgtttcggtgatgacggtgaaaacctctgacacatgca"
   );
