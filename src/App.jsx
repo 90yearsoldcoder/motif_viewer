@@ -3,8 +3,10 @@ import GeneViz from "./components/gene";
 import "./App.css";
 import ControllerMan from "./components/manualController";
 import JsonFileLoader from "./components/fileLoader";
+import GeneList from "./components/geneList";
 
 function App() {
+  /* test block */
   const [RNAname, setRNAname] = useState("Gene1");
   const [RNAseq, setRNAseq] = useState(
     "tcgcgcgtttcggtgatgacggtgaaaacctctgacacatgcatcgcgcgtttcggtgatgacggtgaaaacctctgacacatgca"
@@ -16,7 +18,10 @@ function App() {
     { name: "motif3", start: 15, end: 22, direction: 1, color: "blue" },
     { name: "motif4", start: 70, end: 78, direction: 1, color: "#F07167" },
   ]);
+
+  /* Dev block */
   const [SeqData, setSeqData] = useState({});
+  const [selectedGene, setSelectedGene] = useState("");
 
   return (
     <div className="main">
@@ -25,16 +30,12 @@ function App() {
           SeqData={SeqData}
           setSeqData={setSeqData}
         ></JsonFileLoader>
-        <ControllerMan
-          RNAname={RNAname}
-          setRNAname={setRNAname}
-          RNAseq={RNAseq}
-          setRNAseq={setRNAseq}
-          RNAtype={RNAtype}
-          setRNAtype={setRNAtype}
-          motifs={motifs}
-          setmotifs={setmotifs}
-        ></ControllerMan>
+        <GeneList
+          geneData={SeqData}
+          selectedGene={selectedGene}
+          setSelectedGene={setSelectedGene}
+        ></GeneList>
+        <div>{selectedGene}</div>
       </div>
       <div className="viewer">
         <GeneViz

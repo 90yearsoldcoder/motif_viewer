@@ -8,12 +8,15 @@
 .sideBar {
   display: flex;
   flex-direction: column;
+  justify-content: start;
 
   background-color: var(--basic-color1);
   width: calc(30% - 4rem);
   height: calc(100% - 4rem);
   padding: 2rem;
   margin: 0;
+
+  gap: 2rem;
 }
 
 .viewer {
