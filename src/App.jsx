@@ -2,6 +2,7 @@ import { useState } from "react";
 import GeneViz from "./components/gene";
 import "./App.css";
 import ControllerMan from "./components/manualController";
+import JsonFileLoader from "./components/fileLoader";
 
 function App() {
   const [RNAname, setRNAname] = useState("Gene1");
@@ -19,6 +20,7 @@ function App() {
   return (
     <div className="main">
       <div className="sideBar">
+        <JsonFileLoader></JsonFileLoader>
         <ControllerMan
           RNAname={RNAname}
           setRNAname={setRNAname}
