@@ -16,11 +16,15 @@ function App() {
     { name: "motif3", start: 15, end: 22, direction: 1, color: "blue" },
     { name: "motif4", start: 70, end: 78, direction: 1, color: "#F07167" },
   ]);
+  const [SeqData, setSeqData] = useState({});
 
   return (
     <div className="main">
       <div className="sideBar">
-        <JsonFileLoader></JsonFileLoader>
+        <JsonFileLoader
+          SeqData={SeqData}
+          setSeqData={setSeqData}
+        ></JsonFileLoader>
         <ControllerMan
           RNAname={RNAname}
           setRNAname={setRNAname}
