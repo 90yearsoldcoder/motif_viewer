@@ -18,7 +18,7 @@ function MotifListItem({ motifData, selectedMotif, setSelectedMotif }) {
 }
 
 MotifListItem.propTypes = {
-  motifData: PropTypes.array.isRequired,
+  motifData: PropTypes.object.isRequired,
   selectedMotif: PropTypes.string.isRequired,
   setSelectedMotif: PropTypes.func.isRequired,
 };

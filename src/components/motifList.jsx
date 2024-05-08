@@ -10,10 +10,10 @@ function MotifList({ motifsData, selectedMotif, setSelectedMotif }) {
       <span>RBP Selector</span>
       <div className={layout.selectList}>
         {/* modify upstream processing, provide an id for motif */}
-        {motifsData.map((mofif, index) => (
+        {motifsData.map((motif, index) => (
           <MotifListItem
             key={index}
-            motifData={mofif}
+            motifData={motif}
             selectedMotif={selectedMotif}
             setSelectedMotif={setSelectedMotif}
           ></MotifListItem>
