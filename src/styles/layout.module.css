@@ -3,4 +3,7 @@
   flex-direction: column;
   background-color: var(--bg-color);
   color: black;
+
+  max-height: 30vh;
+  overflow-y: auto;
 }

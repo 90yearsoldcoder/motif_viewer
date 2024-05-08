@@ -4,6 +4,7 @@ import "./App.css";
 import ControllerMan from "./components/manualController";
 import JsonFileLoader from "./components/fileLoader";
 import GeneList from "./components/geneList";
+import MotifList from "./components/motifList";
 
 function App() {
   /* test block */
@@ -11,7 +12,7 @@ function App() {
   const [RNAseq, setRNAseq] = useState(
     "tcgcgcgtttcggtgatgacggtgaaaacctctgacacatgcatcgcgcgtttcggtgatgacggtgaaaacctctgacacatgca"
   );
-  const [RNAtype, setRNAtype] = useState("linear");
+  const [RNAtype, setRNAtype] = useState("circular");
   const [motifs, setmotifs] = useState([
     { name: "motif1", start: 28, end: 34, direction: 1, color: "#FED9B7" },
     { name: "motif2", start: 7, end: 17, direction: 1, color: "blue" },
@@ -22,6 +23,7 @@ function App() {
   /* Dev block */
   const [SeqData, setSeqData] = useState({});
   const [selectedGene, setSelectedGene] = useState("");
+  const [selectedMotif, setSelectedMotif] = useState("");
 
   return (
     <div className="main">
@@ -35,7 +37,15 @@ function App() {
           selectedGene={selectedGene}
           setSelectedGene={setSelectedGene}
         ></GeneList>
-        <div>{selectedGene}</div>
+        <MotifList
+          motifsData={
+            SeqData[selectedGene] ? SeqData[selectedGene]["motifs"] : null
+          }
+          selectedMotif={selectedMotif}
+          setSelectedMotif={setSelectedMotif}
+        ></MotifList>
+        <div>Gene: {selectedGene}</div>
+        <div>RBP: {selectedMotif}</div>
       </div>
       <div className="viewer">
         <GeneViz
