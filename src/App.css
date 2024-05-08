@@ -21,8 +21,9 @@
 
 .viewer {
   display: flex;
+  flex-direction: column;
 
   background-color: #efefef;
   width: calc(70vw - 4rem);
-  padding: 2rem;
+  padding: 0rem 2rem 0rem 2rem;
 }

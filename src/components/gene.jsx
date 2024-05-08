@@ -7,6 +7,7 @@ const GeneViz = ({
   GeneName,
   selectedAreaType,
   selectedAreaName,
+  setMetaData,
 }) => {
   const seq = "seq" in geneData ? geneData["seq"] : "";
   const seqType = "type" in geneData ? geneData["type"] : "";
@@ -42,6 +43,15 @@ const GeneViz = ({
         showComplement={false}
         zoom={{ linear: 80 }}
         annotations={targets}
+        onSelection={(info) => {
+          //console.log(info);
+          setMetaData({
+            name: info["name"],
+            start: info["start"],
+            end: info["end"],
+            length: info["length"],
+          });
+        }}
       />
     </>
   );
@@ -52,6 +62,7 @@ GeneViz.propTypes = {
   GeneName: PropTypes.string.isRequired,
   selectedAreaType: PropTypes.string.isRequired,
   selectedAreaName: PropTypes.string.isRequired,
+  setMetaData: PropTypes.func,
 };
 
 export default GeneViz;
