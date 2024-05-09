@@ -2,4 +2,4 @@
 
 # Temp live show
 
-[Live](motifviewer.netlify.app)
+[Live](https://motifviewer.netlify.app)
