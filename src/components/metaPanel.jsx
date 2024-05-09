@@ -12,7 +12,9 @@ const MetaPanel = ({ meta }) => {
       </div>
       <div>
         <span className={fonts.metaTitle}>Range: </span>
-        <span className={fonts.metaContent}>{meta["start"] - meta["end"]}</span>
+        <span
+          className={fonts.metaContent}
+        >{`${meta["start"]} - ${meta["end"]}`}</span>
       </div>
     </div>
   );
