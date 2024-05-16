@@ -13,13 +13,13 @@ const GeneViz = ({
   const seqType = "type" in geneData ? geneData["type"] : "";
 
   let targets = [];
-  console.log(selectedAreaType);
-  console.log(Object.keys(extractInfo));
-  console.log(selectedAreaType in extractInfo);
+  //console.log(selectedAreaType);
+  //console.log(Object.keys(extractInfo));
+  //console.log(selectedAreaType in extractInfo);
   if (selectedAreaType in extractInfo && selectedAreaType in geneData) {
     //console.log(geneData);
     //console.log(selectedAreaType);
-    console.log("in");
+    //console.log("in");
     targets = extractInfo[selectedAreaType](geneData, selectedAreaName);
   }
 

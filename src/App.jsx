@@ -18,7 +18,7 @@ function App() {
     length: 0,
   });
   //const [selectedAreaType, setSelectedAreaType] = useState("motifs");
-  const selectedAreaType = "motifs";
+  const selectedAreaType = "miRNA";
 
   return (
     <div className="main">
@@ -33,8 +33,11 @@ function App() {
           setSelectedGene={setSelectedGene}
         ></GeneList>
         <MotifList
+          selectedAreaType={selectedAreaType}
           motifsData={
-            SeqData[selectedGene] ? SeqData[selectedGene]["motifs"] : null
+            SeqData[selectedGene]
+              ? SeqData[selectedGene][selectedAreaType]
+              : null
           }
           selectedMotif={selectedMotif}
           setSelectedMotif={setSelectedMotif}

@@ -4,8 +4,8 @@
     "seq": "GTCATGTTAGCTTGTTTCAGGTGCGAGATAGTAGTAGGGTTGTGGTGCTGGAGTTTAAGTTGAGTAGTAGGAATGCGGTAGTAGTTAGGATAATATAAATAGTTAAATTAAGAATGGTTATGTTAG",
     "motifs": [
       {
-        "motif_name": "MSI1",
-        "RBP_key": 8,
+        "name": "MSI1",
+        "key": 8,
         "count": 7,
         "scores": [
           6.577526497663734, 9.341812697829452, 9.341812697829452,
@@ -23,8 +23,8 @@
         ]
       },
       {
-        "motif_name": "SFPQ",
-        "RBP_key": 2,
+        "name": "SFPQ",
+        "key": 2,
         "count": 6,
         "scores": [
           6.5956192705063525, 6.128200392486873, 6.407278697704357,
@@ -40,8 +40,8 @@
         ]
       },
       {
-        "motif_name": "DAZAP1",
-        "RBP_key": 31,
+        "name": "DAZAP1",
+        "key": 31,
         "count": 6,
         "scores": [
           6.3048480252506085, 6.191967926457831, 9.416429757987176,
@@ -57,8 +57,8 @@
         ]
       },
       {
-        "motif_name": "RBM28",
-        "RBP_key": 58,
+        "name": "RBM28",
+        "key": 58,
         "count": 5,
         "scores": [
           7.656904295443296, 6.558549223464722, 10.9029322759714,
@@ -73,8 +73,8 @@
         ]
       },
       {
-        "motif_name": "HuR",
-        "RBP_key": 24,
+        "name": "HuR",
+        "key": 24,
         "count": 3,
         "scores": [6.058279123124119, 5.32506170495801, 5.054187164495413],
         "positions": [
@@ -84,8 +84,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPA1L2",
-        "RBP_key": 30,
+        "name": "HNRNPA1L2",
+        "key": 30,
         "count": 3,
         "scores": [10.149475302569245, 5.9270686636364935, 6.490096791911402],
         "positions": [
@@ -95,8 +95,8 @@
         ]
       },
       {
-        "motif_name": "ZC3H14",
-        "RBP_key": 55,
+        "name": "ZC3H14",
+        "key": 55,
         "count": 3,
         "scores": [5.86927506551792, 5.416909390299227, 5.438178007052879],
         "positions": [
@@ -106,8 +106,8 @@
         ]
       },
       {
-        "motif_name": "BRUNOL4",
-        "RBP_key": 15,
+        "name": "BRUNOL4",
+        "key": 15,
         "count": 2,
         "scores": [6.003305871262375, 5.708325092111812],
         "positions": [
@@ -116,8 +116,8 @@
         ]
       },
       {
-        "motif_name": "TUT1",
-        "RBP_key": 16,
+        "name": "TUT1",
+        "key": 16,
         "count": 2,
         "scores": [6.105332086479075, 5.276062387993031],
         "positions": [
@@ -126,8 +126,8 @@
         ]
       },
       {
-        "motif_name": "KHDRBS2",
-        "RBP_key": 19,
+        "name": "KHDRBS2",
+        "key": 19,
         "count": 2,
         "scores": [7.892269177437313, 6.435647768507907],
         "positions": [
@@ -136,8 +136,8 @@
         ]
       },
       {
-        "motif_name": "ZCRB1",
-        "RBP_key": 20,
+        "name": "ZCRB1",
+        "key": 20,
         "count": 2,
         "scores": [7.007877146698573, 9.902685132503317],
         "positions": [
@@ -146,8 +146,8 @@
         ]
       },
       {
-        "motif_name": "TARDBP",
-        "RBP_key": 26,
+        "name": "TARDBP",
+        "key": 26,
         "count": 2,
         "scores": [7.610590829176598, 8.940805356218494],
         "positions": [
@@ -156,8 +156,8 @@
         ]
       },
       {
-        "motif_name": "KHDRBS1",
-        "RBP_key": 44,
+        "name": "KHDRBS1",
+        "key": 44,
         "count": 2,
         "scores": [6.71496739567525, 6.541530538087271],
         "positions": [
@@ -166,8 +166,8 @@
         ]
       },
       {
-        "motif_name": "SRSF9",
-        "RBP_key": 57,
+        "name": "SRSF9",
+        "key": 57,
         "count": 2,
         "scores": [5.739518542643654, 7.00813048899422],
         "positions": [
@@ -176,120 +176,120 @@
         ]
       },
       {
-        "motif_name": "RBM5",
-        "RBP_key": 1,
+        "name": "RBM5",
+        "key": 1,
         "count": 1,
         "scores": [6.865148817571052],
         "positions": [[67, 73]]
       },
       {
-        "motif_name": "BRUNOL6",
-        "RBP_key": 4,
+        "name": "BRUNOL6",
+        "key": 4,
         "count": 1,
         "scores": [10.596203303179283],
         "positions": [[41, 47]]
       },
       {
-        "motif_name": "HNRNPA1",
-        "RBP_key": 17,
+        "name": "HNRNPA1",
+        "key": 17,
         "count": 1,
         "scores": [9.449411611006786],
         "positions": [[34, 40]]
       },
       {
-        "motif_name": "RBMS3",
-        "RBP_key": 35,
+        "name": "RBMS3",
+        "key": 35,
         "count": 1,
         "scores": [8.669843174541192],
         "positions": [[93, 99]]
       },
       {
-        "motif_name": "ZNF638",
-        "RBP_key": 39,
+        "name": "ZNF638",
+        "key": 39,
         "count": 1,
         "scores": [5.126013530514691],
         "positions": [[38, 44]]
       },
       {
-        "motif_name": "HNRNPA2B1",
-        "RBP_key": 43,
+        "name": "HNRNPA2B1",
+        "key": 43,
         "count": 1,
         "scores": [9.267216028483446],
         "positions": [[34, 40]]
       },
       {
-        "motif_name": "TIA1",
-        "RBP_key": 46,
+        "name": "TIA1",
+        "key": 46,
         "count": 1,
         "scores": [5.2580659145132795],
         "positions": [[12, 18]]
       },
       {
-        "motif_name": "RBM42",
-        "RBP_key": 50,
+        "name": "RBM42",
+        "key": 50,
         "count": 1,
         "scores": [5.220380427277244],
         "positions": [[106, 112]]
       },
       {
-        "motif_name": "CPEB4",
-        "RBP_key": 51,
+        "name": "CPEB4",
+        "key": 51,
         "count": 1,
         "scores": [5.027068152193823],
         "positions": [[11, 17]]
       },
       {
-        "motif_name": "KHDRBS3",
-        "RBP_key": 56,
+        "name": "KHDRBS3",
+        "key": 56,
         "count": 1,
         "scores": [5.89380540002738],
         "positions": [[94, 101]]
       },
       {
-        "motif_name": "BRUNOL5",
-        "RBP_key": 63,
+        "name": "BRUNOL5",
+        "key": 63,
         "count": 1,
         "scores": [5.444733949597694],
         "positions": [[41, 47]]
       },
       {
-        "motif_name": "G3BP2",
-        "RBP_key": 64,
+        "name": "G3BP2",
+        "key": 64,
         "count": 1,
         "scores": [10.86295482804851],
         "positions": [[87, 93]]
       },
       {
-        "motif_name": "IGF2BP3",
-        "RBP_key": 65,
+        "name": "IGF2BP3",
+        "key": 65,
         "count": 1,
         "scores": [5.801018455786691],
         "positions": [[105, 111]]
       },
       {
-        "motif_name": "RBM3",
-        "RBP_key": 66,
+        "name": "RBM3",
+        "key": 66,
         "count": 1,
         "scores": [7.183891104066303],
         "positions": [[89, 95]]
       },
       {
-        "motif_name": "SAMD4A",
-        "RBP_key": 69,
+        "name": "SAMD4A",
+        "key": 69,
         "count": 1,
         "scores": [8.52746282636898],
         "positions": [[47, 53]]
       },
       {
-        "motif_name": "MBNL1",
-        "RBP_key": 73,
+        "name": "MBNL1",
+        "key": 73,
         "count": 1,
         "scores": [7.393696247732727],
         "positions": [[9, 15]]
       },
       {
-        "motif_name": "SRSF2",
-        "RBP_key": 74,
+        "name": "SRSF2",
+        "key": 74,
         "count": 1,
         "scores": [6.207088055791871],
         "positions": [[49, 56]]
@@ -301,8 +301,8 @@
     "seq": "TGCAGGGTGGATGTGAACACTGACCGGAAGATCAGTGCCAAGGAGATGCAGCGCTGGATCATGGAGAAGACGGCCGAGCACTTCCAGGAGGCCATGGAGGAGAGCAAGACACACTTCCGCGCCGTGGACCCTGACGGGGACGGTACTgtggctgggccggggtgggtggggcggtgggcggggcgggcagggccatgggcctTGCCTGGTGCCTGGAGGGCAGACAGGCCCTGTCTGAGGGACGGGCGGTGGGGAAGTGTCAGCCGGAGACCCCGAGGTGTGGTGGGGTGCACGGAAGCTGGGTTCATGATGCCAGAATCCTGGTGACAGAGGTGTGTGTGCCAAGCACTGGGCGTGGCCCATGGAGGGCGCCTCTTATGTCTTCGGGGCCTTCATCTGGTGGTGTCTATGCCTCTTGGTGGCCCCGAGGCACAGACGTTGCCGGCTGGCCTCACAGGTGAGGAAACGGGTGTGGGGTGCTGGCCGGGGCCCTGGGGCTCCAGACGCTGGCATCCTGCCGCTTCCAGCCTGGGCAGCAGAGCAAGACCCCATCTCAGTTGAGAAGGAAGTTCAGCTCAGTATCAGAGGCCCTGACAGGTGTGATCTGCTCTTCCAGGTCACGTGTCTTGGGACGAGTATAAGGTGAAGTTTTTGGCGAGTAAAGGCCATAGCGAGAAGGAGGTTGCCGACGCCATCAGGCTCAACGAGGAACTCAAAGTGGATGAGGAAAGTGAG",
     "motifs": [
       {
-        "motif_name": "HNRNPH2",
-        "RBP_key": 5,
+        "name": "HNRNPH2",
+        "key": 5,
         "count": 20,
         "scores": [
           6.478989232287111, 5.633208435337306, 5.643777677047494,
@@ -337,8 +337,8 @@
         ]
       },
       {
-        "motif_name": "SRSF1",
-        "RBP_key": 6,
+        "name": "SRSF1",
+        "key": 6,
         "count": 14,
         "scores": [
           6.457335852590136, 9.844170710500842, 5.0663683831623185,
@@ -365,8 +365,8 @@
         ]
       },
       {
-        "motif_name": "SRSF2",
-        "RBP_key": 74,
+        "name": "SRSF2",
+        "key": 74,
         "count": 13,
         "scores": [
           10.982078968802806, 8.847689014034145, 6.374582458499771,
@@ -392,8 +392,8 @@
         ]
       },
       {
-        "motif_name": "BRUNOL6",
-        "RBP_key": 4,
+        "name": "BRUNOL6",
+        "key": 4,
         "count": 12,
         "scores": [
           6.7720447547406675, 6.7720447547406675, 6.709548829006902,
@@ -417,8 +417,8 @@
         ]
       },
       {
-        "motif_name": "BRUNOL4",
-        "RBP_key": 15,
+        "name": "BRUNOL4",
+        "key": 15,
         "count": 11,
         "scores": [
           6.036494283921452, 7.98302484021371, 5.708325092111812,
@@ -441,8 +441,8 @@
         ]
       },
       {
-        "motif_name": "BRUNOL5",
-        "RBP_key": 63,
+        "name": "BRUNOL5",
+        "key": 63,
         "count": 11,
         "scores": [
           5.393700998554847, 7.076095284999736, 5.444733949597694,
@@ -465,8 +465,8 @@
         ]
       },
       {
-        "motif_name": "ESRP2",
-        "RBP_key": 45,
+        "name": "ESRP2",
+        "key": 45,
         "count": 9,
         "scores": [
           5.950951219875501, 5.6888793205072465, 10.027690439869396,
@@ -486,8 +486,8 @@
         ]
       },
       {
-        "motif_name": "SAMD4A",
-        "RBP_key": 69,
+        "name": "SAMD4A",
+        "key": 69,
         "count": 9,
         "scores": [
           8.52746282636898, 9.256862209858092, 8.071169892557464,
@@ -507,8 +507,8 @@
         ]
       },
       {
-        "motif_name": "SFPQ",
-        "RBP_key": 2,
+        "name": "SFPQ",
+        "key": 2,
         "count": 8,
         "scores": [
           5.467243486694299, 5.227675576735331, 7.997758203393079,
@@ -527,8 +527,8 @@
         ]
       },
       {
-        "motif_name": "FMR1",
-        "RBP_key": 9,
+        "name": "FMR1",
+        "key": 9,
         "count": 8,
         "scores": [
           5.50755441234497, 7.489056937634571, 5.245673701127545,
@@ -547,8 +547,8 @@
         ]
       },
       {
-        "motif_name": "LIN28A",
-        "RBP_key": 37,
+        "name": "LIN28A",
+        "key": 37,
         "count": 8,
         "scores": [
           7.155823552502266, 10.059093832432087, 5.903626883683466,
@@ -567,8 +567,8 @@
         ]
       },
       {
-        "motif_name": "SRSF9",
-        "RBP_key": 57,
+        "name": "SRSF9",
+        "key": 57,
         "count": 8,
         "scores": [
           5.45392113416766, 6.397224721020781, 7.47875460651738,
@@ -587,8 +587,8 @@
         ]
       },
       {
-        "motif_name": "RBM5",
-        "RBP_key": 1,
+        "name": "RBM5",
+        "key": 1,
         "count": 7,
         "scores": [
           5.50698055713399, 5.348434617822169, 5.85812912760392,
@@ -606,8 +606,8 @@
         ]
       },
       {
-        "motif_name": "RBM45",
-        "RBP_key": 11,
+        "name": "RBM45",
+        "key": 11,
         "count": 7,
         "scores": [
           6.7592163704258175, 8.108059803993674, 6.230566179343005,
@@ -625,8 +625,8 @@
         ]
       },
       {
-        "motif_name": "FXR2",
-        "RBP_key": 34,
+        "name": "FXR2",
+        "key": 34,
         "count": 7,
         "scores": [
           8.86171724714482, 6.522715638898516, 8.331178551271595,
@@ -644,8 +644,8 @@
         ]
       },
       {
-        "motif_name": "RBM24",
-        "RBP_key": 59,
+        "name": "RBM24",
+        "key": 59,
         "count": 6,
         "scores": [
           7.016684910255855, 7.678688446740839, 9.854538282140258,
@@ -661,8 +661,8 @@
         ]
       },
       {
-        "motif_name": "MATR3",
-        "RBP_key": 12,
+        "name": "MATR3",
+        "key": 12,
         "count": 4,
         "scores": [
           5.794397681549874, 5.474830146296144, 5.607017072670315,
@@ -676,8 +676,8 @@
         ]
       },
       {
-        "motif_name": "HNRPLL",
-        "RBP_key": 40,
+        "name": "HNRPLL",
+        "key": 40,
         "count": 4,
         "scores": [
           5.252675156614069, 5.25267515661407, 7.919258595116579,
@@ -691,8 +691,8 @@
         ]
       },
       {
-        "motif_name": "RBM6",
-        "RBP_key": 42,
+        "name": "RBM6",
+        "key": 42,
         "count": 4,
         "scores": [
           7.79327197448934, 5.612022273980825, 7.79327197448934,
@@ -706,8 +706,8 @@
         ]
       },
       {
-        "motif_name": "PPRC1",
-        "RBP_key": 71,
+        "name": "PPRC1",
+        "key": 71,
         "count": 4,
         "scores": [
           9.233493163925532, 6.275879508841173, 6.275879508841173,
@@ -721,8 +721,8 @@
         ]
       },
       {
-        "motif_name": "ENOX1",
-        "RBP_key": 72,
+        "name": "ENOX1",
+        "key": 72,
         "count": 4,
         "scores": [
           7.299433495329305, 6.593015438674266, 10.570221621723816,
@@ -736,8 +736,8 @@
         ]
       },
       {
-        "motif_name": "SRSF10",
-        "RBP_key": 22,
+        "name": "SRSF10",
+        "key": 22,
         "count": 3,
         "scores": [5.312590395171425, 5.312590395171425, 5.312590395171425],
         "positions": [
@@ -747,8 +747,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPK",
-        "RBP_key": 25,
+        "name": "HNRNPK",
+        "key": 25,
         "count": 3,
         "scores": [5.075660480796767, 5.956736764533873, 5.275212057515719],
         "positions": [
@@ -758,8 +758,8 @@
         ]
       },
       {
-        "motif_name": "TARDBP",
-        "RBP_key": 26,
+        "name": "TARDBP",
+        "key": 26,
         "count": 3,
         "scores": [6.718981160748022, 5.008284738741928, 8.748728504142074],
         "positions": [
@@ -769,8 +769,8 @@
         ]
       },
       {
-        "motif_name": "RBM4",
-        "RBP_key": 27,
+        "name": "RBM4",
+        "key": 27,
         "count": 3,
         "scores": [5.1730539164860785, 6.695985229706513, 7.463977719493343],
         "positions": [
@@ -780,8 +780,8 @@
         ]
       },
       {
-        "motif_name": "PCBP2",
-        "RBP_key": 41,
+        "name": "PCBP2",
+        "key": 41,
         "count": 3,
         "scores": [5.6017067965915395, 5.008029430256701, 5.948933586160094],
         "positions": [
@@ -791,8 +791,8 @@
         ]
       },
       {
-        "motif_name": "PCBP1",
-        "RBP_key": 52,
+        "name": "PCBP1",
+        "key": 52,
         "count": 3,
         "scores": [5.068529865971345, 5.068529865971345, 5.7987152988363775],
         "positions": [
@@ -802,8 +802,8 @@
         ]
       },
       {
-        "motif_name": "SNRNP70",
-        "RBP_key": 61,
+        "name": "SNRNP70",
+        "key": 61,
         "count": 3,
         "scores": [5.442250422837839, 5.44225042283784, 5.44225042283784],
         "positions": [
@@ -813,8 +813,8 @@
         ]
       },
       {
-        "motif_name": "RBM3",
-        "RBP_key": 66,
+        "name": "RBM3",
+        "key": 66,
         "count": 3,
         "scores": [6.824885957372054, 6.101726395567215, 7.052582115127901],
         "positions": [
@@ -824,8 +824,8 @@
         ]
       },
       {
-        "motif_name": "CNOT4",
-        "RBP_key": 68,
+        "name": "CNOT4",
+        "key": 68,
         "count": 3,
         "scores": [8.550526199606884, 10.87228383368695, 8.488155104435176],
         "positions": [
@@ -835,8 +835,8 @@
         ]
       },
       {
-        "motif_name": "RBM8A",
-        "RBP_key": 79,
+        "name": "RBM8A",
+        "key": 79,
         "count": 3,
         "scores": [6.706383820552681, 6.695848507643605, 6.343851567306802],
         "positions": [
@@ -846,8 +846,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPL",
-        "RBP_key": 3,
+        "name": "HNRNPL",
+        "key": 3,
         "count": 2,
         "scores": [5.734449027840372, 5.016400400990078],
         "positions": [
@@ -856,8 +856,8 @@
         ]
       },
       {
-        "motif_name": "ANKHD1",
-        "RBP_key": 10,
+        "name": "ANKHD1",
+        "key": 10,
         "count": 2,
         "scores": [11.617055741762988, 8.91227055334593],
         "positions": [
@@ -866,8 +866,8 @@
         ]
       },
       {
-        "motif_name": "SNRPA",
-        "RBP_key": 18,
+        "name": "SNRPA",
+        "key": 18,
         "count": 2,
         "scores": [7.915067081333141, 5.420363026486035],
         "positions": [
@@ -876,8 +876,8 @@
         ]
       },
       {
-        "motif_name": "RALY",
-        "RBP_key": 21,
+        "name": "RALY",
+        "key": 21,
         "count": 2,
         "scores": [7.6660868900128305, 9.353926571374288],
         "positions": [
@@ -886,8 +886,8 @@
         ]
       },
       {
-        "motif_name": "RBM46",
-        "RBP_key": 32,
+        "name": "RBM46",
+        "key": 32,
         "count": 2,
         "scores": [6.6074755133129335, 6.426884538061026],
         "positions": [
@@ -896,8 +896,8 @@
         ]
       },
       {
-        "motif_name": "ZNF638",
-        "RBP_key": 39,
+        "name": "ZNF638",
+        "key": 39,
         "count": 2,
         "scores": [5.784048874162771, 5.178335687946859],
         "positions": [
@@ -906,8 +906,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPA2B1",
-        "RBP_key": 43,
+        "name": "HNRNPA2B1",
+        "key": 43,
         "count": 2,
         "scores": [5.436946714477842, 7.389744039049642],
         "positions": [
@@ -916,8 +916,8 @@
         ]
       },
       {
-        "motif_name": "TIA1",
-        "RBP_key": 46,
+        "name": "TIA1",
+        "key": 46,
         "count": 2,
         "scores": [6.162790928072086, 7.316499050779508],
         "positions": [
@@ -926,8 +926,8 @@
         ]
       },
       {
-        "motif_name": "SRSF7",
-        "RBP_key": 47,
+        "name": "SRSF7",
+        "key": 47,
         "count": 2,
         "scores": [6.048412732756294, 7.882291433218861],
         "positions": [
@@ -936,8 +936,8 @@
         ]
       },
       {
-        "motif_name": "G3BP2",
-        "RBP_key": 64,
+        "name": "G3BP2",
+        "key": 64,
         "count": 2,
         "scores": [6.49228179379708, 9.09635311746594],
         "positions": [
@@ -946,8 +946,8 @@
         ]
       },
       {
-        "motif_name": "MBNL1",
-        "RBP_key": 73,
+        "name": "MBNL1",
+        "key": 73,
         "count": 2,
         "scores": [7.687058487718343, 5.767912572005164],
         "positions": [
@@ -956,8 +956,8 @@
         ]
       },
       {
-        "motif_name": "ZC3H10",
-        "RBP_key": 75,
+        "name": "ZC3H10",
+        "key": 75,
         "count": 2,
         "scores": [10.972792135577649, 5.771333987828944],
         "positions": [
@@ -966,8 +966,8 @@
         ]
       },
       {
-        "motif_name": "IGF2BP2",
-        "RBP_key": 77,
+        "name": "IGF2BP2",
+        "key": 77,
         "count": 2,
         "scores": [5.093193800584429, 5.591434637655723],
         "positions": [
@@ -976,99 +976,99 @@
         ]
       },
       {
-        "motif_name": "MSI1",
-        "RBP_key": 8,
+        "name": "MSI1",
+        "key": 8,
         "count": 1,
         "scores": [5.774294948416275],
         "positions": [[669, 675]]
       },
       {
-        "motif_name": "CPEB2",
-        "RBP_key": 13,
+        "name": "CPEB2",
+        "key": 13,
         "count": 1,
         "scores": [5.3859892923279915],
         "positions": [[648, 654]]
       },
       {
-        "motif_name": "PABPC5",
-        "RBP_key": 14,
+        "name": "PABPC5",
+        "key": 14,
         "count": 1,
         "scores": [6.875149995437405],
         "positions": [[726, 732]]
       },
       {
-        "motif_name": "TUT1",
-        "RBP_key": 16,
+        "name": "TUT1",
+        "key": 16,
         "count": 1,
         "scores": [6.718318611625859],
         "positions": [[141, 147]]
       },
       {
-        "motif_name": "QKI",
-        "RBP_key": 23,
+        "name": "QKI",
+        "key": 23,
         "count": 1,
         "scores": [5.469405398327426],
         "positions": [[19, 25]]
       },
       {
-        "motif_name": "HNRNPCL1",
-        "RBP_key": 28,
+        "name": "HNRNPCL1",
+        "key": 28,
         "count": 1,
         "scores": [8.26836406580781],
         "positions": [[648, 654]]
       },
       {
-        "motif_name": "HNRNPA1L2",
-        "RBP_key": 30,
+        "name": "HNRNPA1L2",
+        "key": 30,
         "count": 1,
         "scores": [5.003990633317322],
         "positions": [[236, 242]]
       },
       {
-        "motif_name": "YBX1",
-        "RBP_key": 33,
+        "name": "YBX1",
+        "key": 33,
         "count": 1,
         "scores": [5.109129275295274],
         "positions": [[28, 34]]
       },
       {
-        "motif_name": "FUS",
-        "RBP_key": 38,
+        "name": "FUS",
+        "key": 38,
         "count": 1,
         "scores": [9.527284410001906],
         "positions": [[116, 122]]
       },
       {
-        "motif_name": "YBX2",
-        "RBP_key": 49,
+        "name": "YBX2",
+        "key": 49,
         "count": 1,
         "scores": [7.276346861813175],
         "positions": [[28, 34]]
       },
       {
-        "motif_name": "CPEB4",
-        "RBP_key": 51,
+        "name": "CPEB4",
+        "key": 51,
         "count": 1,
         "scores": [5.830142244065376],
         "positions": [[648, 654]]
       },
       {
-        "motif_name": "FXR1",
-        "RBP_key": 54,
+        "name": "FXR1",
+        "key": 54,
         "count": 1,
         "scores": [5.312216437246523],
         "positions": [[703, 710]]
       },
       {
-        "motif_name": "PABPN1",
-        "RBP_key": 70,
+        "name": "PABPN1",
+        "key": 70,
         "count": 1,
         "scores": [11.14848419291242],
         "positions": [[65, 71]]
       },
       {
-        "motif_name": "HNRNPC",
-        "RBP_key": 78,
+        "name": "HNRNPC",
+        "key": 78,
         "count": 1,
         "scores": [8.346797015076557],
         "positions": [[648, 654]]
@@ -1080,8 +1080,8 @@
     "seq": "GGGACACCCTGGGCCTCACACCCCTGCATCACGCCTCTCGGGAAGGCCACGTGGAGGTTGCCGGCTGCCTGCTGGACAGGGGTGCCCAGGTGGATGCTACCGGCTGGCTCCGAAAGACCCCCCTACACCTGGCTGCAGAGCGAGGGCATGGGCCTACC",
     "motifs": [
       {
-        "motif_name": "HNRNPH2",
-        "RBP_key": 5,
+        "name": "HNRNPH2",
+        "key": 5,
         "count": 3,
         "scores": [6.3519223249472905, 8.466022539485571, 5.2551330396658145],
         "positions": [
@@ -1091,8 +1091,8 @@
         ]
       },
       {
-        "motif_name": "RBM5",
-        "RBP_key": 1,
+        "name": "RBM5",
+        "key": 1,
         "count": 2,
         "scores": [5.661344265691515, 6.389542160048343],
         "positions": [
@@ -1101,8 +1101,8 @@
         ]
       },
       {
-        "motif_name": "RBM45",
-        "RBP_key": 11,
+        "name": "RBM45",
+        "key": 11,
         "count": 2,
         "scores": [5.556718860092093, 6.230566179343005],
         "positions": [
@@ -1111,8 +1111,8 @@
         ]
       },
       {
-        "motif_name": "ESRP2",
-        "RBP_key": 45,
+        "name": "ESRP2",
+        "key": 45,
         "count": 2,
         "scores": [5.442727939148239, 5.140756707722505],
         "positions": [
@@ -1121,8 +1121,8 @@
         ]
       },
       {
-        "motif_name": "SAMD4A",
-        "RBP_key": 69,
+        "name": "SAMD4A",
+        "key": 69,
         "count": 2,
         "scores": [11.136272069044503, 8.443694468676382],
         "positions": [
@@ -1131,78 +1131,78 @@
         ]
       },
       {
-        "motif_name": "RBFOX1",
-        "RBP_key": 0,
+        "name": "RBFOX1",
+        "key": 0,
         "count": 1,
         "scores": [6.346906439759966],
         "positions": [[145, 151]]
       },
       {
-        "motif_name": "SFPQ",
-        "RBP_key": 2,
+        "name": "SFPQ",
+        "key": 2,
         "count": 1,
         "scores": [5.3739066892783285],
         "positions": [[51, 57]]
       },
       {
-        "motif_name": "HNRNPL",
-        "RBP_key": 3,
+        "name": "HNRNPL",
+        "key": 3,
         "count": 1,
         "scores": [5.234254438916662],
         "positions": [[18, 24]]
       },
       {
-        "motif_name": "SRSF1",
-        "RBP_key": 6,
+        "name": "SRSF1",
+        "key": 6,
         "count": 1,
         "scores": [6.457335852590136],
         "positions": [[89, 95]]
       },
       {
-        "motif_name": "FMR1",
-        "RBP_key": 9,
+        "name": "FMR1",
+        "key": 9,
         "count": 1,
         "scores": [10.959919218793667],
         "positions": [[74, 80]]
       },
       {
-        "motif_name": "FXR2",
-        "RBP_key": 34,
+        "name": "FXR2",
+        "key": 34,
         "count": 1,
         "scores": [9.984728137250166],
         "positions": [[74, 80]]
       },
       {
-        "motif_name": "PCBP2",
-        "RBP_key": 41,
+        "name": "PCBP2",
+        "key": 41,
         "count": 1,
         "scores": [6.572994694204262],
         "positions": [[118, 124]]
       },
       {
-        "motif_name": "SART3",
-        "RBP_key": 53,
+        "name": "SART3",
+        "key": 53,
         "count": 1,
         "scores": [5.430237275709686],
         "positions": [[111, 117]]
       },
       {
-        "motif_name": "PABPC1",
-        "RBP_key": 62,
+        "name": "PABPC1",
+        "key": 62,
         "count": 1,
         "scores": [5.433025093081305],
         "positions": [[111, 117]]
       },
       {
-        "motif_name": "ENOX1",
-        "RBP_key": 72,
+        "name": "ENOX1",
+        "key": 72,
         "count": 1,
         "scores": [7.677617748386377],
         "positions": [[73, 79]]
       },
       {
-        "motif_name": "ZC3H10",
-        "RBP_key": 75,
+        "name": "ZC3H10",
+        "key": 75,
         "count": 1,
         "scores": [5.91218095089553],
         "positions": [[137, 143]]
@@ -1210,12 +1210,12 @@
     ]
   },
   "PRKCZ": {
-    "type": "linear",
+    "type": "circular",
     "seq": "AAAGCCTCCCATGTTTTAAAAGGATTTTTAAATAAGGTACGTTTCTGGCCATGCTGACAAAATCTCGTTTGTGGCCTCGGTGTTGGTGGGCAGAGGGCCAGGCACGGCTGTTGGCCATTTTTTCATGTCGGCTGCTGTGTATCGGGTGTGTGGGTTGATTTTCCGCTTCAGTATTTGAGCTCTGTGTTCTGTGAATCGTCCGTTTTTACTCACACCTAACAAAATGAGAATGTGTGCCCAAGGAAAATGGAACGGAGCTTAACGTACGGGGAAGGAACTTTCAATAAAGGAAACATCTGATTTCCACCACCTGGGTCAGAGCATCGGGGGAGGGCTTGTCAGCACTGGGAGTGGCCACCAAGGAGAGGGGGTCATGGGGCTTCCGGGATGGGGCTGACTTGTCCTTGTTTGAACTCTGACCTCCAGGACCCCAAAGAGAGGCTCGGCTGCCGGCCACAGACTGGATTTTCTGACATCAAGTCCCACGCGTTCTTCC",
     "motifs": [
       {
-        "motif_name": "BRUNOL4",
-        "RBP_key": 15,
+        "name": "BRUNOL4",
+        "key": 15,
         "count": 14,
         "scores": [
           5.210526017657322, 6.163463645071003, 7.897021078123161,
@@ -1242,8 +1242,8 @@
         ]
       },
       {
-        "motif_name": "BRUNOL5",
-        "RBP_key": 63,
+        "name": "BRUNOL5",
+        "key": 63,
         "count": 13,
         "scores": [
           6.6958034107996, 7.093168798358677, 5.493096971159093,
@@ -1269,8 +1269,8 @@
         ]
       },
       {
-        "motif_name": "ESRP2",
-        "RBP_key": 45,
+        "name": "ESRP2",
+        "key": 45,
         "count": 9,
         "scores": [
           5.707128692962104, 6.895984760657573, 5.140756707722505,
@@ -1290,8 +1290,8 @@
         ]
       },
       {
-        "motif_name": "U2AF2",
-        "RBP_key": 48,
+        "name": "U2AF2",
+        "key": 48,
         "count": 8,
         "scores": [
           6.033556865362614, 7.773241960882413, 12.128278051474659,
@@ -1310,8 +1310,8 @@
         ]
       },
       {
-        "motif_name": "CPEB4",
-        "RBP_key": 51,
+        "name": "CPEB4",
+        "key": 51,
         "count": 8,
         "scores": [
           7.649562290154566, 5.873210965957263, 9.103419038323938,
@@ -1330,8 +1330,8 @@
         ]
       },
       {
-        "motif_name": "RALY",
-        "RBP_key": 21,
+        "name": "RALY",
+        "key": 21,
         "count": 7,
         "scores": [
           6.84296465209691, 8.172272277349869, 10.771334975115881,
@@ -1349,8 +1349,8 @@
         ]
       },
       {
-        "motif_name": "SRSF9",
-        "RBP_key": 57,
+        "name": "SRSF9",
+        "key": 57,
         "count": 7,
         "scores": [
           6.296908801290091, 7.548698870356921, 7.9572493199920356,
@@ -1368,8 +1368,8 @@
         ]
       },
       {
-        "motif_name": "RBM5",
-        "RBP_key": 1,
+        "name": "RBM5",
+        "key": 1,
         "count": 6,
         "scores": [
           6.367094382073061, 5.682043141534933, 7.023694756882874,
@@ -1385,8 +1385,8 @@
         ]
       },
       {
-        "motif_name": "BRUNOL6",
-        "RBP_key": 4,
+        "name": "BRUNOL6",
+        "key": 4,
         "count": 6,
         "scores": [
           6.762878331413029, 5.3497744857460905, 10.480377875039393,
@@ -1402,8 +1402,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPH2",
-        "RBP_key": 5,
+        "name": "HNRNPH2",
+        "key": 5,
         "count": 6,
         "scores": [
           5.077134737687819, 6.362491566657479, 11.672081326981598,
@@ -1419,8 +1419,8 @@
         ]
       },
       {
-        "motif_name": "CPEB2",
-        "RBP_key": 13,
+        "name": "CPEB2",
+        "key": 13,
         "count": 5,
         "scores": [
           6.295921257918834, 7.615499751500067, 10.888151759104028,
@@ -1435,8 +1435,8 @@
         ]
       },
       {
-        "motif_name": "HuR",
-        "RBP_key": 24,
+        "name": "HuR",
+        "key": 24,
         "count": 5,
         "scores": [
           7.265819630681974, 6.174027154762483, 10.586027191142563,
@@ -1451,8 +1451,8 @@
         ]
       },
       {
-        "motif_name": "PTBP1",
-        "RBP_key": 36,
+        "name": "PTBP1",
+        "key": 36,
         "count": 5,
         "scores": [
           8.106831116791122, 7.54971571220406, 5.368500121768172,
@@ -1467,8 +1467,8 @@
         ]
       },
       {
-        "motif_name": "ZNF638",
-        "RBP_key": 39,
+        "name": "ZNF638",
+        "key": 39,
         "count": 5,
         "scores": [
           10.101701363114621, 6.662279705208818, 7.41422395176753,
@@ -1483,8 +1483,8 @@
         ]
       },
       {
-        "motif_name": "SFPQ",
-        "RBP_key": 2,
+        "name": "SFPQ",
+        "key": 2,
         "count": 4,
         "scores": [
           5.314167669944206, 6.150657102542718, 5.421161326233608,
@@ -1498,8 +1498,8 @@
         ]
       },
       {
-        "motif_name": "SRSF1",
-        "RBP_key": 6,
+        "name": "SRSF1",
+        "key": 6,
         "count": 4,
         "scores": [
           5.865958512305551, 9.169216895756396, 9.157445493628778,
@@ -1513,8 +1513,8 @@
         ]
       },
       {
-        "motif_name": "KHDRBS2",
-        "RBP_key": 19,
+        "name": "KHDRBS2",
+        "key": 19,
         "count": 4,
         "scores": [
           7.892269177437313, 7.471182633485664, 5.2657975141373825,
@@ -1528,8 +1528,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPCL1",
-        "RBP_key": 28,
+        "name": "HNRNPCL1",
+        "key": 28,
         "count": 4,
         "scores": [
           8.756818585675619, 12.160755091721214, 8.629361725373766,
@@ -1543,8 +1543,8 @@
         ]
       },
       {
-        "motif_name": "LIN28A",
-        "RBP_key": 37,
+        "name": "LIN28A",
+        "key": 37,
         "count": 4,
         "scores": [
           6.171164098636752, 6.519426341337576, 5.354234640414246,
@@ -1558,8 +1558,8 @@
         ]
       },
       {
-        "motif_name": "TIA1",
-        "RBP_key": 46,
+        "name": "TIA1",
+        "key": 46,
         "count": 4,
         "scores": [
           7.677502460159744, 9.35337345707911, 11.717497533150578,
@@ -1573,8 +1573,8 @@
         ]
       },
       {
-        "motif_name": "SART3",
-        "RBP_key": 53,
+        "name": "SART3",
+        "key": 53,
         "count": 4,
         "scores": [
           6.765821115980193, 6.765821115980193, 5.613027593854781,
@@ -1588,8 +1588,8 @@
         ]
       },
       {
-        "motif_name": "RBM24",
-        "RBP_key": 59,
+        "name": "RBM24",
+        "key": 59,
         "count": 4,
         "scores": [
           7.678688446740839, 9.192534745655273, 7.721644011642912,
@@ -1603,8 +1603,8 @@
         ]
       },
       {
-        "motif_name": "PABPC1",
-        "RBP_key": 62,
+        "name": "PABPC1",
+        "key": 62,
         "count": 4,
         "scores": [
           6.783948523799389, 6.783948523799389, 5.632038270860238,
@@ -1618,8 +1618,8 @@
         ]
       },
       {
-        "motif_name": "SRSF2",
-        "RBP_key": 74,
+        "name": "SRSF2",
+        "key": 74,
         "count": 4,
         "scores": [
           5.144284839077977, 8.22445518776196, 11.414483600051739,
@@ -1633,8 +1633,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPC",
-        "RBP_key": 78,
+        "name": "HNRNPC",
+        "key": 78,
         "count": 4,
         "scores": [
           8.863424035295397, 12.12098331106304, 8.54773888084999,
@@ -1648,8 +1648,8 @@
         ]
       },
       {
-        "motif_name": "FMR1",
-        "RBP_key": 9,
+        "name": "FMR1",
+        "key": 9,
         "count": 3,
         "scores": [7.163307104487306, 5.245673701127545, 5.245673701127545],
         "positions": [
@@ -1659,8 +1659,8 @@
         ]
       },
       {
-        "motif_name": "PABPC5",
-        "RBP_key": 14,
+        "name": "PABPC5",
+        "key": 14,
         "count": 3,
         "scores": [7.028818156770779, 7.028818156770779, 8.11842114644977],
         "positions": [
@@ -1670,8 +1670,8 @@
         ]
       },
       {
-        "motif_name": "TARDBP",
-        "RBP_key": 26,
+        "name": "TARDBP",
+        "key": 26,
         "count": 3,
         "scores": [5.008284738741928, 9.576962155875595, 6.113797359383615],
         "positions": [
@@ -1681,8 +1681,8 @@
         ]
       },
       {
-        "motif_name": "YBX1",
-        "RBP_key": 33,
+        "name": "YBX1",
+        "key": 33,
         "count": 3,
         "scores": [10.803692427099698, 5.843759587967186, 5.109129275295274],
         "positions": [
@@ -1692,8 +1692,8 @@
         ]
       },
       {
-        "motif_name": "KHDRBS1",
-        "RBP_key": 44,
+        "name": "KHDRBS1",
+        "key": 44,
         "count": 3,
         "scores": [5.476535686254316, 9.209602379565649, 7.071657172728327],
         "positions": [
@@ -1703,8 +1703,8 @@
         ]
       },
       {
-        "motif_name": "YBX2",
-        "RBP_key": 49,
+        "name": "YBX2",
+        "key": 49,
         "count": 3,
         "scores": [10.253217452059985, 7.001865929328273, 7.276346861813175],
         "positions": [
@@ -1714,8 +1714,8 @@
         ]
       },
       {
-        "motif_name": "ZC3H14",
-        "RBP_key": 55,
+        "name": "ZC3H14",
+        "key": 55,
         "count": 3,
         "scores": [5.8136763318372235, 7.496180466724149, 5.86927506551792],
         "positions": [
@@ -1725,8 +1725,8 @@
         ]
       },
       {
-        "motif_name": "G3BP2",
-        "RBP_key": 64,
+        "name": "G3BP2",
+        "key": 64,
         "count": 3,
         "scores": [7.607469354328657, 6.701281566972059, 5.2117453301066465],
         "positions": [
@@ -1736,8 +1736,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPL",
-        "RBP_key": 3,
+        "name": "HNRNPL",
+        "key": 3,
         "count": 2,
         "scores": [5.646255466778323, 5.646255466778323],
         "positions": [
@@ -1746,8 +1746,8 @@
         ]
       },
       {
-        "motif_name": "ZCRB1",
-        "RBP_key": 20,
+        "name": "ZCRB1",
+        "key": 20,
         "count": 2,
         "scores": [6.875101745703186, 6.007558706118782],
         "positions": [
@@ -1756,8 +1756,8 @@
         ]
       },
       {
-        "motif_name": "QKI",
-        "RBP_key": 23,
+        "name": "QKI",
+        "key": 23,
         "count": 2,
         "scores": [5.89973454955886, 8.089853284109715],
         "positions": [
@@ -1766,8 +1766,8 @@
         ]
       },
       {
-        "motif_name": "RBM46",
-        "RBP_key": 32,
+        "name": "RBM46",
+        "key": 32,
         "count": 2,
         "scores": [7.30481018693543, 5.239140830869588],
         "positions": [
@@ -1776,8 +1776,8 @@
         ]
       },
       {
-        "motif_name": "PCBP2",
-        "RBP_key": 41,
+        "name": "PCBP2",
+        "key": 41,
         "count": 2,
         "scores": [5.415269848832693, 7.708479401509176],
         "positions": [
@@ -1786,8 +1786,8 @@
         ]
       },
       {
-        "motif_name": "FXR1",
-        "RBP_key": 54,
+        "name": "FXR1",
+        "key": 54,
         "count": 2,
         "scores": [5.687522587435691, 6.576776198277287],
         "positions": [
@@ -1796,8 +1796,8 @@
         ]
       },
       {
-        "motif_name": "PABPC3",
-        "RBP_key": 60,
+        "name": "PABPC3",
+        "key": 60,
         "count": 2,
         "scores": [5.914536586854139, 5.497918051755814],
         "positions": [
@@ -1806,8 +1806,8 @@
         ]
       },
       {
-        "motif_name": "IGF2BP3",
-        "RBP_key": 65,
+        "name": "IGF2BP3",
+        "key": 65,
         "count": 2,
         "scores": [6.021011860192145, 5.079921686683882],
         "positions": [
@@ -1816,8 +1816,8 @@
         ]
       },
       {
-        "motif_name": "MBNL1",
-        "RBP_key": 73,
+        "name": "MBNL1",
+        "key": 73,
         "count": 2,
         "scores": [6.817835954118824, 5.925977418237416],
         "positions": [
@@ -1826,109 +1826,131 @@
         ]
       },
       {
-        "motif_name": "RBM45",
-        "RBP_key": 11,
+        "name": "RBM45",
+        "key": 11,
         "count": 1,
         "scores": [5.568400665139728],
         "positions": [[93, 99]]
       },
       {
-        "motif_name": "MATR3",
-        "RBP_key": 12,
+        "name": "MATR3",
+        "key": 12,
         "count": 1,
         "scores": [5.794397681549874],
         "positions": [[61, 67]]
       },
       {
-        "motif_name": "SRSF10",
-        "RBP_key": 22,
+        "name": "SRSF10",
+        "key": 22,
         "count": 1,
         "scores": [8.599980071354306],
         "positions": [[435, 441]]
       },
       {
-        "motif_name": "PABPC4",
-        "RBP_key": 29,
+        "name": "PABPC4",
+        "key": 29,
         "count": 1,
         "scores": [5.167846858088126],
         "positions": [[218, 224]]
       },
       {
-        "motif_name": "FXR2",
-        "RBP_key": 34,
+        "name": "FXR2",
+        "key": 34,
         "count": 1,
         "scores": [6.6989883499781],
         "positions": [[55, 61]]
       },
       {
-        "motif_name": "FUS",
-        "RBP_key": 38,
+        "name": "FUS",
+        "key": 38,
         "count": 1,
         "scores": [5.549358615613437],
         "positions": [[484, 490]]
       },
       {
-        "motif_name": "HNRPLL",
-        "RBP_key": 40,
+        "name": "HNRPLL",
+        "key": 40,
         "count": 1,
         "scores": [5.252675156614069],
         "positions": [[208, 214]]
       },
       {
-        "motif_name": "RBM6",
-        "RBP_key": 42,
+        "name": "RBM6",
+        "key": 42,
         "count": 1,
         "scores": [5.0383844723258715],
         "positions": [[420, 426]]
       },
       {
-        "motif_name": "RBM42",
-        "RBP_key": 50,
+        "name": "RBM42",
+        "key": 50,
         "count": 1,
         "scores": [5.220380427277244],
         "positions": [[30, 36]]
       },
       {
-        "motif_name": "KHDRBS3",
-        "RBP_key": 56,
+        "name": "KHDRBS3",
+        "key": 56,
         "count": 1,
         "scores": [9.74463527181886],
         "positions": [[283, 290]]
       },
       {
-        "motif_name": "SNRNP70",
-        "RBP_key": 61,
+        "name": "SNRNP70",
+        "key": 61,
         "count": 1,
         "scores": [9.52013428727616],
         "positions": [[474, 480]]
       },
       {
-        "motif_name": "RBM3",
-        "RBP_key": 66,
+        "name": "RBM3",
+        "key": 66,
         "count": 1,
         "scores": [6.032463733130101],
         "positions": [[36, 42]]
       },
       {
-        "motif_name": "CNOT4",
-        "RBP_key": 68,
+        "name": "CNOT4",
+        "key": 68,
         "count": 1,
         "scores": [8.488155104435176],
         "positions": [[455, 461]]
       },
       {
-        "motif_name": "ENOX1",
-        "RBP_key": 72,
+        "name": "ENOX1",
+        "key": 72,
         "count": 1,
         "scores": [5.16252897305814],
         "positions": [[457, 463]]
       },
       {
-        "motif_name": "RBMS1",
-        "RBP_key": 76,
+        "name": "RBMS1",
+        "key": 76,
         "count": 1,
         "scores": [5.585619718454141],
         "positions": [[283, 289]]
+      }
+    ],
+    "miRNA": [
+      {
+        "name": "miR-111-6p",
+        "key": 1,
+        "count": 3,
+        "positions": [
+          [22, 30],
+          [29, 38],
+          [49, 55]
+        ]
+      },
+      {
+        "name": "miR-999-xp",
+        "key": 2,
+        "count": 3,
+        "positions": [
+          [463, 30],
+          [480, 3],
+          [7, 55]
+        ]
       }
     ]
   },
@@ -1937,8 +1959,8 @@
     "seq": "GTTAGATTTTCCTTTTCAGAGTAAGAGGGACCATCTCCTCATGAACGTCAAATGGTACTACCGTCAATCTGAGGTTCCAGATTCTGTGTATCAGCATTTGGTTCAGGATCGACATAATGAAAATGGTAAATATGTCCTTGTGGTTTGATTTGTGTGTTTCTTAGCTTTGGGCAAAGTTCTTTCTAAAGACATTTCATTAAATGAAGATAACTTTTTGAAAAATGGATTTTGGAGTGTTGGTAGGCCTTATGCTTGATGATTCACATTGGCTACCAGTTAGTCACGTGAGGTGGgtctgtccctctctagttccagatgaggaaactgaggttgagagatgctaaggacgttgctggggccatgcattgtctaagtggcagtgctggcgctggcatcaaactttgcctggccctgatcctgctccacttttctcaCAGTCAACAAACCAATGAAAAACAGCTTGGAAGAATGAtgttctttttttatctttctgttttttttttttccttctttGAAACTATAAAAAAACCTCTGTTAAAGCGTGTAAATTATAGTTCCTTGTTAAAAATATTCTTATCAATGGAAACTGTGTAAGTTCACTCCATTTTGTAATATTTAGCAAGAAAAATAAGACAGGATCACTAAGTATTTTGGTAGTTGAAGGAGGTGCTAGGATAAGATAGTTGTTTTTCTTCTTTTTCCATTTGTGCTTAATCCATTTTGGCAAAATATAGGGTCTTACTAAGGGGTATAAAACATAGCCAAGAAGATACTTTGTTGACAAAAACTGTACATTCTGTTATTGTTATTCTTGCAATTTATGATTCCTCTTCTCTATTTTGCATACTTAACGATGCTAACCAGGCCCGGTTATTTAGTGGGTGGTAAACGTGAAAGAAAAGTTTTACAAAttttttttACTTGTTTTGGGAAACTCAGTTTTAATGTCGTCTTAATTAATTTTTTGACAGACTCTGGAAGAGAACTTGTCATTACAGACCCAGTTATCAAGAACCGAGAGCTCTTCATTTCTGATTACGTTGACACTTACCATGCTGCTGCCCTTAGGTAAGTACTGGAGACGTGCTCTTCCATGTGAAGGAGGAGTCACTGAGTGCAGGAGGTGGAGAGTAATTTCTCCTGATCTTTTAGTAGTCACTGTATTAATCAGACTCCTCTTTTGGCCTCAGTGAACATGCCAGTGTCCGCTCTGGATTGTTGAGATTGCAGAGGTTCTCCGTGTCTTCACTAATCTAGCTTTACTTCTCTCTCTCttttttttttttGATAATTTACTTTTTAATGCTGTTTCTATATTATTGTATCTTCATTTCCTTGGAAATTATTATCCTGGTATTGTTTGCTGAAGTATGTGGGTGAAATGTTCCGATGggccaggtgtggtggctcacatctgtaatcctggcattttgggaagctgaggtgggaAAAAGTGTTCTGATGGTCTGCAGTTTACTTTCTAAAGATTTAATTCCTGCCACTAGAAAagacagagaaatggatgaagcagatatggcagcgtgtaattacttgagaacccaggcaaaatttatagagattttcattgaactattcttccattttctgtatgtctgaaaAATTTCCTACTATACAGCTTCATTGGCAGGGGGAGGAGATGGGTAGAAAGATATTGAAGATTTCATTCTGAGGCAGAAGGTAACATTCCAGCCAGTCATAATGTCTTCAGAAATTATGTCAAAAAAATGACCATGACATTTGCATCTTTGGGTATTTTCTGTCTCTTTCAAGAAAAGGATGCCCATAATGGCTCATTTTGTGTGTGTATGGCTGACTTTGTGCCTTTTAAGTGGTATAGGAAGTAAGACTACTGATATTCTTAAAACCCTTTCCTCACTGGAAATAAAGTGGTGAAAGACTACtttttttttGTTAAGTACTGTAATATGGTTTTAACAAAATACTAGGATTTTGGTAGCTTTTATCTTAAAACTACAATGAGTTACAATAATTTCTCCATTCTGATGCTCAGATGGTATTCAGGAAAACCACCTGGAGTCTTTTTTGCAAAGCTACATAGCTAAAGTCAGTTATTTCAAGGTAAATTAGTAGCAACTTTAGGGCAGGCTTTGGCAAGCTTTTCGGGTCAGCTGATGTTTcacatggtatctgttgcagtgactcagctcagccattgtggcataaaagcaatagacaacatggaaataaatgaagtggctgggctgcagtaaaacttgatggatattgaaatttgagtttcatttaattttcatgtgtcaggaaatattcttcttttgctttctttttcagccatttaaaaatgggaaaactcttctctcaggccacaggaagcaggcggtgtgccagatatggcttttctggccatagtttgccaactcTGCTGTGGGGTATGGCATGGATGTAGTTAGGTTTGACTTCTTACAGGAATTTAGATGAATTTAGAGAGTTTCTCAGTGTTTTATAAACTTCTTGTGAACTTCCACAAGCTTTGTGTGACTTTTAAGATTGGCTTTCCAAGCTTAAGCTCACTTGCTGAACAAAGGAAGTTAATGCAGGGTTGATTATATTGATGGAACAGTTAAattgttacctgggaccagtgacttaatcctggaatattgttagctgggaccagtgacttaatcctggaatattgttagctgggactggtgacttaatcctggaatattgttagctgggaccggtgacttaatcctggaatattgttacctgggaccggtgacttaatcctggaatattgttagctgggaccgatgacttaatcctggaatatttcttgtcttttttttttttttttttttgagacaggatctcgctctgttgtccagcctggagtgcagtggtgagattatggctcactgcagcctcaaactcctgggctcaggcaatcctacctccccaagtagctgggactacaggtgtgcaccaccacacctggctaatttttgtatttttcatagagatgagcttttaccatcttgcccaggctggtcttgaactcctaaacttaagcaatccacccactttgacctcccaaagtgctgggattgcaagtgtgaaccaccgcactcagccAAATCCTGGAATACTTCTTACACTGGTTTGCATACTCTTTCCTTCCTGTTTCCGTCTTGTCTCACGGGTTGAGGGAAAAGATTTTAATCGATTTAGAGTTTCAGTTGAACAAATATGTGAGATATGTAACTGTATTCAACATGTTTTGACATAAATGCTTAAAATCAACATATTTGAGTACTTATCATTGGTATTGAGATTTGTAGAATCtttttttctgagacggggtgttgctctgtcacccaggctggagctcagtggcttgatcttggctcactttactgcaacctccgcctcctgggttcaagtgattcattctcctacctcagtctcccgagtagctgggactacaggcatgtgccacgatgcccagctaatttttgtatttttagtagagacagggtttcaccatcttggccaggctggtcttgaactcctgacctcaagtgatcacccacctcagcctcccaaagtgctgggattacaggcatgagccaccacgtctggccCATTTTTATCTTTAGCATTTTTAGAAGAACAAGTTATCCTAAATAATTCCATCTGATTTCCATGAATTTACTGTAGCTAAGTTTACAATCAGATGTTTCTTGGAGATGTGTAAATGTGTAAGTCACTGTCCTTTCACTGGCCACCACAGCTGGAGTGCTACAGTGGTAATACTTTATCTTCTTTTCACTGGGTATATAATTATAATCCTCATTAATTAGtttttttttCTCCTGTGGTGTTTTCTTTAAAGTGGTCATAAAAAGTGGTAGCTGCTTTATAAAACTTTTACCTTGAATTTGATTTTGTAAGTGTCAAATACAACATCCTTTTGTGACTTGGATTTTTTTCAAAGACATCAGATGACAGGTGGTTGTTTGGTCACTGAACAAgctggcctaatggtgcagtgtcgcgtgagtgtgtggatgtgctgatccagtggtgcagtgtcacgtgtgtgtggacacgctggctttgtggtgcagtgtctcgtgcatgtggacgcgctggcctaatggtgcaattttacgtgtgtgtgtggatgtgctggcctagtggtgcaattttgcatgagtgtgtggacgtgccggcctagtagtgtagtgtcacgtgtgtgtggacgcactggcttaatggtgcagtgtctcatatgcatgtggacatgctggcctaatggtgcaattttgcacgtgtgtgtggacgcactggcctagtggtgtgtcgcacacgcatgtgtggatgcactggcctacttgtgtggtgtcacgattgtttgtggatgtactggcctagtggtgctgtgttgcacgcgtatatgtggacacactggcctactggtgtgtcacgtgtgtgtggacatgctggcctagtggtgcagtgttgcacacatgtgtgtggacgagctggcctactggtgtggtgtcatgagtgtttgtggacttgctggcctagtggtgtggtgtcacgtgtgtgtgaacgcactggcctagtggtgcagttttgtgtgtgtgtggacgtgctggcccagtggtgcagggtcacacgtgtgtgtggacgcacttccctaatggtgcagggtcgcgtTGCTGTCACTTAGTGATCCGGCCTCGCTCTTGGCAGCAGCGCTCACTGTGAAAGAAGCTTTGCCTGTCCCATTACTCCCATAAAACAGAATGGGATGGCAGTGCCCCCCAGCAGTCTCTGTTTGTTCTCTTTCTCTTCACGAAGGTAGATTAGCTTAAAAAATGTTTGGGGTGTATTTGGTGGGGGATGGTTAAAGTTAAGCTTTACCttttttttCCAATTTTCTTCTCATAGTTTATTCACAGAAATAATTTATTCTTTCTCCATAGTTATAAACCAGTACTACTAAAAATAAATTCAATTTTGAGAGAGATACAAATAAAATAGTCTGTGGGCACATGaaaagggatcaaacaaatgtaatgaaaaaaaccatggggaacaaaaaagaaaaaagaaaaaGACTGATCATGTTAGTGCTTAGCACCATTCTTCTTGAAGATCAAAGGGCTCGGTTGTGTGGTTTCATCCGGTCACAGTAACTCTGAGGGGGCTCTTGCCATTCCATTCACTCAGGAGGAAACTGATGTATAAGGTTTGCTTTCAAGCTGGTGCTAGAGTTGGGTTATAAAGGAGGAGAGAGAGCTTTATCCTTTAGCCATGGTGAATCAAAAGGAAAACAAAATGCCCTGTAGTTTCTTTGTAAATTGTGAGATTATAGCTTTTTCCTACCAGAGTTTCTTCCTATAAGAAAATCTGAGCCCTTCGCAGTTGTAGAAATGTGTGTTGAAGTTCAGCATTACTGCATTGCTGTTAGTTTTGAATTCTTGACCTTAGCTATCCCTTATCTCTACCTTTCAAGGTAAGTTTCTACAGCTGCTGATCTTATTTCATCACACTTTATCCATAACCACCATAGAGTAAAGTTAGCATTTTGAATATTTTTTGAGTTCTGTTTATTCCCGGGTAAGAATTTTTGGCTggcattgtggtataatagactgaagttagaggacttgtgtttgagtcctggctctgctgtagccttgtggccagtgtcacgttttttaacgtttgagcTAACCTTTGACAaacttgttcaaggtcacatgactaatgacagaatcctgaaccaaacacacacatctggttccaCATCCAGTATGGTAAGGAGTGTGAAAGTCCCTCAAAGAGCATCTCAGGCCCTAGTAACATGTGTAGTACACTCCATAGCTCATTGAATTTCTGCTGAGTTCTTAAAAGTATAAGTGGAAGAAAAGAAAAAGTGAAATTAAGTGTAATTTTGTACTGAGTTAATGATGGTGTAATCACTCAGCATACACTTATTTTACTATTTCTCTGTGGCCTGTTGGCGGAGGAGGGATTAGATATTTAGATTCCTTCAGGTATATGGAGAAGAGTTCAGCTTAGGGAGCTATCTCAACACACTCCAAGAACGAGCAGATAAACTTGTAACTTGTAATTTGTTTTCTGTGCTACTTTTTCTCCCCTAAGGATAATGTTTTATTAAGGATCCAAGGATCTGGAGTGATTGCTTTGTGATTGGACTGAGGACATGTGACCTGGGGAACATTCTTGGGTTTATTGTGTACTCGCATCAGTGCATTCTCCAGTATTGATTGTGGAGGGCAGCACAGGAGATCGTAAGTGTCTTGCTGACTGAGGACTGTTTTCCAGCTTTCTGATTACCTGCTTCCTATTTGGAGGAGTCACTTGGGGAAAGAAATATCCTACTGCAGGTCAGGTTATAGGCTGTCATTTTACCCAGGGGCTCCTATTATAGGAAGATGCTTTAGGATGAATTTTCTGGAAGACCAGGGCCAAGGAGCCCTAAATTAGCTGTTTGAGGCTTCCAGTCTGTTTCTTTTCATTATAAATTAATTTATCTCCCTACTTTGTTATGAGCAACTAGGTTCATGTATATGTTTAGGGCTTGAAACAGATTAGTCACATCTGTGGACAGTTTCCCAACCATTCCTTAAAACATTTAAAAATCCTTTAGTggccgggcacggtggctcacgcctgtaatcccagcactttgggaggccaaggtgggcagatcacctgaggtcaggagttcaagaccagcctggccaacatggcaaaaccccgtctctactaaaaatacaaaaaattagccgagtgtggtggctggtgcctgtagtcccaggtactagggagactgaggcaggagaatcgctttaacctgggaggcagaggttgcagtgagccaagatcgtgccactgcactccagcctgggtgacagagcgagactctgtctcaaaaaaaacaaaaaacaacaacaacaacaacaacaaaaaacaCCCTTTAGCTCCTGCAAGTTCTGTAAGGAGTTTCATGGTGTCTCAGAGCTCTTAGTTTTGCAGTTTAAGAATCCTTATCTGGCTTTAATCTACAGTTGTTTTTATATGTGAAATAACTTTGACCTACAGCATTTTTATTGTTTTGTCTATACATGCTTAGTACTTCATTAGACATCATAACCTGTCAATTGCTTTATTTATTCATTCATCATTTAACACTTTTTATTAATCTACTAGTAGATGAAGGGCTCTATATTTGGTGATGGGAACCTACCCAGTAAGATATTCCGTCTGCCCTTGAGTACTTCATAGTATTTGAAAAACTTTCttttatttggagctatttttagacacacagcaaagttacaagtactcaggttcaatatatccctcccctaacctcccacaatgtgaacttcttctacaactatagtacagttatcagaaccagggaattaacattgatacaatagcattagactaaagattctctttgattttcagcaatgtcctcgttgttgttctaggatcttatatgggatcccacattgcatttaattatttctccttagtctcctgcagtgtgtaatggttctccagtctttccttaccattcatgaccttccttggtattgtaaatattattgatcaattgttttgtcaaatgtccctcaatttggcttttctgaagttaggcattttgggcaagaaccacagaaattacatgtttctgagtgcatcttatcatgggcttcatgaggttgataatgtctaattactggtgacattgaccttgtccacttgatgaatgtggcttctgccaggtttcttcactgtaaagcagattttcccctgtgcttaattaacctgggagatactttgacactctgcaaatcatttatctccttaaattttcacccagtgattttaagcacctatcagtggatttcacctgtaaaagttacttttgtgaagcttgcctatggtggtttttcatttttttttcttttcttctacacttattaattggaattccactgtagtaaagaaatctcccttttatcccataaatctatttgagtatttacatcagcatgaacttacggatatttattttgttttgttataatttattattttttgttttattgcccagctttggccattaggagctacttcagattggcccctgcactttatcagcaaacttctgtatttttttgagcactttcttatttctagctccacaagatgttctcaggctcgttttttattttctaacttccagcgctggaattagccattctgtgaggaaccggggttccctttagtggagagcagtgtttagaaaccaagatctgggtattaggcatgtgtgttactactggatatcattgtttctagatccagttagcaggcagagctaggatgtgtatgtataccagcctgtgcctattaacttcccctaactccagacttgtaaggttatattaatttcaattccagtccaacactagaagattttattttattttttttgagacagagtcttgctctgttgcccaggctggagtgcagtggcgtgatctcagctcactgcaacctctgcctcctgggttcatgcaattctctgcttcagcctcccgagtggctgagattacaggcacccacccccacacctggccaatttttttgtatttttagtagagatggggtttcaccatcttggccaggttggtcttgagctcctgacctccggatccacccgcctcagcctcccgaggtgctgggattacaggcgtgagccactgggcctggcctgaagattttattcttcactttccgttatttataactgctttctccaacacagaagaaactcagttctcattgtctaaaatatacttacttgtttttgtttaattctcaaatgcatacaacttagtttcagaatttgtaacccacgtcttggtgagaaacccgtttattgactctttttgttttcggtcttatagtgccaaatactgcttttcctcttacttaggtcagttctgttctttcttacctccttatgtgcatttgtttatttgtaatacatttaggttcatttgttgctgtttacatcctatttttggtttctccttgttgacctggactgtttattttatgggtgtgtgagagcatgtggactattgctgtggttctaagagtcagggttataagaagatactcttcaaccctgccaccatgttcccatcctctacttctttccctcttcgctcccaccttgctgctctaggttactgatcattttacttgctggatcatccttccagcattttcttttcacaaatcagcagatacatgcctcttttcttaaaaccccgtctttcttatatgaagggtagaatactgtagatggtcttttgtactttgctcttttcacttgatgacagtatattgtgggaattgctcttatcagttcatagaggactttctcattctcttttacttccttatgttgatatactgtagttgatataactgctctcttgtgcatgagcatttacgttgttcctaggattttgcaattataaatgatgctgcaatgaatatctttgtgcatatatattttcttatcattgggaacgtcagggtgcatttataatagtgggattgctgggttgaaaggtttatgcctatgcggtttgttacatattaccaaatttcccttcagctggcatgtaccaatttgtgttccttctgataagtatgaagcagcctgttttcctaatagaatgttttgtctttttaaatttttacaagtctgataggtgagaagtgttatctccatgtttttattttatttcactaacaatgagtttgaacattttttcatatgtttgaaggatatttttgtctcttttttgtaaattgtctgtttatgtattttctattgggttttctttttgttttacttttaaaaagtgctttatacaaccgtggtacatggcaattgttgcaaatatttttctcccacttttgtcagttttcatttaattttatttgttgtattttttattgtgtaaaatgtatttttatctaatcaaatttatcagtcttttattgcctctggattttgagtcatagttagaaagcctttccctacaccatatttaaaaaataattctacccagttgttctaggattacttattaaaatacctatgttgattgtagtggtttgagatgtcaccattgtcttgctttccatatgtattttgtacttgcttttttgttttgttgttctattgtctatgtgtcagcactacactctgaattacagaggctttatagtatgttttaatatatgttcccctcttttttagttatttgtttttccatgtgaagcttaatattttgtttttttttttttaaaaaaaaagcttgttggtatttgtactgggattgtattggatttattaattaatctgtggagaaatgccagtttgagttttcctatctaagaacatggatgttttaccattgttcatatccccttttttgtctttcaggagtgtttaaaaatcttccttgttacagattttgtacagttttgGACTTTTTCCCCCTAAGCTAATAATCTTAAttttttttgttttttttttttgttttgttttgagacgaagtcttgctctgtcgcccatccttgtagtggcgccatcttggctcactgcaacctctgcttcccaggttcaaacgattctcctgcctcagcctccaaagtagctggcattacagacgcccaccaccatgcacagctaatctttgtatttttagtagagacaaggtttcactatgttggccaggctggtcttgaactcctgacctcttgtgatctgcccacctcgacctcccaaagtgctggaattacaggtgtaagccaccacacctggccTACAGACATACTTTGAACTCTATCCTGTAATAATAAAGAATACACATTGATTTGTGTATCTTGCCACCTTCTCAAAAATTGGTCATATATTAGATCACAGaaaaaaaaTCATTCCGATTAAAATGCAATAAAATTGTAGTTTACTAAGGAAAACAAAGAACAGAAGACCCTTTCACCTGGAAATTTAAAACTTCCTGTTAAGCAACTCCTGGGCAAAAGGGGAAGTACAAACTAAAAttatatatatatatttttatttatttttatttttatttatttatttttGTccaggcatggtggcccacacctgtagtcccaacattttgagaggccaagctgggcagattgcttgagcccaggagtctgagaccagcctgggcagtatggtgaaaccccagctctacaaaaaattgttgggtgtggtggcacgcacctgtagtcccagctaccgggaaggctgagctggaagaatcacgtgagcctgggaagttgagtcttcagtgagctgagatcaaaccgctgcacttcagcccaagtgacagagggagaccctatctcaaaaaaaaaaaaaaaaaaaaaaaaagactgggtatggtagcttgcacctgtaatcccagcactttgggaggctgaggcaggcagatcacgaggtcaggagatcaagacaatcctggccaacacagtgaaacctcgtctctactaaaaatataaaaagttagccgggtgtggtggcacgcgtctgtaatcccagctactcgggaggctgaagcaggagaattgcttgaacccgggaggcggaggttgcagtgagtcgagatcacgccattgcactccagtctgggtgtcagagtgagactctgtctcaaaaaaaaaaaaaaaagaattttttattaataatttattttttattattaataattttttattcttaaGACTCCATCTTAATAATGATAATAATAGCTTTCAACAGATTTGCTACTGTAAACATTCTGTGTGTGCTCGTGCACGTTGTCCTGAGTCTTtggagtttgcgcatgcctggggatacgggaagaccttcccagttattggtaattttaagagagtgaatttctaggccacagttttcatttgtattgtctccttacttaagaggggctctcttgtctcttcttcatccttttcatatagccacctcctcttggtagccagaagacccttcggatgatgccccaggtgtaaaactctctggggcccgccccactcggaaggattactgaaatgagtcatttccgggacgccttttttactgttgaatgaaaggatgctaacacatggggcttccctgtctttagtcatatttctgttaacagtgaagcattgctttagatacagagtatacaagactttaggaggctctggaactggttatttcagcaaggtggatgtgatggcaattttctcttaacggtccctcctcatctattctgtaaacaatgtcaaataatgtcctacttttgacagagatcatggtgagaagagtgctctgataaaaaacactgaatacttaaaaTCATACCCATACTTCTGCACACATATACACACATTTTTAAAGGTAAACACTGTTCATCACGAGTTGATTTGTAAAATACTTCAAATGGGTGCCACCCAGTCAGAGCCAATCCTGGTGGCCTTACCTGGTTATGGAAACCCTTTCTTCAGCTCTGCTCAATACTCAGTGTTTGAGGGCTGGCTAACTGGCAAGATTATGAATCATTACCATATGGCTACAGCTATATGGTAATGATTCTCATTGTTTTACTTTCCTCTAGTAGTTTTttaatatacagtacaatgtagattttaagtgtacattttcagaaatgtgtttgaccctaaacaagacctggcatattcccctcatctcaggaagttccctcaagatccttccctctaaaaacttcccacccaaaatcaccaactgttcaggtttctctcactataaattattttttcctcttctaaagctcatataagtggaatcatgcagtgtatactgtttttgtgtctggcttcttatactcaacatttaatttttgagatttgtccatggtattttatgtatcactagatctttgtgtagtattttattgtacatatatacgatttgtttatttccctgttgctgcacatttgggttgttcctaggctattatgaataaacctttcatgaataATAGCAACAATAAAAATGTACAAAGAAGGAAATAATAAAGATAAAAACAAATTTGGGAGGAAGAAAACTTAGATGTAGTTAACCAAATTCTTTTTGTTTTTTAAAaatttaataccttgtttaaaaaatacattatgaccagctgggatttattccaggaatgcaaggttggttcaggttttcactctattgatagcatatatcaaactattaactctaaaggaggaaaCCAGTCAATTATTTCCAATACTATGATTATGGTTTGATTGTCTGTAAagctagtgtcatatttaataggaacacatgagagacatttccactgacatcaggaactagccaaggatgttcactctttccacattgtattagaggtacagtgcaattagaagcataagaaaggataaaaAAGTGAAATGTTTAAATGTCAGTACCTTTCACATATACAAACAGAATCAAATAGAGAAAGGGCTTGATGGTAGAGAAAAATCCCATTTACGACAACTTCATAATCATTTATCAGATGAAATGCTTCTATTCCTGTTGCTTTTGGCTTTCTGTAAGCCAGTAGTTtcttccctcacaggagacatttggcaagtcttgagacattttttgttgtgaggaagaaatgtgtatgggtgcttctaggtagaggccaaggatgctcttaaatatcctacaatgtacaggacagcctctgacaataaataattatttagtacaaactgtcattagtgccaagattgataaaccctgCCCTAAACATACCTGATTTCTAGTGGTTGTGTTTAGAGTTAAGGGTTTTCTTTACCTTTAATTGATACATTAATTACTCCAGTTTAAGAGTGAAATAACGAACAATAATAAAAGAAGAATCAATTTCCTTTAGTAATGTACAATAATAGGAATAACTTACTTTACATAGCATTGTGTAGTAGAGTTTTGTAGGCTTTGTCTTTATAAGTGCAGTAGGTGTTATCTCTATTTTACTGCTAAAGGAACCTATTTCTTCTGGCTTTCGGGGATTAAATCACCTTGTATGGATGAGTGGTTTCAAAGTGAGCTAGTTGTTCATTTGTAAAAAAGATCATACCTGCATTTTCTTTCCCAGAAGCTTATTTTAGTTCTAGTTAAATACTAGAAGAGGCAGTTCTGGGCCTGGGAAGTTGATGCTTAGTCTGTATTTTTCCTTGAATTGGATCTTACTATCTACAAATAGTAGGTATGAATACTATagcacttctaatagaactttctgctgtgatggaaatgtcttataaatctgtgttgttcactatggtagctagtagccatacgtagctatttagatttacataagatcaaataatttatttgttaagatcaaataaaattttaaattcagttctcagttttatcagtgttgtttgaagtgctcagtaaccCTGGAATACTTTCTATTCTGTAGCTTCTATTCTATAGAACTATAGATACTTTCTAATCTATAGTTGCCAAAGGGACTTTATATCAACAGCATTGTTATTTAATTTAAAAAATGGAGATGGGggctgggtgcagtggttcacacctataatcccagtgctttgggaggccagggcaggaggatcacttgaagccaggagtttgagaccagcctgggcaacctagtgagactcccatctacaaaaaattttaaaattaaccaggtgtggtgagatggggtctcaactaatgttgcccaagtttttcttgaattcctggcctcaaataatcctcctgtcgtagcctcccaaagtgctgggattacaggtgtgaagtcactgtgcctggcTGACCCTGCTTTGGTTACAGGTACTTAAGCCCTTAAGGTAAAGAAGAACCTTGCTTTTTAATTTCTTGGTAGGAAGTGAATGAATGAACCCACGCTGATAACCCCTCAGCCAGCTTCTCTTCCTAACACTGTGGCCATTAGCTGGTGTGTATGTTGTTACCGTGCATACTCATGGAGTTCTTATCACAACAGATAGCCTGCTCAAGCAGTGGGAGGCCACGTCCTGGAAGTATGCTGCACGGCTTTTGATATGAAATGGGAACTTTTGGTCCTCCATTTCCATCTAACCTCACTGTAGCCTTTGGCTTCCACTTGGCATTAAAGTGACCAGGAGGGAGTTAGAGTTCTTAAGCCTCCCCTGCCTCTTTGGGAATCCTGGAGTGAGTGTATGTGTGCGTGTGTGTGTTTGGATTTGGAAGTTAGGCCTCACCACGTGATATAATGCTTCTGGCATTTACGTTGATACTTGGTGCATGGAAACATTGCTTAAGCCGTTTTGGAGTAAGTATTGTAGGGTTTTCAACTACAGGTTGGTTTAACTTTAGGTGGTAAATGAACCTGAAAACTTTACTCCACTTTATTTTAGTATTTCTATGGGAAAGTGATTTCTAACCTTATAGCCATTTAAAGTTACCCCAAAATTTGAAAACTCCTTGTATATTGGGGCCCATGTTTATGCAAAAAAGTTAAAATTTCTCTAGGTTTTAATTTCCAAGTAACTTTATTTGTTGCACATTGCAGGAGAAGAAAAATGTTTATTGGCCAGAAGCTGTATTCCAAAGACATGTCAAATATTCCACATTTTAGCTTTAAACAGTTAAACTTTCTGCCTATCATAATATAGTAGGAAGAAAGGCTCAtttttttttATGATTTAGAAAGGCTTTAAACTGAGTTTTTCTTATATTCACAATGGTTTTAATTTTTCTCCATTTCTACTTTGTTTAATATTCTTTCTCATAGTCCTGTCTCCAGTTTATCTTTGTTGTTTTAATTAATTTTACTTTATTAGTAAAATGGTGATATAAAAGCAGTCAGATTACACAGGTGTACAGTGAAGCAGTCATGAAACAGCTGAATAGGTGAAATAAAGTGTGGTGTTTGTAGCCGATTCTCCATGCACATGGACTTAGTTCAGTGCTTCCTCCACCCTTCCCCCTCCAGTTTTGGTTAGCAAAAGCAGTTGAGGGTATTACTAATTATTTTTTTCTCTTTTTCCCAGAGGGAAGTGTAACATCTCCCATTTTTCTGACATATTTGCTGCTAGAGAGTTTAAAGCCCGAGTGGATTCATTTTTCTACATATTAGGATATAACCCTGAGACAAGGTAAGTGAGTCACTTGTGTCCATTCATTGAGAACTCTTTTCCTTTTCTCATTtgtgtgtgtgtgtatgtgtgtgtgtgtgtAGTTTATGCTTCTGGACATACACTAGTAACATACTTaaaaaaaaTGACTCCAGAGTCCTTCAGTAAACTTCTTTGGGAGGAGTTGTAATTAATGTCTTTGACATCTAAAGTGGCTTTTTGTTTGCTCTTTACTTTTATTCAGAAAAAGAAAAATGAGAAAATTTGGGTTGAAAGAAGGTGGGATAAAGATATACTTTTAGTTTATCTGTATTTTGAATTAAGTATTAAGAATTGGTAGATTATTTCCCTGATTCACATTCTGTCAAGCCTTCCATAATACCATATTGAAAAAGACTAAGTAATTTTGGAAAGTTTGTTGGTTACTCATTTGTTTTGTTCACTCTTGGTAATAAAACTCCAGGAACACACACTGAAATATCTTTAGTAAGACTACTAGTATGAGTCAGACACATCAAGTTCTCAAAACATCTTGGTAAGATCTATGTAACAGTTTGAATTACTATTTTTTTAAAATGAGAAGCAATAGGGTCAGAGTAATTTAACAATTTTTATGTCTGTCATAGATGCTACTTTAATGTAGCACGTGGAAGAATTTTTATGAGTGTATATATTCATACTTGCCCTGTATTGATCATGTGACTGCATATTTTATTAAGGATTTTAAAAACAGGATGTTAGCCACTGATCAAGTAATATATGCTCTGGACACCCAAGACATGTTTATACATGTGAAGATTTAGAAGGAAATAAAACATCCCCggccaggtgcagtggctcatgcctgtaatcctagaaccttaggaggccacagtgggaggattgcttgagcgcttgagcccaggagtttgagaccagcctagctaggcaaaatggtgagacctcttctctcaacaaaatataaaataaaaattaactggacgtggtgggctgcacctgtggtcccaggtactcaggaagctgaggcaggaggattgcttgagcctgggaagtcaaggctgtagtgagctgcgttggcaccactgcactctccagcctgggcgacagagggacaccctgtcttttaaaagaataaaaaataaataaataaataaataataaataataCTTGGCTCAAAGAAGTTAGCAAAAGAACTACATTAAGTGTAAAGGCAAAATGGGTATCATTTTATTGAGAACATTTTTCTAGAGGACTTTCAGAAACCGTATGTAAAACTTAGAATGTTGTTGAGTAGTCAACGTAGGGGTAGAAGGGAACGTGTTTTTTGTTGTGGTTTTATGAAGCTGCCCACAGCTCTCTTGGGGCTCGCATTAGTGTATCTGTCTGTCTGTCTCCCTCTCTTCCTCTCAATATTGGATGCTATTTTCTAGACAGCATCAGAAGCTAGATTCTAGATAGTGCTTGATGTATGGATAGTAATATAATGCTCATCAAAGAGTACCTTTTCTCCTTTAGAAAACTGTGATGCTTggccaggtgtaggtgggtcacgcctgtaatcccagcactttggaggccaaggcgggcggatcgtgaggtcaggagtttaagaccagcctggccaacgtggtgaaaccctatttctactaaaaatacaaaaattagctgggcatggtggcacacacctttaatcccagcttctctggaggctgaggcaggagaattgctttaacccgggaggcggaggttgcagtaagccgagattgccccactgcacttcagcctgggcaacagagcaagactccatctcgagaaaaaaagaaaaaaaaaaggaaaagaaagaaaaCTATGATGGTTGAGTTTGTTTGTTTGTTTTTTCAAAAGTATGCCGTGTTCCAATGATAAAGAAGCTGGTCAGTGGTAATATTTCTTAAGCATCTGATATTTTGAAATGTTTATTTTACATATGCATTTATTGGCTACCTTCTCATGTCTTCCTGTTGCCCAGGTAAATTGTAAAATGCTTGAACTTGGATTTCTCTCTAGATACAAAGGAATTGGATGTTATTTTAGTGATATTGTGCTTATTTAATCACTTGATAGTTTTCCTGTTGCACAAGTTATATTAATTAACTAAAGTAGCTTTTGTCTTTTAACTCTTCAACTCTCAGGTTTGTAACAACTAACCAAAATTATTTTTTACAAATGTTAGTTATACATGTTTTGCTGAATGCTTATTAAAAGTAATATGTAACTTACCTTTGTAAACCAGGCACTCACTCAAGTTCTTTTCTTATTTTTCATTGTGTGCTGCTGACAGTCTTTCAGGGCAATACATCCCATCGGGTTTGTTTTAAAATATGGATGCAATAAGGAACACAGAGACATGATGATAGCAGCACACTTACAGGATCTGCATCCTGAATCACTTCCCTTAGTGACCTTTCTAGTCACCACTGATTTTCTTCTACACTTGTGTTCCCTATGTCCACCTTCTGCTTTGTGTGTTTTAAGTGCTTGAGTAGTGTTGGATGACTTGAACTGAACAAATACTTAAGTGCCCATTTATAAGTAAACTTTGAGGCAAATCTCAAACTTCTCACAGTTGAAGTGTAAAGGCCGTTGTAGACATTTGCAGCAGTGGAGCTAATGCAGCCTACTGCCTTGGCTTGCTGGTGTTATCCCGAACATTTCCTTATATCTCTGAAGTTTGGGGTTAGGGCTATAGTTCCCACAGCTGCTCAAATGATCCAAAAATGCATCTAATTTAACAGAGTGTAGAAAAACTGGCTGTGCACAGCCCAGTTCTTAGAATTCCCAGGGTGCATACCCTTGCAGAATTTACCTCTGTTTCTGTCTTTGTTTCACGTTTGTGAGGGAGGAGGCTGTATGATAAGCTGGTTTCCTATATAGTTTTCCCCCAGTTTTAATGAGTAGGACTAGTAAGTAGTCGTGGCTACATAGTGTACTGTATGCTGACTCTTAGTGCCCTGAGTTATTTAGGTAAGTATGTAAGTTAATGTAGAAAGGAAATGTCAAAGTTCTTCTGATTGTGTAATGGTCCTGGGCAATACTGCATATAGGAAAGTCCACTGGAAATTTAAGGAATAGTGATTCCATGACTGCAGACTTTCATGACTGTTGTCTCCTTAAATAATGCAGGAACTTTAAGTGAGCAGTTGAAAGTGAACCTTAAGATGGAACTGTTTATTTCTCAGAGCTGATTTTCCAAAAGTAGTTATACGTTGATTTATGTAATTTTCCATACTTTGTTAGCATATTGAACAGCACTGAAATTTTGGAATTTTTTTCACATTTATTTGCATAGATCCTTTTTAAATTTCAGTGTACAGCTTCATTTTATTTTTTTCTCTAACCTGGTCATTATATTTCTGAATGTTGTATCTTGTCAGGGATCTGAttttttttGTTCCTGATGGATTACCACTTATTGAACTAATAATGTGTGATAGTGGGAAACTGACTGACTGTTCTGTACTCTAGAATTTGTTGCCTTTAACATTTGGGAAGAATGGATTTCTTGGTAATTGGCATGGAATTACTTTGTTATTATTAGGTATAAACTTATATTTCATTCTTTTTAATCTAGAATACTTATTAATACTGATAAAGCATCTATAGTAATATagatccatactctcttatcttaaattctgaaatatgaaagttctgaagatctaacaaattttatgccaaggttggtgccaaaatgtatttgatggctgaacctaacctgaactgataggaggctatttatattcttaattcagttcactttgtgtgagtttgtgtaagttttactctaaaaatactaatatgatggaatatggattattacatgaacactgctggggtgttacatgctgtgatatatttgctgtagtgctaaaataaaaattctgaattctggtaaacctctcatcctaaggattttagataagggattatgactctgTATTAGTGCTAGCCATGAAATTTAAGTAACAAAACTTAtttttttgtttgttttgagacagggtcacactctattgcctcagctggagtgtagtggcgtgatcagggctcaccacagcctcaacttacctggctcaggtgatcctcctgcctcatcctcccaagtagctgggactgcaggtgtgcgccatcatccctggctcattttttaaattttttgtctagttgaggtctcactatgttccccaggctggtctctaaatcctgggcttcagcgatcctccctcctcagcttcccaaagtgctgggagtacaggtatgagccgctccactcagcGGGAACAAAACTTAATTGGGCAAAAATTTAGGGGGCATAATTTTTTGCCCAAGTAGAATACAAACTACTAAGAGATTGTGAAAAATGAGAGAGCCTTAAATCTAATGTTGACCTGACTTTGAACCCTGAGGTAATTGGGCTTTGCTTTTGGAGTTTGTTTTTGACATTTCTGCACTCAGGGAGTGTTCAGTTTTGTACATGTGAACAAGATTCATCCAGATTTACTTCTGTGGTGAGCATACTCTGCAAGTAATGTCATTGTGTTCTCTGTTTGTTTGAAGGGTCTGATCCAGAGTCTGCCAAGAAACTTAATAAAGTCAATAAATTTCAGCTCAGAGGTCTTCATAAATAAAGCCAGTTAGGAGGCCTTAGGTGCATTTGGCTAAAACACCAGCGTCGGTGGTTAAACTAAAATATAAAATAGATTGGTCTTAGCTTACAAAAAGAGATGACCATAGGGACGTGGTTATATGCCTCTCTTTACTGTCCTTAGTTGCTTTTTTCATTTGTCTAACACCTTCTAGCCATTTAATCTGACGGCTTGATCCTTCCAGCCATCTGGTAAGATCTCACCTcttggatctgggtggcctgggttctagtcccgtgctgctacttaatcctcgtgtccatgggtaaagcatgcactttctggactctgtttctccatcagtaagatggggatgatgaaagctaccctgcAGAAAACTTCTGTAAACTGTCAGATTTTTTGTTTCTTCTTGGGAATTGCAGAAGTAATTACAAATTTTCTTTTAGAGACAAGATTGAAAAATATCTGAtttttttttttttttttgagatggagtctcgctctatcgccaggctggagtgcagtggtgtgatctcggctcactgcaacctccacctcccgggttcaagcaattctcctgcctcagcctcccaagtagctgggactacaggcacccgccaccactcccagctaatttttgtatttttagtagagagggggtttcaccatgttggccaggatggtctccatctcttgacctcgtgatctgccctcctcagcctcccaaagtgctgggattacaggcaggggccaccatgcccggcTAAATCTCCTGCAGGCTGTCCGCTTttctcccacctcttctcatccttttctcccttctcctcttcctcttcctAGAAGTGTAGTTTTGCAGCAGTGTTGAGGCTTATATGTTACTATCATTATGTTCAGGAGCAGTCATAAACTTGAGGCATTTACAGGGACTATACTTTCTCTCTCCTAGACTGACAACTGCAATAATGTTAATAATAGCAAGAGTTAAGAGTTAGTGTGGTAGTTAGAATACTGTGTGCATTTTATTTTGTTTTAAAACAGAATAGTTCCTTGTAAGTAGAGTAGAAGACCTTTATTAActgaatcatttgaaagtatgttgtcaccctgaagctctttcatactccagtattttgtgtagttcctatgaacatgagcattttcttacataaccacaatacagccctcaaaatcaggaaattaacaatgaaaatattattaccatggtattctcaggccctattcaaattttgccggtgttcctaataaaaacctacaacagaaggatcttgtttggcattatggatttagttgtcatatttgtttagtctccctaaatctggaacagtttttcagttgcttcttggcttcatgaccttggaagagaataggccaattattttgtatcctgtccctcagtttgCGttattgttattatttttttaaatagcaatggagtattattatgttgcccaggctagagtgaggtggctattcgtaggtacggtttaagtgcactgcagcctagattaagtgatcctccctcccccctcAGTGATcctcccgggctcaagtgatcctcctgcctcagcctccctagtagctgggactactggtgtatgccactgtgcccagctgtccctcagtttgcatttatggtgtttccttattattagagttagatcgtgtatcacagaaattttgtgttcttttcttctgtatcctgtcagtatacaattcttatttgtccagttgctggtaatgttcactttgaccagttgctggacgtgatgtctgccaggttttgccattgtacggtgtctctttttccctttttaattaataaccattttgtgggaggttgctttgtgactgtgtagatctcatcttcatcaaactttcGatttattcatttatttagcggaataatggcctcctattttatttaattgtttataacctgctgctgttgttattcattttgaggtcagattgtcccagtgtttggagaatgatattttaaagcctagatttggtgctaagtgtgctcattactttgtgttgctgctctctgaccttctgagaaacagagctagggagtgcgtgtgtttgtatctatcgcatatataatgcacacacttgcacctatagttttgtatttatgtgtgtatattcataagttcatgtgaaattctccaagttcaatccagtactacagaatttctgctagtttattcccttttccttatgtgtaacattcttctttaacattaagaaaccttatttcattatttttaatgtctttatttcttAATTTTCTGTCACTTTGCTCTGTGACCTTGGGACCATTTTTTTCCTCAACATAAATCTTTATACTTAAGTGGAAAAGTTAACAATCTAAAACACCTGTATTTCAACTAATTTGAATTTGAGACATTCTAAAATTTACTTGCATTTGAGTAACAGTTCCCTTTTCCACTCACCACAGCTCGTGGTCTTTGTGTAGCTTTTGAAGATGAGCAGCTAGAGCTGGATACAAATTTTTTCCTGTTTGCTTTTATCTGCCATCACATTTGAATTCTCAGAAACATTTACCTGAGATGGAAAATATTGGAGATGGTTGAGAGTACATGTATTTTTGGAAAACAAAGCCTACTGAAGTTAAGATAACTTTAATAAAACAGGACAAAAGCCTGTTtttcatttgatcatttgatttgatcatttcaaaaaccctttgatcatttcaaaaaccctttgtcagataacatctaggaatgttacctggagtaatggaataacacataacaaaacttttaactgcggagctgagctccaaagaattaagagaaaCTGAAAACTAAAGCAGTAAGCTGATCTTTCAGTAGCTCATGGTGAGGCTGGATTGAGTTTGTTAACATTTTCCAACCTAGAGGGGAGTAACAGGGAAACCCACCTGTTTAGGGTTGGGATTCTGGGCCCTTCAGAATATGAGAACTCTAGGATAAGAAGGCAATATAAaaagtggtctcatgccagtaaacccttcaagatacctggcagaagcatatgtaaaatgttttttaatgggagacaccctcatccaagatcctgtaggatccccacagataaaatatccttgaatgccaagctcaccgtcagaaatatcggaagaaaccatgtaccattaactgtggtcagatgagacaaacagcaagacacacccgagaacttcaaatactggaagcttcagaaagagactgtGTAAAAggcttaaataaaatatcactttcatttctctctcatgtaagcagagtttgaaaggaagcactcctagactaggacctcacagtcatcaggggtccaccctttactaccttgtctgccactgttctcttgtttcaaggttggcaatgtagtgatggccattacatccagatttccgcctggaagaaagaggaaataggtaaaaactgcataccttctccctttaaaggcagtttttataatttgcattggataatttttttaatctcattagaccgaaAAGAAAAATAAATCAggctgggtttggtggttcatgcctgtaatcccagcacattgggaggctgaggcggtggatcacttgaggtcaggagtttgagaccagcttgatcaatatggtgaaaccctgtctctactaaaaatacaaaaaaaaagggccaggggcagtggcttatgcctgtaatcccaccactttgggaggccaaggcaggtggatcacccgaggtcaggagttcaagaccagtctggccaacatgggaaaccccgtctctactaataatacaaaaatttagctaggtggggtggcgtgcacctgtaaccccagctactcgggaggctgaggcaggagaattgcttgaacccaggaggcagaggttgcagtgagccgagattgtgccattgtactccagcctgggcaacaagagcaaaattctgtctcaaaaaaaaattaaaaataataatattagctaggcatggtggtgcacacctgtaatcccagctacttgggaggctgaggcaggagaatctattgaacccaggaggtggaggttgcagtgatccaagattgtgccattgcactccagcctgggtaacaagtgaaactctgtctcccccctccccggaccccccccAAATAAAAGAGAAAAAGAAAAATGAATCAGACTCATGCTTTACAGGTGAATTCTACCAGTGttccagagaacagagaaagttgttatgggtcccctgagtcattttatgaagctaataaaacctttattataaaaccaggttaaaaaaataaaatttataggttcaatcttatgaacatgaatgtaaaatgtttaaatgaaatgttaacaaacggagtctagcaaggtaaatatgcatgtccaaatttatagaatataagaatgccttaataatttatctgttagcatatgttgcctcttcgacatatagaagaagaaaacatagacaatcatctttttcttaatttttaatttttgtggatacatagcgtatgtatgtggtacatgagatgttttgatacaggcatacaatgcattatagacacatcatggtaaaatgggttgtccaccccctcaagcatttatcctttgtgttaaaaacaatccaattatactattttagttattttaaaatgtacaattggattattattgactatggtcaccctgtttcacagtcaaatactagaccttattcattcattctttttttgtacccatgcaatcatcttaatgtagaaaaagcacttgataaaattcaacgctctgtaataattggggaggggactcttagaaaaggaaaattaattgtagaatgaatttccttaatctaacagaatacttaccataaacttacagcaagcaccatagttaaaggcagagtgtggaaactttttcctctgaaaccagaaacaatagcaggatttcAATATCCATTAAGACTTGAAGAAGAAAATATGTGAGGGTTGGAAATGAAAAAATGAACATTTATTAATAAAGTATAATTTTCACCATAGGAAATCTGAGAAAACTTGTGAAAAAATTAgttttattgttggtgttggttttgttttgtgttgtgttttttttttttgttgaggtggagtctcgctctgttgcccaggctggagtgcagtggtgcagtctggcctcactacagcttctgcctcccaggctcaagtgatcctcccacttcagactactgagtagctgggactacaggtgcatgccatcacgcctgacttatttttgtatttttagtagaagctgggtttcaccccattggccaggctggtctcaaactcctgacctcaagtcacccaccacttcggcctctcattatatttgtgagcccccgggcccATCCAAATTGTTAAAGCTAATAGGTAAATCAGCAAGCTTCCtggatggatggatggatggatggatggacagatagatagaaagatggacagatagatagaaagttagatagatagatagatagatagatagatagatagatagatagatagatagatagatagatagaAAACTCAGTTCAGTTCAggccgggcgcggtggctcacgcctgtaatcccagcactttgggaggccgaggcgggtggatcatgaggtcaggagatcgggaccatcctggctaacaaggtgaaaccccgtctctactaaaaatacaaaaaattagccgggcgcggtggcgggcgcctgtagtcccagctactcgggaggctgaggcaggagaatggcgtgaacccgggaagcggagcttgcagtgagccgagattgcgccactgcagtccgcagtccggcctgggcgacagagcgagactccgtctcaaaaaaaaaaaaaaaaaaaaaaagaaaaCGAAAACTCAGTTCCATGTCTAGATATGCGGGGCAATTAGTAAATGAAATTTAAATAAACTGCTTCTGAATACTTCTCCTCTCTTGATGTGAAGTTAGTACTAATTAGAATATCTCTTCCAAACTTTTTCTCTAGAATTTCCTGAGTGTTGCTTCCCCTCCCCGCCCCGCCTCCCCATTTTGGCTTTAAAGTTTCTTGTTAATGAATACAACGTTGTAGACATTTTTTGTTTCTGGGAAGTAGGAAATTCTTTAAGATAAAACTTAGGCAATTTTCATGTTACAGCTTTTACTTACCTTTGATAGAGGTACATAATCTACTCACTACAAATTTAAGTATTATAGTGGACAAAGTGGTTTTTTTAATTTTAGAAAAAATTGATTTGAATTGTGTATTCTTCTCTCCCACTCAGCTCTCATTTAGTCTATTCAGAAGTGCTAATCCTACACCTGTTGTTCACTTGGGATTAATAGGAGGAGAGAAGGATGTCTGGGATCCAGAGATTATAGATGTACATGGGGATCACAGGACTTCTGGGAAGGCCTTGGCAGTTGGCAACAGATGGAAATACGAGGGTGCCAGGTTGCAGATTGTATGTACATCCCTGCAGGCTGGCAAACGATGGGCTAGAAAATGTGGTGGCAGGAGTGAGGTCCAGGTGGGTAGTCAGCATCAGTACACAGGCAGCCCGTGTTCAAGAGAACTAGGAGAGAAAACAAGGCCCCTCTCTGGGATGCCCTTAAGCACTGAGTAGGGTACCAGGGTGAACTCAGTGTAAAGCAAGGCTTGCTCCATGGAATCAGAGCCCCATTTCTAAAATTGGAATTTGTGGTTGAATGTGACCTAGTGGCTAACCTAATTATGGAACTGCTCGGTTTCAAGACTCCTTGAGATTCTCTGACCaggaggaggaggaggaggaCTGATCCTATATTCTTGAGATTGGAGTGAGTTTGGAGCTGGGTGTTAATTGACTTCTGTTTGGGGGTGAGAGCACCATGACTGCAGGCAGGGAGGCAGGTCATTCATTGCCCCTTGTGTCAGCTCTCCAGATGCCATGAGAGCTGATGGTTGTggccgggcgtggtggctcacgcctgtaatcccagcagtttgggaggccgaggcgggaggatcacgaggtctggagattgagaccatcctggctaacacggtgaaaccctgtctctgctaaaaaaaaaaaaaaaattaaaaaatttagttgggtgtagtggcgggcacctgtagtcccagctactcgggagactgaggcaggagaatggcgtgaacctaggacccggagcttgcagtgagctgagattgcaccactgcactccagcctgtgcaacagagcgagactccatctcaaaaaaaaaaaaaaaaaaaagaaGGGAGAACTGATGGTTGTGGAGGCTGGTGGATATATTTTCTGTTTGTTTAATATATTTAAAATTtttctgtttggaattttatattcataattcaaagaggagttatgagactagtacaagaaagaacctccatatatcttttactcaattcaccagttgttagtattttgccatatttgctttatatttattttattttattaccttttaaactttattatAGGTTTGCTCTATTATaggttgagcatctctaatctgaaaattcgaaatctaaaatgcttcaaaatccagaatgctttgagcaccgaagtgatgccacaagtggaaaattccactcctgacctcctgtgacagatcacaatcaaaacccaatcaaaaccttgtttcatgcacaaaattattagaaatatacactttatgagataacctCTATCTCTTTTTTTGCTGTATTGCTGTCTGTGtttaccatctttgctgtctgactctctctgtggtacaggttgaatctgtcccttacctgaaacgcttggggttagaagagtgttttggatttcatgttttggtgggggagggggaattttggaatatttgcttattctatatccttaatccaaaaatctaaaacgttccagtatttcctttgagcatcatgttggtgctcagaaagttgcagattttggaacatttttggtttgggattttgggattaggataactcaacctgtattttcctttcctgaacaatttgggaatgaaatatagacatcacaccctttcccctgaatactttagtgtgtattcccaagaacaagaaaattatcttacataactatggtatgattatcaaaatcagaaaaggtaacattaatacaatatgatatagtccaatatagttcatattcagattttgccagttttttcaacaacggccttcatagtaattttccccatgatcataagcctcatttaattgttgtgtctctttaatatcccttgtctctctttgttttcacaacatgtttcctcaccttttttaaagattttttatgacatcgacctttttgaagagttagaagccagttttgtcaagtgttcttcagtttgagtttgtctgacgtttccccacgattagatctaggttatgtaattttggccagccatactatatgagtgatactgtgccctttccactgcttcagatAGAGTTCTTTGAGGTACAAAATAGGAGAGTTGGGTGGTTCCAATAAAGATGATTTAGGTAGTGTCCTTGTCCCTGAAGGACTTAGAATCTAATAAGAGAGGTGCAGTTCCCCAGAGAGGTACAGTGAGAGGATTCCGGGGGCTCCTGCATTTCTGAGCTGCTGCCAGGAAGGAAGTGTCTTCAGAGTGGAGCTGGCTGGCATGGTGGTAGTGTGGGTGACTTTTCCACGGGAGAGAGTGTGAAGGAGAGGAGATCTGGGGTGTGGCCGCTGGGGTACGCTGCCCCTGAGGGGTAACAAGAGAAAGGGCTGTCTGTCTTGGTGGCATGGCATGTGAAGCCAACTGTGAGATGCCAGCACCAGGAAAGACAATGAAGAGGATATCCACAAAGGCTGGCGCCACCATTGGAATCCATTATCACAGGGGAAGGCCATTGGATTTTGGTAACTCAGGGCATCTAATGAGACCAAAATTAGAATCCACATTTCTTAACTTGCTGTTACAGTAACCGTTTTTATAGTGTGCTCTATGTAACAGTTTCATGGGCTTTCAGAGACTGATGAATTTATTACATATTATTTTGTGTTGATTTCTTCAAGTAAACATTTTCCATATGAAAGGGTTAGATAGTTTGtttttttttAATATATACACTTTTGGGAGGAAATTCTTTGCTGCTCATATTCATATTATTTGGCTGCTAGGTTCTAATTCCATTGCTTTTGTGTTTAGAAAGTATTTTTCTCTAGACTGTTGGTAGTAACAGCAGTTTTGGGAATATGTTGTCTCACATACCAATAAGGGAAAATGTTCTTCCAGCCTGTAGATACTTGTTTCATGTGTTAGGTCAAAGGAAAACGTATTTAAGTGTACTTGGCATTTCTTGTATTTTCTAAATTACATTATCGGCAGGATAAGAGTTTATTGAATCATAGTTTCAGAATTTAGTTTATTTCATAGCATAAACGGGAGTGCTATGGAAATGGAATTGATTCTGCATTCACTGTAGGAATCTTGAGGACACTGTGTGTTCTTTTCAACAGGCTTTAATTTCCTGACATTCCATTACATTTCTGGGAAACAGAATTGGCACTGCCCTTTCCTGCCCTATCTTGTCCTTTATAATTTTGGCGAGGTTCATGGTCTTCCATTTCTTTTTCTTTTTGTAACTGATTAATAATCTATAGAATCACCTCTTAGTTTGTAAGTGGAAACTAAGCCTGCACATCCAAAGCTAGGATTTCTTATATGGATCTGCCTTAGTATTTTGAATCAGGACCTCAAATGAGATTTTTGGATGTTCATGTGTTTGTGGCACGATGTTGAATCTTGAACCTTCCTGTCTTTCTAATTGTTAGAATTAGATTCTTCAAGCTAGACTTGATTGGGCTAGtattactttaggaaatgttttaatttattatttggggaatgttttatttattatttttagTTTCTTATCTAAGGAAGATTAAGCTGTTTGCAGAAAATACAGTTTTCTTTAGCTACCCTGCTCACAATACCATCTACACTGTGTCTGTACCTGTGTGACAAGGCCAAGCACTCCATAACTTTACCCGGATTGTTTGGTCTTTTTCAAAATGTTTAGAGTTTCAAAAAGAAATTTGTGAAGTTGCTTCTCTTAAGTAGCTACTACTATGTTTTTAAATGTGTTGCAGTATTTCTATTAGTTGATCTTGTGTGTAGTCATTCATATCTGTCTTTTGATTCTATTTCTTGGTGATCTTGCTTTTTAAAATCACCATTTACCTTaaaaaaaaaaaaaaaaaGACAAAActtgctgttgtgctgacagagcagagagcatttaactgacgctcctccgtggcttggcttgctgagttcctgacagagcagggcatttaactgaagcctctccatggctgggcttgctcagttccCTGCTGTTGGCTGTCTTGGATCCCCTTTCTAAGGCCCCACTTCCCTGCACACTAGCTTGGTGTGCAGGGAGAAGCTGCAGAGTCTGTTGGCTGGGCTTTATTTACGGAAACAGCAGGGTTGAGATTGATTGCGTCGTGGAGAGACAGTGTGTGGATGAGGGAGGGTCACAGCACATGCTCAGTCCTGTCAGAGTGAGGGGAAGTTTCTGCGTTCTGCGTGAAGGCTTAGGTCATAGCACAAGCTCAGTGAAAGCTCTATGAGGTCTCTGAGACTGCATGTGCCTCCATTTTGAGTTGTTAGTGTAGAAAAGGGCAGAGTTTTAGCAGAAAGTAAAGGTTCAGGAATCCAGCTAGACTCACCAGAGCCCGTGTTAGTCATGGATGATCCATTCAGCCCCTGCAGGTAGGCTATCTTCCCCTGGCCTCACCGAAACAGTGATGGGTTTTGCTGCTCTTTCTCACTTCTGAAGGTGTTTATGAATCATTTCATCATTCATAGTGCATGTTCCTGAGAGCCTTTAATTCAGCCCTAGCTGGCCATGTAGGTGGTATTGTGAAGCGTAAAATCAGAACTAAGAATGGGGACTACCGGAGAGGCATTCAGCAGATATAGAATGTGAAGCTTTGCGGGTCCCTCTGTCCCTGTCCTCTTCCCCTTACCTCTTCGGCTCGTAGTATAATCTTAACCTCAGTCGTGCTGGGTGTGTGTTGCCAAGCTTGTTTGCCTTCAAGACCTGCAGAGCAAGCCTGCAGGCCGCCCCCTTGCCTTGTGGCTAGTATGGAATGCCTGGGCCGCAGAGCAGCTCTGTTTGGATGTTTTAGGAAGGATGGTAGGTGGGCTTCTATTGGTTGCTTTGAAGGTGGGTGGAACCTTGTTTTGATTGAGAGCCTGTTTGCCAGAGCAAATTATAATTTTTGTGATCTTTTTCTGAAGTCTGACATATTCAGGGAACAGTTGTGAATTATGATTGCAACAATAACACCTTAAAATTGATTTTTTTAAAAATGAAAGGTTATGTCACATCAGTTTTTACTTAGTCTCTTGCCTTCAAAAGGAAGCAGACTCATCTTCCTTTTAGAGCTTATGGAAAATTCTTTGGCAATTAAAAAAAGTATGCATTGACTTTTGTGTTAGAAATTGAAGTTTAGGTATTTTGTTTATTTTTGTATCTGTTTTAGAATCGGATAGCATTTTTTGCATATGTGTATGTTGTCATGTGACTTGGAATTCTATTCTCTTAAATGGAGTAAAAAGAGTAGTTGGTGCTGAGAAGGCAGTCATTGACAAGGCCTCATTTCGTACCCACTGCTTGATAGCCAGACACTAGTTTCTTCTACCCAGGGGAAGTTGTGCTTTTGGGGTGTCCTGTTGCAGAGCAGGTTCAGACAGATGGCTTTCACTGTGGTTTATTTAGGGAGCCAGTCAGAATAAGATTTAGGACAAATTGAATTCTTACCCAAGTAGATATTAAATGAAGTTTTTGAATTATACTGTTTGCTCCTTTTTGTTTCCACTCCTTTTTCTTCTGATAAAGGTTAGAAAAAATTTGAATGCCACCTAAATTTTGTGCATTTGTGAGGATGGAAGAAAGCATACAATATAGAAGAATGTGCAACTGAAAAACCCTCATAGGAAGGAGAAGAAATTTACTATGCATTGATACAAGGAGAAATTCCTTGTGTAAGCTCTTAGTGGTGTAGTGTGAATTTGGAGTGTTGCATGGTCAACTCTTTCCAGGGAGGCCCTTGATTTTAGTGGAAAGTTTTTAGGAAGGCTAATGTTGGTGAATTCTAGTCACTGAAAATATTACTGAAGTATAATCTGTATTCTTACAGATTCAATTTTGGGATTGCAACTAAGGAGATGAATTGTAGAAGGATAATTTAGGGTGTGCGTTTATTATTTTTGTGATCAATTTTTTTACCCATGTGAGGGCTTTCTTCCCATTGTGACCATATTTATTTGGGCATTGCACTGGGGAGTTTTGGGGAGGTACCCCATACCATATAATGTTGCTTCTGGAACTCGCCTTATTTTACTCTGTTTAAAAGCACCATTGCTCTTCCTTCCTGCTTCTTTTAATAAAAGTATCCCTTCAATAGACGAGAGGAACTGGACACTGCACCACTTTCTGTCATGCACTTGTGGGATCTGGGCAGGACTCACATTTCATGCTCAAGGAACAAACTCATTGTTTGAGTCAGGAGAATATTGCCTTTCTGTTCTAGATCTTTACCTCTTCTGAAACTTTCTTTACAGTTAACAAATAAAAATGTGAACAGGAAGCTGTGCTCACAGCCGAATCAGCTCTGGATCAGGTTCCTGCCACTGGTGTGGCTGGCCTGTGTGGGCCTAGTACAAATCTGTATTTATGGAGCTTGGATGCCGCCATCTATTTGATGGTGAAGACTTGTGGTTGCTGACTGTGATCTGTGGATATTCTGTTGTTAAGAGTCGAATTTGTCTATGTTTCAAATCCAATAAAGTAACTCTAATGAGTGTGGTATGTATTTCTTCTATATTATCCTGTCTGGGAAAAATATTTTTTGGAATGCTAAAGGCTTGCTTCAGGGCTTCTGTGCTTGTCTGGTGGAGGAGGTGAGGGAACAGCACATGGGAAGTTACTCTGGTGGTTGATGAAGTCTTTGGTCTGTGTAGCTTGAACATGGAAAAGATGCTAGTTTGTTTCATTTTGGCTTATGGTTCTGCTTCTGTTGCACTTGAGAATATCAGGAAATGTTGGGAATGTAGCAAGTAGATGTTTCAAAAAATAGAGAAGTTCACAAAGTTAATATCTTATTAGTTGTTCTTATCATTGTAATAGAATCTCGAATTCGAATCTGAGGGAGCCTCACATTTAAAGCGTTCCTCTGTCAACATAAGTTTTGCAGTCTGTCTTTGGTTGAAAGCTAGAATGAACTTGATTGTGTTTAATTGACATGTCACttttttttctttttctttttgagataggttctcacgctgtcacccaggctggatggagtgcagtggtgtgatctcagctcactgcagccttgacctccctggggacctccctaggctaaggtgattctcctgcctcagcctcccacatagctgggactacaggtgggcgccaccacacctggctaattttttgtattttctgtagagaagggatttcaccttgttgcccaggttggtcttaaacttctggcctcaagcaatccatgctgccttggcctcccaaagtgccaggattacaggccagcgtgcctggccTGACACTTCAttctttttttttttttgagacggagtctcgctcttgttgcccaggctggagtatgatggtgtgatctcagctcactgcaacctccgcctcctgggttcaagcgatttgcctgcctcagcctcctgagtagctaggattgcaagcatctgccaccatgcctggctaatttttgtattttttagtagagacggggtttcaccatattggccaggctggtctcaaactcctgaccttgggtgatctgcctgcctcagcctcccaaagtgctgggattataggtgtgagccgccctgcccggcTGACACTTCATTCTTAATCTTCTTTTCACTTCTTCCTTGACTCGTGGCTACTGTGTTAATTTATGAATTAGAAGACTCTAATATATCTAAGACCAGATGTCTGTGATTCTCTAGTTGttcttttttcctgattcttttccttctgaatttgttttcttttccattttactttgTGTATTCATTTATTCAACATATTCATACCAAAGACGCATTTGCCAGGTACTTTTTGTTTGTTACTCAACCGAGTTGTCTTCCACCAGAAAACCGTGTATTCTAAGACTGTAACATAAATGTCTGACAGGATGAGAGAGAAGGTAGAAAATAATAGCTAAAGGAATATTTTAGATGGTGTGTACATTCACAAATCTTCTCCTAAATAAGCACAGATAATTAGTTATCATCTCTTCTGAGCAGTTTCTGATAGGGGCATGCCTGTATTCCTGCAACTGTGGGTGATAAAGCATGAGTCTGATTTATTTTTCTTTTTGGTCTAATGAGACTCATGCTTGAATGTACTTTTAAAACAATTCTGAAAGATAACTGATCTCATATTGTATACTCTATGATACTTTGAGTCTAAGGTAAAACACTTAATTCAACTGGGAAAATTAGAGATTATTTCTATCAAACTTCTTTGAGCTACACATTTATTTGtgattatttgatttttttccctattggacatcaagcttttggggcaggggccaagtctattcttacggtctccatttctagtagagtacctggcaaatgggtctttggtatgaatatgttgaataaatgaatGCATCATCTgtggtaagaggaaaggctagatttggagccaggtagtgtggttcagattccacctaataagtgacaattgggcaagcggtgacattcgacaggttccttccctcctctgagcttcatttttctcatgggtaatctggaaataaatatttcttacagtttttgtaaagattagatgaaaacaacttggaagtgcttggcacatagttgcttagtacaTTATTGTTATTAATTCGCAGGTCAAATGTACAGTCTCAAGCTCATGTAGATATGATTATCTCAACAACAACATATatttttaaatttttaattaaaaaaaataggcatgcaggtctcactttgttgcctgggttggtctcgaactcctggcctcaaactatcttcctgtcttggcctcccaaaatagtaggattataggcatgagccactgtgcctggccaacatctttttatttttaatagCCTGTTCAACTAAGACAATGCTAGGGATTGTTTTAGGAATTACACTAATTATTAACCACCAGTATGTTTAATAACTATTTACTGATCCACTTTCTTCTTACTCTCTTTGAGTGTTTATGTTTTTCTTTATACATCTTGGAGTTCtttttttttttttttttGAAAAAAAGAAGCTCTACTTCCATAATTTATAATATTGGGTGTGTTCAGCATTAAACATTTCCTGCCACTTTCTCACTTACACACACTAGGTGCATGTGTGTGTGTTAGTTATTGCCTGTTTGTGTTCTCTTCCTTCTATATTCATACCACTGCAGCGAGGAGGAATAAGGCAATTGTCATGTTTTTTTATAACATTTCCCTGAGGGGACAAAGAAACCTTTAGACGTGTTGTAGACATGCTTGCTTGGTCCAAAGTCCCtttttttttCTGGGGGTGCTTCATTCAGCTTTGTTATACAGTTTGATTTCAATATGCAGAAAGCTAGCACCATCTTGGGTCAGGAGAGCAGCTTAATCTACAGTGACTGCTGCTTTGTAAGTGGGTTTCGGTCATAGTGGttttttttttttttttttttttAAAAAGTTTTTTGGCTGAATCTCCATGTGTGTGCAGGCAGCTTTGTTAGGCCGCAGCCCCTAAACTTTGCCACAGGCCATTACAGTAAAGTTCCCTAGGAGCCTGTGGTGGAATGTTGTTTTATGACGTTGCCAGATACACGGTAGGTTACCACATAATGGAGAAGAGAGAGAAGGCAGATAAGAAATTTAGACAACGGAGCAAAGTCACTATAGCACTTTGAAACTGGATCTTTCTCACCTGTTAAAtttttttgaccagtttttttCCTGACATTACTCATACATTATTGTGTGTGGAGGCCATATTTACTGCATCTTACCAGCATGGAAATTCTTATTATTCTTCAGGCAATGCCAAATTTCTAGTTCTGGACCCTGAATTATATTTAGGAGGACCCTGTGGGAGAGCTGCCGGTGTGGCCTGGAGTCTTCTTcagtaattaactcagtgtgaccccttaaaagagcacttttctttcctcaggccttgatttcttctattaagctagaagattggatcaatggcctctcaggaactttccacagagaaaatttagaattttatgattTTGGATTTTGGACAAGTTCTTGTGTTGGCCTTTGTATTTATTTGTGTGTGAATATGGAAGTGGTAACTTTAAGTTGACTAAATCtctttgttttttcatttgtatttgtttttagttttatttttgattGAATAATGAATTTTGTTCCTGTTAGGCAGTTTAATCAAACCTACGTTTAAGTTAATTTTGCTTGGAGGGCTGGCTTTCTGTCACGGGGACTTCACTAGCTAAGCTTTGCAGCAGAGCCCTTGCTTGCTGTCTGTGGCTAAGCAGTAGTTGAGTTAGAATATTGGAGTCATTTATTTATTAAAAATGTATCTAGTAAGAGCCAGTGAGTTCTGCATTATggtgaccaaaaccagttttagttcttacccgcatgtacttccagtctagagggcaagacagccattcaaagaaataactacaaaaaataaataTAAAATCCTGACTGTGATATGGGTGGAAGGAGAGGTAAGTGGTACTTCGGGAACTCATAATAGCAGGATTAGCTTCCATTCTCACTTATTGCCAGTATATAGAGTTTAATAATATTAATGACCCCTAAGCAATaggtactatgtctagttctttccataaatcatcttttatttttatagcaaccttgcataataacattatcaacttcatatcatagatgaggaaactaaggaattagatttaattgtgtcctcaaaatcacagagcaaacaaaacctgggtactgaaacttatttttaaaattttattagcgacagggtcttgctctgttgcccaggctggagtgcagtggtgtgatcatagctcactgcaacctcaaaactcctgggctcaagtgatcctcttgtgtcagcctcccaactagctgggactgcaggtgcattttaccatgcctggctaatttttaatttttgttgtttttgttgtttggttggttggttgggttttttgtttgtttgtttgtttgcagagactaggtcttgctatgttgcctaggctggtcctgaactcctgggcacaagggacccacccaccttggccacccaaagtgctgggattacacacatgagccagccaccatgcctggcctgatactaaaattttaattcaggttcatttaattctgaagaccatgctctttccctgcTTTTGAACATCTAGACTCAGGTGTGGGTGTGACAGTGTCATGGGAGATCCTAATAGGAAGTACAATGAtgtttcttttaatgtttgtttgtttatttgtttatttatttattgctgtttcttaaggagcagggctaacccacagaaagtgtgcccagagtcggcCAGCACAATGattttattcagatttatggaaatttttctctaaaaatgaatgggaatatatgatgggatagaatacaacattcgcatggctttttaagatactatgttagattttaaaaagaaatttcagacttgttcagggcagctttgaagtatgTGTTCATGCTGGGGAAAATTGAGAAACCCAGCATATTGCACTAGTCTTCCTTCTTAATCCTCGCTTTCACTCCTACCTCACAATCCATCTAAAAAAGTGATTCTGATAAATTGCCTTTTGGTTTTCTTAAAATGTAGTGTATTTTGTTCTGGACCCACAGACTTCTTCTGTGGTCATTTTCTAAATGTGTACTAAGTAGCGTTTCTAAGATCTTCATTCTGTTGATGCCATGTCAGTCTTCCTGCTCAACTTAATACCCTGTGGAAAAGATAAGAATGTCTGCTGTGTGATATTTACCATCTGAAGGACAGGGAGAGAGATTTCTCAGTGATCTCATTCATACATGACGCCAGCCACAGAACAAGGGTCTGACTTGAGCCTTTTCTGTCCCAGCACCTTGGGAATGGGCCACAGGCTACACGACTGTTAGGACCCAAGGCTTGGGGAGGGGCTGAATGAGGGGGTCAGCTCTTGCCCTTAGTTGCTTCATGGTGGTGCCTTCTGTTCATGTGTTCTTCCCATATCTCTATCCTCCTCCCTCATCTTCCCTTGTAGAATCAAGTGCCTATCTTAAGCAGTCACCGTGATCACATAGAGATCTTTGGGCGTCTTTGGTGAATGTTCACAGAACATTGCCTTCCTGCCCCTTCCCCTTTCTTCAGGGTGAAGAAGTGGCCGCATCATGTTCTGGGCCAAGCCTCTGGGTTGGGCTGGGATCCTGCATCTAGCAGGCATGCTCTTCTCACAGACCCTCCCTTTGCCTGCCATCGCCACCTCCATCTCCTCTGCAAAGATGCTTCTCCCTTTTTGATATTCATTTACAGGCTCCCTGCTCCTTTCTGTCCATTCCCTGTTTACTTCTTAGAATAAAACGTTTCCATGGTAACAGGTTACTTTTCAAAGGGAACATCTTGTCATTTTATTTAATCCACTGCAGTTGAAGAGGACTGAAATATTAAGTTGTAGTTGCTATGGATACTGCTTTGTTACACTGGGGTTTTTTTGTATCAGATTTCATATACAATGACTTTCTGTTTTTTTAATACTTCAGGAATAAAAACAACAACTTACCATTATTGTTGTAATTTGGCTTCTGGAACTATTTTTTTCATATTCTAAAACAAAGATTTGTAGAATAATGTAGGCTGAACTTAAGTTGTTTTGAAAAACATATTATTTACATTAGCTACACAGAGAAATTCCTTCTTTTGCTGGGGATGATAGTGACACTTCTTAATTCGGTTTTTGTAATATGATTCACAGTATAAAGATGTCTCCAAGATGATGAATCCACAGCAGAAATCCTTAGTAAACATAAGGAAAAAATAAATATGTCACTTGGAGTTAATTTCTTGAATCTCATTGCTAATAAGCTGTGGCCCTCTTTCTTCAGTTACTGGTTCAGCTGTGTACAGTGTAATTTGAGGTTGATCTGTTTGTCCTTTAATCAGCTTTTCTCATGTCTGGTGTTCTTTCTGATTTCCCATCTGCCTGTAGTATATCCCCCCCTTCATTTGacttttttaaaactttaaattttttggattcacaggaagttgcaaagataccacagagtggtctcatcttttgtaactgtaatacgataccaaaaccaggaaactggcattagtagattgtgtgcgtgtagttctgtgccattttatcacatggatagctttgtgtaaccaccacaacaatgaagagacagagctatccatcactacaaagctctccctttgtggtcgcaccctccgcctccctccctctccccaccatctctaacacctggcaatcacgaatgtgtctccatttctgtaattttgtcatttcaagagtattatatacattggcctctaactttgataggtttttctctttcatcatgactttcAAACTTAAAAAAATTCTTTTGATCATTTTGTCTTGCTTGGGTGTTTGAAATAAACATAGAACCAAAATAGGGAAAGGGATATGGATTCTCATCATTCTGTTTGTAATTAATTGTGTGATTTTGGTTCAGTAACTTAATCATTCTGCCATATGGGAGTGTGATTGagagctctgactttggagtcagctgaccttgagtaggattcctgatttctccacttatttgctgtttaatcttgggcaactgcgtaacgtctcttggcttcagtgacctgacctgtacacttactacaatagcacctatcttacagggtcgcctgtaagattagataagaaaataaatggaaattgcttaccttgcaatgcctggtacatagtaaatgttcaatggatatattagttgctttattaATGTTAAAATTAGTATTGTTATTATTATTACCTATGGAGATActgcctcatagagttgtcgtggaataatgaaataatatgtgcccagcatagaaagcacttagtaattgatagctagtattATTATTTTGCTTGTGTTTGTTATGTAACTATAATACACCTAGAttttttttttttttttttttttcctctgagagagtcttgctccgtcccccaggctggagtacactggcgggatctcggctctctgcagcctccatctcctgggtttgagcaatttttctgcctcagcatcttaagtagccgggattataggtgcccactactgcacccactaccacgcttggctaattttgtatttttaggggtggggcttctccatattggccaggctgttttggaactcctgacctcgggtaacctgcccacctcagcctcccaaagtgctgggattacaggcacgagccaccgcacccggccTACACCTAGATTTAAGATAACGTATGTGAAAACTCTTAAGATGAGGATAAAGATAGATGTGTGTGTATGTTGCATTATTCTGGATATTACTTGCATCTTTGGTTTCTTAATTCATACAGTAGTATCCTTTATATGTCTTGGCTAGGATTCATACTGCCTTTGGTCTGGATTTTTCTTCCGAAGTTGATGACCACCCTGGCTTTGACTAGACCTACTTTGTTAATTCAGCAGCATTGTACATCCAAGCAGAAACCTCTTTAGTAGCTAtgttttgttgttgttgttgttgttgtttgtttgttttttgagacagtcttgctctgtcactcaggctggggtgtagtagcatgatcttggctcactgcaaccgctgcctcccagactcaagcaattctcctgcctcagcctcctgagtagctgggactacaggcgcctgccaccacgcccggctaagttttgtatttttagtagtgtggggtttcaccatgttgtccaggctggtcttgaactcctgacgtcaggtgacctgcctgcctcaggtgagccaccacgcccggccTGtttgtttttttaaagacagtctagctctgttttgcccaggctggagtgcagtggtgtgatcatagctcactgcagcctcaaactccagagctcaagtgattctcctggctcagcctcctgagtaggtgggattataggtgcgtgccaccgtgaccagctaattaaaaaaacattttttataaagcctgttgcccaggctggtctcaaactcctgagctcaagctgtcctcttgcctcagcgtcccagagtgctgggattccaggtgtgcaccaccacgTGTAGTGCTGTGTTGCTTTGAACACAGGATAGAAAGACACCTGAATTTCTGTGAATAGCAATACTAACATGTCTGTTAATATCAAAACATGAATTAAATGCCTTAATACCTAGaaatgagataatactgtagagcacctaggacagatagtaagtgctgaaatgttagctactgttGTTATTCATCAAAGAAGAAAGCTGGAGTCTTCTAGATGAATTTTAGCCTCCAGCACTTGCTGAAGTTCAGAATGTGCCATAATCAGTGCTTCTCAGAGCATAGCTTGTGGACCTCATTATTATTATTATTAtttctcttttcttttcttgtcttgtcttttctttcttttcttttctttctttttttttgaggcggagtttcattctttttttgcccaggctggagtgcaatggtgtgacctcagctcactgtaacctctgcctcccgggttcaagcagttctcctgcctgagcctcccgagtagctaggattcaggcacacaccacccggtatggctaattttgtgtttttagtagggatggggtttcaccatgttgactaggctggtttcgaactcctgacctcaggtgatccacctgcctcggcctcccaaaatgctgtgattacaggcgtgagccacctcgcccagccTATTAGTATTTTTTAATCCCAAGACTTGGCTTCCCGACTTAaaagtcttctgccctataccaaaagacagtgattgtcttgaggagaagccttggttccgtcgagacatttgagttagaagcgaagctagccacttttttcatggaatatcagttactctttgaaagaacaactgacagacaaactgtggtcattcagacgtgggcatttggcagaaactttcttgaagatgaattaagtgagcttgttatttcaaggaaaacactgatactatttgacaaggctaagatttgaactttcaagtaaaaattagaatttcgaaaagcttgtactcaccactctgagcctgacagcttctctacactgaaaggcatttcttatgagataggtgatattaatatgatttttaaaaaatgctgtataaagaactggttgatatttgaaagatctgcagaactgagtaaactgacattctctataaaaccaatgcatgacattacaaaatcacatctgagtagaagatccattcattcaaaggcaagacagaccaatggatttcagagtagcacagtcaaaagactattgataggcttttagactcaccttgtgtacacatctttaagaaatgattacttgttgagtttttgttttgttttgttttgtttttgagacagagtttcgctcttgttgcccaggctggagtacaatggcacgatgttggctcactgcaacctctgcctcccaggttcaagcaattctgctgcctcaggctcctgagtatctgggattgcaagcatgcaacaccacacccggctaattttttgtatttttagtcgagacagggtttcactatgttggccaggctagtctcgaactcttgacctcaagtgatcctcccacctcggccccccagagtgccgggaacttgttgagtttttggtgtagtatcaaaaaggctatattcttcccttttctagttacatcactgtgttaggctgtattatcttcatataatttaaccacaacaatatattgcagcagattgaattcaaaagtagataggagaatctagctgtcttttctattaagtcaaatattaatgagatttgcaaaaacataaaataatgcctcactttttactaaaggtttctgcttaaatgcaattactttttataagaatatgtatattgttatgtaatgggcttattgctatttttaaatcaatattttgaaagttttcaaaaatttagatttctTGGGATGTTCAGtaatttttatttttattttttGTAATAAGCTTTATTTCTGTTTTGTCCACGGCTTGGGAGAGGGGTCCAGGGTAGTGGCTGGAGGCGCTGCTTAGGCAGTAGCCCTGAACTTTGAGAGGGGCTCCTAAAAGTTTGCTGGGCTCTGTAGGCTCCTCGTGGTGCTTGAGGGTGAGTCTTTTGGAAGAAACATTTACCCAGCCCAGCCTGGGGAGGTTGGTCTGGTAGTCGCCGATCTTGTTGTTGAGTTTCACCTCCTCATCTAGGAAGTGGCTCTCCGGAAGTCACAGAAGATGGGGGTCTGTGCAGGCAGAACCCAGGGCCTAAAGATCGAGGATCTGGTTCAGGTTCTTCCCCAGAGCCATGGTGGCTTCCATGGAACCCAGGGTTTTTACCCCCACTCATTTTGAGATGGCTTCTCCACATCCTGGAAATGGGTGCCGCTGCCACACACACATCTTCAAGAGACACTCAGTGCCCTGAATCTTCTTGGCCGATTCGTGGAAGAAGTCACTCATGCCTCCCAGAGCTTGCGGGGTTGAGGAGCTAACCACAAAAACAGTGGTGGCTGGTCCCAGAAGCAGGATATGGCCGAGAAGAAGGGTGCTGGAGGTTGCAAATGGAGGGGAGATTGGAGGGCAGTTGGAGGCTGGAACAGATGGAGTCCCAGGATATGTGCTGTTCAGACATTGTTGAAACAAGAGACAGATTCTGGGACCACCAAGACACACTCcagtaattattaagagtgtaaaagggtacagagacctaaaagtttgagaaATGTTAAGTAAAAGACAAAATGTAGTCATTGCATCAAGATTGCAATTGATGATTAAGAGTGTTTCCTggccgggcgcggtggctcacgcctgtaatcccagcactttgggaggccgaggcgggtggatcatgaggtcaggagatcgagaccatcctggctaacaaggtgaaaccccgtctctactaaaaatacaaaaaattagccgggcgcggtggcgggcgcctgtagtcccagctactcgggaggctgaggcaggagaatggcgtgaacccgggaagcggagcttgcagtgagccgagattgcgccactgcagtctgcagtccggcctgggcgacagagcgagactccgtctcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaGAGTGTTTCCTACAAGCTGTTGATACTGTCATGTTTAAATATCATTAATGAGTGAGGTGTGAACCACAAAGGTGCATTCAAGAAGGGAGCAGTTCACAGACTCACTTTGCACCTGGCTGCAGCCTCATGGGGGTGCTTTTTCCATGTGCCAGGGAAACATTCTGGGGTGTTGTGGCTGCCTGACCTATCAAGGGTGATGCAGCTGTCTGGGGATACAGGATaaaaaaaaaaaaaagaaaaagaaaaaaGAGAGGAGAGCAGTGCGGCAGCAGGGGAGGGATACTTAGTTCAGTAAGGAGGATTCTGATTGCTCGGTGGATCCAGATACAGCTGGATGCTGGCACTTCCCCACCATGTGTACTTCTTGTCTTTCACCTTCAGCTCATATTCTGACAGTTTTTCTGTCAGCTGCATCAAGCTTTGTCTAAGGTGGTGTGTTGCTATCTACCTCTTTATATCTTGGACCTAAAAAGTACTTTTGCCATTTATTCTATATTCTGTAACTCTTGCATATAGTAGGCTAATGCCATTGTCTGCACCTCAGATCCTACCTGCTCAAAAAGAACTTTGTTGTATTTCTTGCTATAGAACCCTGATATTTAAAAGTTACATACAATTTAAAAATACTTTTGTTGCAAAGAGGGATTTTTAAATAAGCTTTTAAGAAGTTTCCTTATTTTATCTTGGTTTTCATGTTATAGCCTACTTATTAGTACTCTTCCCTGTTATAAACTTAAACAATTTTCAAGTCTCTTAAGATGGCCCAATACATTTTTTTGTCTCATTTGTATTATTAGTTTAATAATAATTATCTGCATCCTATTTTTATGGAAATACGTGAGATATAAGTAGTTCTAGTCAACAGGGTATTTGGGAGTTTGTTTCATTACCATGGTACATTGGGTTTTTTTAAGCTAAATATGATGATAAATTGGCTTATTAAAATAAAAATGGGGTTGGGCGGTgagtgcggtggctcatgtctgtaattccagcgctttgggaggctgaggtgggggtccctttgagcccagggttttgagaacagaccgggcaacatagcaagacctcatctccaaaataaaataaaaaTCAAGCAGGAATGTTTTTTCTGGAATTATCAAGGACTTAACAGTGTAGCCATGATATGGAAATGATATCCAACCACTGGAGAACTCCAGAGTAACAGACCTTCTGGAAGAACCCAAAGGTTGAGCTGCAGGCAGAAGTTACTGAATGGGCTGTGGCTGAAGGTTTCTGAAATGATACATTCTGGCTAGACCTACTTGTAGGCAAGAAAGCATTTGGAAAGTATTTAGAGCTTTTGGCAGCTTGTTTTGCTCACAGCTAGTTAGAAAATAGAAAAGGACAAGTTGGAAGGGAAATAGTGGTAACGCTGACTGCTTGCTTGTTTTTCTTAAAGAAGCGCTTGTGATTAAAATAACTTGTGGCTGATTTGATTCCTTTACATACCTCCTAAAACAGCTTCTTCCATTTCCTGCATAAACCTATGAGAACAATCCATCTTTTAGCTTCGTTTTTCCACATACCATTCTCCTAATGAAGAAATGAAGATGACTTGTATGATGAAGTCAGCCCACATGCAAGCATTTCCCTGTCACCGCCCCTCCCTTTCAGCCTGCCACCTCTGCATGCTTTCATTTCTACTTGGAAAGTCCTCtttttttttCCTGCTGCTAGGCCTATTATCTCCTTCTGTGTCTTCTCTTGAAGCCGCCTCATTTTGGTACCTCCCCTTCACATTTTTGTACTGTGTCTTTTGAAGTGTCTTATGTTGATGAATACGGGCATCGGCCTGTTCTGGTGTTTTGGTACAGATGCTGCCTCGCCAGCTGGAGGCTTGTAAGATTCTTGATGACTGGGCCACCACATttcttcttcttcctcttcttcgtcttctcctcctcctccttgtcttcctcctccctttctccccttcttcctcctcttctttttttcttcctttgTCACATTTACCACCACCTTTGCCCAAGCAAGATTCTTCATGAGAAAATGATTGGATTAAAAGAAGAAAGTACTGGGCCCAGGTGCCCTAAAGGAAACGATAGCTTTCCAAAATGTATTTTTAACAATTTCAAACACAGTGGGTATGGGTATCAGATCCATGAGAGAAAAACAAGAGCATGTGCCTCCTTTTAGGCCATCTTCTTTGACACTGttttgtttgttgccttttttatagacagggtcatgctctgttgcccaggttggagtgcagtggtgcgaacatggctcactgcagccttgacctcccagctcaagcgatcctcttgagtaactgggtctacaggcgtgcgccaccatgcccagctgatttttaattttcttgtagagatggcgtcactctgtgttgcccaggctggttttaaacttctgggctcaagcgatcctcccgccttagcctcccaaagtgctagaattacaggtgtgagcctctgtacctgtccCtgtttgttgctttatccccaacacctaggacaattcctggcttatagtaggtacttaaatatttgttggatggacggacggacggacggatggatggatggatggatggatggatggatggatggCTCAGTATATGTCCTAGGATAAGTTTTCTTATTTGTATTTTATAAGGCTTATGGTAGGGCACCCTGAGATGTTTTGAACGGAAGAAATGTCTGACTGGAATTGTACTACAGGAATGTCCATCTCTCTGAGGCATGAAAGAATGATGGTATAGGggccaggtgtggtggctcgtgcttgtaatcccagtactttgggaagccgaggcaggcggatcccttgagggtcaggagttcgagaccagcctggctgaacatgatgaaaacccaaattattaaaattacaaaatttactgaaatttactactaaaattacaaaaattagccgggcgtggtggtaggcacctgaaatcctagctactctggaggctgaggcaggagaatcaattgaacccaagaggcggaggttgcagtgagccgagattgtgccactgcactccagcctgggcgacagagtgagactctgtctcaaaaaaagaaCGATGATGTAGGAAGGTTCTCATGAAAGGAAGCTGCAGTTCTTAGGATTTTCAAAGGAAAAGGTTTTAGAGGTGCATGTGTGGTGGTGGGTGGTGTATGTATACAGAACATTAGAAGTAGTGGGGACGTTAATTCTTCCTCAGTTTTTCCTCATTTATTTGAAGAGAATTACTTTTTTTGAAAAATGTGTGAATGTTTATGTCAAAACTGTATTGCGCTAACTTAATCTGCTCTATTTCTGTTCCAGGAGGCTGAACAGTACCCAGGGGGAGATTCGTGTCGGTCCTAGTCATCAGGTGAAGTTCATTTTCATAGCTTCCTTAATAGGTTTTTGTTTCTTATTACTCTGCTGGCACTTTATTCTGTTGCGCAGCATCTTAGAATGTGGTTATTGCTATCGGGAATTTTTTATAAATACAGAGGttttttttCCACCCTCCTCAGATCACCacatacatttaccatctcccatttttaagtgcaaagttcagtagttaagtacattaatattgttgtatagccatcaccgtcatctatctccagaactctttctatcttgcaaaactgaaattctgtacccgtaaacagtaactccatttctcttctgcagcattggcaatcaccattctccttcctctctctgtttttgactgttctgcctcataaaagtacctcatgtgaatggaatcatacagtatttgtctttttgtgcctgatttatttcactcagcataatgtcctcatggttcatccgtgttaatagcatgtgtcagaatttctatcctttttaaggctaaatgacccattgtatgtacgtatcactgtttatctattcatccattgatgaacacttgATCACATATTTTTATTTAAAACATTTTTAAAgccaggcacaatggctcatgcctgtaatcccagcactttggaaggttgaggtgggcagatctcttgaggtcaggagttcgagaccagcctggccaacatggcaaatcccatttctactaaaaatacaaaaattagccgggcgtggtggcaggcgcctataatcccagcttcttgggaggctgtggcaggaaaatcacttgaaccccggaggcggaggttgcagtgagccaagactgtggccactggactccagtctgggcaacagagcaagactctgtctcaaaaaaaaaaaaaaaaaaagataaaaGATGTTTAAAACCTCTTTTCCCggctgggcgtggtggctctcgcctataatcccagtactttgggaggctgaggcaggcggatcacctgagatcgggagtttgagaccagcctggccaacatggtgaaactccatccctactaaaaatagaaaaattagctggtcatggtggtgtgcgcatgtaatcccagctactcaggaggctgaggcaggagaaatcacttgaacccagggggcggaggttgcagtgagccaagattgcgacactgcactccagcctgggcgacagagcgagactgtctgcaaaaaaataaaCAACTTCTTTTCCTTCAGGAGAGTCAAGATGGTTAGGACACTTTTCAGTCAGAGGGTTGCTGTGTCACGACTGTTGCTCTTTCTTATTTCATTGCATTTATTACAGCTCtttggtttttgttgttgtttttacgtttttcagagacaggtctcattctgttgccaaggctagagcacagaggcacgatcacggctcacggcagccttgacctcctcctgggctgaagcagtccaacctgcctcagcctctgagtagctgggactaaaggcatgtgccactgggcccggcATATTCTGTTTTGATCTCAGTATCAGTTAGGATGCTTTCACTGACAGGACTCTGGCTCTGTTTCTGTCTCCCATGTCATGACATCCTGGTCAGGCAGGACTGGGGCTCTGCTGTGCTTCTCTGAGACTCTCTTGTACCCAGCTGGCCTCCATGGAGGTGGCGTCATCCTCAGCTCAGtttgactaattctaagatacacttttttccttcacatttgctcctatagttgggcttcattgtacattctgtggtgtggttataatttattggctatattttatcctttctcagtgcacataaaataacagtggatcttacaatgaatgaaatttagCAAGTGTTGAGAGGAAGAAAGAATTGGACttcttttccccttaggagcaaggaaaatttccccagcaggtccccagtagacccacatattgttgccatggattgggtcatgtgtctatttctaaaccatgaggaaagagtttaacatgattagcACTTGAGTTGGAATGGATGCTGGGGAATCCACAGCTAAGGCCATCATGTCTAAAGACATGGGATACAGGCAGCAGTGAGCCTTGGAAGTGCATAGAGATTTCAGTCGTCTGTCTAGTTATTATTTCTGTCTAGATTTTGAGCATTTCTAAATTGTGTGTCATTTACATTTTTAAATAACCTATTTTAACTCTGTAATGAAAGAACTTAAGAAGTGAAGGAGTTATGAAGTGAAGTGAACACAAAAACTATCAGGGTCACATAGTTTATAGAAGATACTTCTCATCCCAGACCTGGGGTTATAACTGATACAGACTGAAAGAAGCTGCAGGAGGACAGTGTCTGCTTGTTCAAGTAGAGTCTTTTGTTGGTGTGTTCCATTAGGTGGGCCTGACTGCCACCTCGGGGCTGTATTTTCGGTCTGGGAACCTGATACTCAACCTAATGCCACTCAGTTTCGTCTCCCATTCTCTACTTTCTCTTGCACTGTATTTTACTACCCATTTTTTCCCTCTCACTGTGTATTTCCAGTGTCTTGAGATCTTTGTACCAGACTTTTATTTTATAGAttttttttttCCTACCATAAAAGAAAATGTAGTTCCTAAGGAAAAGATGCTTACATTCTTGGAAAAGGAGCAAATTTACTGTGATTGGATTTTTGTATACCACCATTTAAAATCAGATGTTTGGTTTTTTACATCAGATTTTAAATGTATTCTGTGTGCTTCATTTTCAAAAAGAAATGTTTTGGAGCACCAAAAATAATAAAACTTTTAAAAATGAATTGGCAACATTTACCTTTTTAAAATTTTTGACTTTtggctcacgcctgtaatcccagcactttgggaggccaaggtgggtagatcatttcagctcaggaattcgagaccagcctgggcaacatggcaaaaccccatctctacaaaaaatacaaaaattaggtaggcatggtgatgcatgtctgtagtcccagccactcaggaggctgaagtgggaggattgcttgagcctaggcggttgaagcagcactgagccacgatcacaccattgcactccagcctggtgacagaaccagtctttaaaaaaaaaaattaacctttttattaggaaaatattaacatatacaaaagcagggaaagaataatacagtaaagtccttctcttcattactcagcttcctcaagtatcaaatcctagtcaaacccatttcatttattccccctcacacctcttcctgccgttattttaaacgcctcacaaatacatcattttccttgtagatgttccaaaaataagggatttggacacaatcacaatatatcagaacatataaaaattaccaatttcttaatattcaagtgtatacgatgcccagatttccctaattgtctgtctgtatctttctctctttctttatattttcatagttcaaattagaatctaaatgagagccattcattgcagttggttgatacatctcttaaatctctcttaattcccaggtccttcccctagtcccccagtgtatgtggtaaagaagctatttcatcctgtagggtgttctgcagtctagatttggctgattgcattaaatttgttactttgctctttgcatgacttgagaattagtagttaaatctagaggttcggcctcattctagtttggtaccctgccttccagaaaaatgcttcctgggtggtggtaagtgcttctgccaggaggctcatatgtctcttttttaattgtaattagcagccactgatcatttattttttttttttgagacggagtctcactcggtcgcccaggctggagtgcagtggcacaatcttgtctcactgcaacctccgcctcccgggttcaagccattctcctgcctcagcctcctgagtagctgggattataggcgcccgccaccacacctggctacttttttgtatttttagtagagacggggtttcactatgttggccaggctgatctcgaacttctgacctcatgaaacacccgccttggcctcccaaagtgctgggattataggcctgagccaccgcgcctggccaccactgattatttcttagatccattattttattagggatttcaaaacagtgatattctaattctgccatccatttattccttgtacaaataaatgaaacttcacccttatctttccatggttaccagtggattttattttttaatctataatcaactttaatcagttcttattgatgattaaaagatccattttgggccagtaggagcatcttccttcgtatttgtccttttcacttaatcccagtggtttttgtccttttcacttaatcgtttttctctagtaagacatgattttactgcctcaccttatacattgtcttccctagatgtggaattaaacttgtctcagaagagccctcttttattgtagtgggaagtggtatttacatactgggtgctggggtattcattcttactgggttggttgctatttcgaggccttttcagtagacagaataggaaataggtgttttatttccctactttcttaaagataaaatacattctaaatttatgctgatacatccaattcaaattcagatttttctatggcctttatactaattctgtccttcttttatgtatatctttatttttttcccgtgactcaaatcccattttttaatgacaccaacaaaattacttatttgcttcaattccataatacacatataacagcccagaatagcaataatcacatggctacaaacagtatgcttattgaaaacagcttggtattgcattttgttatgtatatcctgccagggctgtataagcaaattaatatatcttagagttacttgaaacagttcctAGAGTAGAACCAGCTCAATTGTTGCATTTCTTTCCATTTGGTGTAGTTTTAATGAGATTATTATTATTTAAGCTTCTTATTTTCATTCCCTCTGccccttcttagataaataataacataatatacatccttttgctacctttcttttaacagtatattcttgtgttctcctcatagcagtatatagagctccttctcattcccttctataatactatttcatagaactccatgtatgaatgtagcagtttattcatctgatccctattaataggcatatgagttgattccagtcatttgccattacatgtaatgctgcagtgaatagcctgtgcatatagattttgatgtttttgccagtgtatcttggggctatatccccagaagcgggatggctgacttagaggacaagtgcatatataattttgggggttttgccacattcccctccacagagattgtatcagtttgtgttgacactagcaactaatatgagtgctaatttttttcgtggctttatgtgttgtcaaacatttggctttatgtcagtatgatagatgcaaaattgaatatgtgccattaatttgcatttctgttgtcagagaggttgaCTCATCAATTCttttttatttatttatttatttatttatttatttatttatttatttttaattgatcattcttgggtgtttctcgcagagggggatttggcagggtcataggacaatagtggagggaaggtcagcagataaacaagtgaacaaaggtctctggttttcctaggcagaggaccctgcggccttccgaagtgtttgtgtccctgggtacttaagattagggagtggtgatgactcttaacgagcacgctgccttcaagcatctgtttaacaaagcacatcttgcaccgcccttaatccatttaaccctgagtggacacagcacatgtttcagagagcacagggttggggataaggtcacagatcaacaggatcccaaggcagaagaatttttcttagtacagaacaaaatgaaaagtctcccatatctacttctatccacacagacccggcaaccatccgatttctcaattttttccccacccttcccgcctttctattccacaaaaccgccattgtcatcatggcccatccccaatgagccgctgggcacacctcccagaaggggtcgtggccgggcagaggggctcctcacttcccagtaggggcggccgggcagaagcgcccctgacctcccggatggggcggctggccgggcagggggctgacccccccaccaccctcccggacggggcggctggccaggcagaggggctcctcacttcccagtaggggcggccgggcagaggcgcccctcacctcctggatagggcggctggccgggcggggggctgacccccccaccaccctcccggacggggcggctcgccaggcagaggggctcctcacttcccagtaggggcggccgggcagaggcgcccctcacctcccggacggggtggctggccaggcggggggctgatccccccacctccctcccggacggggcggctggccgggtggggggctgacccaccacctccctcccggactgggcggctggccgggcagaggggtcctcacttcccagtaggggcagccgggcagaggcgcccctcacctcccggacggggcggctggccaggcggggggctgaccccccccacctccctcccggacggggcggctggccgggcggggggctgacccccccacctccctcccggacggggcggctggccgggcggggggctgatcccccccacctccctcccggacggggcggctggccgggcggggggctgaccccccccacctgcctcccggacggggcggctggccgggcagaggggtcctcacttcccagtacgggcagccgggcagaggcgcccctcacctcccggtcggggcggctggccaggcggggggctgatccccccacctccctcccggacggggcggctggccgggcggggggctgaccccccacctccctcccggactgggcggctggccgggcggggggctgaccccccacctccctcccggactgggcggctggccgggcggggggctgaccccccacctccctcccggacggggcggctggccgggcagaggggtcctcacttcccggtaggggcgaccgggcagaggcgcccctcacctcccggacggggggctgatccccccacctccctcccggacggggcggctggccgggcagaggggctcctcacttcccagtaggggcggccgggcagaggcgcccctcacctcccggacggggcggctggccgggcggggggctgaccccccaccttcctcccggactgggcggctggccgggcggggtgctgaccccccacctccctcccggacggggcggctggccgggcagaggggtcctcacttcccggtaggggcgaccgggcagaggcgcccctcacctcccggacggggcggccggccgggcggggggctgacccccccacctccctcccggacggggcggctggccgggcagggggctgaccccccctcccggacggggcagctggccgggcagaggggctcctcacttcccagtaggggcggccgggcagaggagcccctcacctcccggacggggcggctggccgggcggggggctgaccccccccccccctcccggacggggtggctgccgggcggagacgctcctcacttcccagacggggtggctgccggatggaggggctcctcacttctcagacggggcggttgccaggcagagggtttcctcacttctcagacggggcggccaggcagaggcgctcctcacatcccagacagggttgcggcccagcagaggtgctcctcacatcccagacagggcggcggggcagaggcgctccccacatctcagacgatgggcggcggggaagaggcgctcctcgcttcctagatgggatggcggccgggcagagacgctcctcactttccagactgggcagccaggcagagaggctcctcatatcccagacgatgggcggccaggcagagacgctcctcacttcccagacggggtggcggccgggcagaggctgcaatctcggcactttggggggccaaggcaggcggctgggaggtggaggttgtagcgagccgagatcacaccactgcactccagcctgggcaccattgagcactgagtgaacgagactccgtctgcaatcccagcacctcgggaggccgaggctggcggatcactcgcggtcaggagctgagaccagcccggccaacacagcaaaaccccgtctccaACTcatcaattcttatgattaagaggcattttcgtttctttttctgtaaactgtctaattatatttctagtccatttttctCAAGAATGGGGGGGAGGTTGGTCCTGCTCACAGTAATAGTACTTTTCGATTAATAACAGACATTAGAGAACTGCTGTACCCAGTACTGTACTCGGTGCTGGGGAAGCAGAACTCAGTACTAGTGTCAAAGACCTTTTGACTCCAACatttgttgtgttattgttgttgttattattattgttgttattattttgagacagagtcttgctctgtcacccaagctggagtgcagtggtgcaatctcagctcacgggaacctccgcctcccaggtttcaagcgattctcctgcctcaccctcccaagtagctggcactataggcgtgtgccaccacgcctggctaatttttgtatttttcgtagagacagggtttcaccgtgttggtcagtctggtgtcgaactcctgacctcaggtgatctgcccgcctcggcctctgaaagtgctgggattacaggcgtgagccaccacgccaggccCATTGTGTTTTAATTTTATCCCACTATTTTCACTATGTGTTAAGCAGAACTAATTGTGACACTCAGTTCAATGTTAGAGAAGTCAATACTTAACCAAAGAAGAACATCCTTGCTTGGAGAAAGTCAGCTTGATACACATTTAGAGGCATGGAAGACAGCCTGTAAAGCTGTGTGGGTGCTGAtggctagcctgagagccacatggcctactaatgtgatgttttgctatgcagttgcctcaaaaacttgaataccaacatttaaaaccacaaacttttacataaatgtgaagatttctggaatttggaaaaagatggaggatgtacacacactgggtcccattcctgtgtggcagcattccctggatggggcGGTTCTATCTCCATTTCCCCGTGGTCCACTTCACTCTTGAgttcttcacacctgcacatccaggtcgggagccactgccacacatagctgttcagcacttggaatatggctagtccagattgggatatggcattttgtttaacgtgactactagaatatttaaaattaaatatataattcttattttatttctgttggatggtgctgGCTTATATTCAGCCTGCTGCATTCACTTAAATTGTTTGCCCAGGCTTCATGTCCCATGGAGCTCTATCAGACTCATGTGCCCATGGTCATCATTTGACAGGATGAGAACATGAGTATCTTGCAAATATCTGACTTTTCACAGGTCTCTGCTGGTTATGGTGGTCATGGCACCTGCTTGCTCTTGCTCTGTCCCAGCAGAGTGTGGGTGAGAAAATGCCACAGGTATTTAAATCTGATCACTTACAGTCTTGGTGGGGAGCACTGTTGCTCGAATATTTTTTTAAATtctttttattgaggtatactctatgtacagcgaattgttcgtatcttatgtatgcttttcaatctgccgtgatgattcgtatcaaggcacagaacatttctgtcatcccagaaaggtccttcctgttcttcacaagcaattccttctttcgtaaagaaatcactgccctgatttctgttaccacaggtcaattCAACTACATAtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtATATAtttatttttttttttttattttttttttttttgagatggagtcttgctctgtcacctaggctggagtgcagtgacacaatcttggctcactgcaacttctgcctcccgggttcaagcgattctcttgcctcaacctcccaagtagctgggattacaggcacataccaccacgcctggctaatttttgtattattagtagtgacggggttttatcatgttggccaggctggttttgaactcctgacctcaggtgatccacccacctcagcctcccaaagtgctgggattataggcgtgagccaccatgcccagccTCAACtatatataaatttttaaaatttaatttagtttaattttattttatttttgagatggaatttcgctctgtctctcccaggctggaatgcagtggcacgatctcagctcactgcaacctctgcctcccgggtttaagcagttctctgcctcagcctcctgagtagctggaattataggcgcccgccaccgtgctcggctactttttgtatttttggtagagacaaggtttcagcatcttggccaggctggtcttgaactcctgaccttgtgatccacccacctcggcctcccaaagtgctgggattacaggcgtgagccaccaggcctggccTCAACTATATTTTTTAATGTTTACTTAATACTCATCTAGTTTTGGTATTGACCATGACTTATATTGCTATTGACTGTCTTAAGAGTAACACTATTCTAATAGGATAGCTCACTTAATTTTTTAGCAAATATCCTTAGGTGAGGTATCATTTGCATATGTCTTCTTTGTCAACTTGTTATATTGGAAATGTATGTGTGTTTCCTTCTTTATCAATAGCTGTTATCATCTAAAGACATTAttttgtttttttgtttattttATGCATATGTGTGTGCTTCAGTTTTACTCTTGGTATCATGCTGGCACTGGTTTACTTTGACACTGTTAAGCAGATATTAAGCAGTCTATTGTGAAATCTTCTATGGTGAAATGATCCTGACATGTGAAATAGGTCAGTTTAAATGACTCATGGTTTTGTTGTTATTTTTCTGCTGTCCAAGGAAAGAGTCTCAGTAAAACATTGTATATGTTCCTAAAGACTGCTTATTGAGATAGCTCTTTATAATTAATACATGCCTTGATTGTGACTTACTCATCCCTGTCTTACAGGCCAAACTTCCAGATCTGCAACCATTTCCTTCTCCAGATGGTGATACAGTGACCCAACATGAGGAACTGGTCTGGATGCCTGGAGTTAACGACTGTGACCTCCTTATGTACTTGAGGGCAGCAAGGTAATAGGAATCTACCCCCATCCTGCTTTCTGAATTAGACCATCTGAACTGATTATAGGCAGTAAACTTTGCATTTCCCCTGAGATTTTATTTCTATATTGGGCGTTCTCTGACTTTAAGTTTGGTTACACCCTCTGTAATCGGGACCCTGGCTCTTCTTACCAGAGAAAAATAGTTTGAAGTAATTTTTTTCATGATGAAGTAATGTTTTTCTTCTTGGTGTTTGCCCCACATCAAATTTTGGAACTTTTCAAGAGGAAAACAGCTTAGGCCATACATACAGTTACCAAAACCTCTCAATCCAGTTGAGTACTTCAGTCATTCAGCTCATCTGAAAACCCCACTACAgaggggtgggggtgaggggagggagagcattaggacaaatagctaatgcattcggggcttaaaacctagatgacgggttgataggtgcagcagagcaccacggcacacatatacctaatgtaacaaaccgacacgttctgcacttgtatcctggaccttaaagtaaaatttaaaacaaaaacaaAACCCTCTACAGATTTCATGTTCTGTCTCTACTTTGTGGCTGTTCATTAGTGCCTGTCCTGAACTTGACATTTTTGTGGCTTGCCTACATGAGAATATTTATCTGTGATCACCCTCGTGGCAGTTGCATAGAACATACAAATGCCTTCGATGCAGAGAGAAGTGTGAATTCGCTCCTCACACGGcacagagcgggcaccacagagcggtcgtcacagagcaggtgtcacagagcaggcAGGCAGACTTTGTATGTAGTGATTCTGGGTCTTGGCAACGACAACAAAAACATGAAAGCAAGGATTAGGGCATCTGAATTTTAACCCTGGATGGGTTTGTGGGtttcttttttttctttttttcttttttttttggttgttacttgttttgtttttttgaaacagggtcttgctgtgtcacccaggctggagtacagtggcacaattatagctcactacagccttaacttcctgagctcaagcgatcctcctgcctcagcctcctgagtagctagggttatagacccgtggcaccatgcccggctatttttaattttgtttttggttgagatggggtcctttctgtgttgcccCAGTTACCTGGCTGTTTTCTAGTCAACGGTGTTGTGCATGGTGGCATTCAGTAGAGATGAGAATGTGTAAGTGGAGTGAATGACTAAGAGGTTTTATCTCTGGTTTCTCACCtttttttttttttttttttaagacagggtctcacactggagtgcagtggcataatcatgactcattacagccttaacctcctgggctcaagtcatcctcccacctcgtcctccccagtagctaggactacaggcatgcaccaccatacctggctaatatattttttttctctctctatgttgtcagggctgattttgaactctctggcctcaagcagtcctctggcgtcaggctcccagagtgctgggattacgggcatgagccatcacacccagccATGATTTTTTACTTTTAATTCACCTAAAGGTAGTTGATATGCAGAATGAGAGGAATTAAGTAAAATTTTAGATGACTTAATTTCACATGTTTTCTGGAGACTTTTCTTTCAGAAGATTGTCATCTACTGAAATATTGTGGCTCATAGATTTAGATTCTTCATGCTCTCAAATCTAAAATCTTAGTACTGCTAAAACGTGGGAAGAAACAATACAAATGGATCTGACTAAAAGTAACATATGTCTTTCTGCGTGAGTGAAGAGGAACTTAAATTTATTTTTGGTctgggcgtgatggctcacgcctgtaatcccagcactttaggaggctgaggtgagcagatcacctgaggtcaggagttcgagaccagcccgaccaacactgtgaaaccttgtctctactaaaaatacagaaattagctgggcatggggtgttcctgtaatctcagctactcgggaggccgaggcaggagaatcccttgaatcctggaggtggaggttgcagtgagccaagattgcgccactgtactccagcctggatgacagagtgagactccatctcaaaagaaaaaaaaaaaaaaaTAGGAGCAGAGGCAGAGCTGGGAACTGGTTCATCATGCGTGTAGTAATGGAATTTGTTCTGGGCTGGAAATGTCCTCTGAAAATTGAAGGTCTAAGTCTCTGTCCTGATATTACTATGTACTAATAAAGGAAAAACCTTTTCTTCTGAAGGAGCATGGCGGCATTTGCAGGAATGTGTGATGGAGGCTCTACAGAGGACGGCTGTGTCGCAGCCTCTCGGGATGACACCACTCTGAATGCACTGAACACAGTAAG",
     "motifs": [
       {
-        "motif_name": "ZC3H14",
-        "RBP_key": 55,
+        "name": "ZC3H14",
+        "key": 55,
         "count": 1440,
         "scores": [
           9.42436992142391, 5.655023032770406, 6.024439314535275,
@@ -3866,8 +3888,8 @@
         ]
       },
       {
-        "motif_name": "TIA1",
-        "RBP_key": 46,
+        "name": "TIA1",
+        "key": 46,
         "count": 1262,
         "scores": [
           5.2580659145132795, 8.041112371483832, 6.150489099340579,
@@ -5558,8 +5580,8 @@
         ]
       },
       {
-        "motif_name": "CPEB4",
-        "RBP_key": 51,
+        "name": "CPEB4",
+        "key": 51,
         "count": 1248,
         "scores": [
           7.616280125916337, 7.28399899223475, 5.15635116913879,
@@ -7231,8 +7253,8 @@
         ]
       },
       {
-        "motif_name": "CPEB2",
-        "RBP_key": 13,
+        "name": "CPEB2",
+        "key": 13,
         "count": 1177,
         "scores": [
           6.095134940860546, 5.950363416646572, 9.978219793513189,
@@ -8808,8 +8830,8 @@
         ]
       },
       {
-        "motif_name": "RALY",
-        "RBP_key": 21,
+        "name": "RALY",
+        "key": 21,
         "count": 1170,
         "scores": [
           7.6660868900128305, 6.530804333458368, 6.583097525341799,
@@ -10377,8 +10399,8 @@
         ]
       },
       {
-        "motif_name": "PTBP1",
-        "RBP_key": 36,
+        "name": "PTBP1",
+        "key": 36,
         "count": 1162,
         "scores": [
           7.54971571220406, 5.94981269384226, 9.562645181266902,
@@ -11936,8 +11958,8 @@
         ]
       },
       {
-        "motif_name": "BRUNOL4",
-        "RBP_key": 15,
+        "name": "BRUNOL4",
+        "key": 15,
         "count": 1150,
         "scores": [
           5.0778452696638965, 5.2980731068870215, 6.810761384967832,
@@ -13479,8 +13501,8 @@
         ]
       },
       {
-        "motif_name": "BRUNOL5",
-        "RBP_key": 63,
+        "name": "BRUNOL5",
+        "key": 63,
         "count": 1112,
         "scores": [
           5.291786475696702, 5.5535099363781475, 6.96527972182308,
@@ -14971,8 +14993,8 @@
         ]
       },
       {
-        "motif_name": "U2AF2",
-        "RBP_key": 48,
+        "name": "U2AF2",
+        "key": 48,
         "count": 1045,
         "scores": [
           8.780511262611713, 5.916148154227595, 5.979109081340237,
@@ -16374,8 +16396,8 @@
         ]
       },
       {
-        "motif_name": "HuR",
-        "RBP_key": 24,
+        "name": "HuR",
+        "key": 24,
         "count": 1031,
         "scores": [
           7.387307528043144, 6.832933862871433, 7.150071599043609,
@@ -17758,8 +17780,8 @@
         ]
       },
       {
-        "motif_name": "PABPC4",
-        "RBP_key": 29,
+        "name": "PABPC4",
+        "key": 29,
         "count": 803,
         "scores": [
           7.586218538793204, 6.587877466390959, 9.473039884153229,
@@ -18838,8 +18860,8 @@
         ]
       },
       {
-        "motif_name": "PABPC5",
-        "RBP_key": 14,
+        "name": "PABPC5",
+        "key": 14,
         "count": 777,
         "scores": [
           8.11842114644977, 5.471967845189005, 6.2676356527264,
@@ -19883,8 +19905,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPCL1",
-        "RBP_key": 28,
+        "name": "HNRNPCL1",
+        "key": 28,
         "count": 685,
         "scores": [
           9.438289067250123, 10.575792591000058, 10.727795684445109,
@@ -20806,8 +20828,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPC",
-        "RBP_key": 78,
+        "name": "HNRNPC",
+        "key": 78,
         "count": 685,
         "scores": [
           9.556250380705508, 10.507706528747471, 10.377204504513342,
@@ -21728,8 +21750,8 @@
         ]
       },
       {
-        "motif_name": "SART3",
-        "RBP_key": 53,
+        "name": "SART3",
+        "key": 53,
         "count": 674,
         "scores": [
           5.613027593854781, 8.393337692898157, 5.120796468183478,
@@ -22636,8 +22658,8 @@
         ]
       },
       {
-        "motif_name": "PABPC1",
-        "RBP_key": 62,
+        "name": "PABPC1",
+        "key": 62,
         "count": 674,
         "scores": [
           5.632038270860238, 8.397993076926543, 5.110728374702762,
@@ -23544,8 +23566,8 @@
         ]
       },
       {
-        "motif_name": "IGF2BP3",
-        "RBP_key": 65,
+        "name": "IGF2BP3",
+        "key": 65,
         "count": 666,
         "scores": [
           6.335477604408544, 9.0730681184381, 5.137352520715037,
@@ -24441,8 +24463,8 @@
         ]
       },
       {
-        "motif_name": "PCBP2",
-        "RBP_key": 41,
+        "name": "PCBP2",
+        "key": 41,
         "count": 664,
         "scores": [
           5.147834014738486, 5.008029430256701, 5.948933586160094,
@@ -25336,8 +25358,8 @@
         ]
       },
       {
-        "motif_name": "IGF2BP2",
-        "RBP_key": 77,
+        "name": "IGF2BP2",
+        "key": 77,
         "count": 615,
         "scores": [
           5.636434908224053, 9.764339211931484, 6.787689699208864,
@@ -26165,8 +26187,8 @@
         ]
       },
       {
-        "motif_name": "SFPQ",
-        "RBP_key": 2,
+        "name": "SFPQ",
+        "key": 2,
         "count": 569,
         "scores": [
           8.234283191510098, 5.387227642497857, 6.878226419084063,
@@ -26933,8 +26955,8 @@
         ]
       },
       {
-        "motif_name": "PABPC3",
-        "RBP_key": 60,
+        "name": "PABPC3",
+        "key": 60,
         "count": 543,
         "scores": [
           5.497918051755814, 5.528614848978732, 8.725012061782236,
@@ -27666,8 +27688,8 @@
         ]
       },
       {
-        "motif_name": "BRUNOL6",
-        "RBP_key": 4,
+        "name": "BRUNOL6",
+        "key": 4,
         "count": 529,
         "scores": [
           8.28995683052419, 8.1741314023843, 8.227460904790426,
@@ -28378,8 +28400,8 @@
         ]
       },
       {
-        "motif_name": "KHDRBS1",
-        "RBP_key": 44,
+        "name": "KHDRBS1",
+        "key": 44,
         "count": 460,
         "scores": [
           6.617679124568837, 11.26624500235138, 5.487779790758297,
@@ -29001,8 +29023,8 @@
         ]
       },
       {
-        "motif_name": "MATR3",
-        "RBP_key": 12,
+        "name": "MATR3",
+        "key": 12,
         "count": 444,
         "scores": [
           5.619142966070291, 5.607017072670315, 6.321227513594368,
@@ -29602,8 +29624,8 @@
         ]
       },
       {
-        "motif_name": "PABPN1",
-        "RBP_key": 70,
+        "name": "PABPN1",
+        "key": 70,
         "count": 430,
         "scores": [
           6.506343347881509, 7.51489591814933, 7.986516945794541,
@@ -30185,8 +30207,8 @@
         ]
       },
       {
-        "motif_name": "ZNF638",
-        "RBP_key": 39,
+        "name": "ZNF638",
+        "key": 39,
         "count": 424,
         "scores": [
           6.304599460593032, 6.953921498158922, 10.101701363114621,
@@ -30760,8 +30782,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPH2",
-        "RBP_key": 5,
+        "name": "HNRNPH2",
+        "key": 5,
         "count": 401,
         "scores": [
           5.609775839822465, 5.643777677047494, 8.113114034793385,
@@ -31304,8 +31326,8 @@
         ]
       },
       {
-        "motif_name": "SRSF9",
-        "RBP_key": 57,
+        "name": "SRSF9",
+        "key": 57,
         "count": 386,
         "scores": [
           5.577679255053556, 6.3839768703281194, 6.201832873719656,
@@ -31828,8 +31850,8 @@
         ]
       },
       {
-        "motif_name": "KHDRBS2",
-        "RBP_key": 19,
+        "name": "KHDRBS2",
+        "key": 19,
         "count": 360,
         "scores": [
           6.427415431975715, 6.774574776935598, 8.449668238822841,
@@ -32317,8 +32339,8 @@
         ]
       },
       {
-        "motif_name": "ESRP2",
-        "RBP_key": 45,
+        "name": "ESRP2",
+        "key": 45,
         "count": 356,
         "scores": [
           5.771577400688946, 5.442727939148239, 8.33691109466117,
@@ -32801,8 +32823,8 @@
         ]
       },
       {
-        "motif_name": "MSI1",
-        "RBP_key": 8,
+        "name": "MSI1",
+        "key": 8,
         "count": 341,
         "scores": [
           5.476862657993305, 6.015935760202401, 7.615929352747685,
@@ -33265,8 +33287,8 @@
         ]
       },
       {
-        "motif_name": "ENOX1",
-        "RBP_key": 72,
+        "name": "ENOX1",
+        "key": 72,
         "count": 329,
         "scores": [
           6.593015438674266, 5.175120950204411, 10.22169931682474,
@@ -33713,8 +33735,8 @@
         ]
       },
       {
-        "motif_name": "ZCRB1",
-        "RBP_key": 20,
+        "name": "ZCRB1",
+        "key": 20,
         "count": 324,
         "scores": [
           7.234523857245054, 7.57897467500199, 8.102066896829458,
@@ -34154,8 +34176,8 @@
         ]
       },
       {
-        "motif_name": "SRSF2",
-        "RBP_key": 74,
+        "name": "SRSF2",
+        "key": 74,
         "count": 321,
         "scores": [
           6.6394926870408035, 8.508972413268433, 5.166517187891812,
@@ -34591,8 +34613,8 @@
         ]
       },
       {
-        "motif_name": "DAZAP1",
-        "RBP_key": 31,
+        "name": "DAZAP1",
+        "key": 31,
         "count": 314,
         "scores": [
           5.254221952180641, 5.916115253215804, 6.947099286644925,
@@ -35019,8 +35041,8 @@
         ]
       },
       {
-        "motif_name": "TUT1",
-        "RBP_key": 16,
+        "name": "TUT1",
+        "key": 16,
         "count": 300,
         "scores": [
           5.912773294125275, 5.083503595639231, 6.105332086479075,
@@ -35428,8 +35450,8 @@
         ]
       },
       {
-        "motif_name": "G3BP2",
-        "RBP_key": 64,
+        "name": "G3BP2",
+        "key": 64,
         "count": 292,
         "scores": [
           6.184882922935872, 5.2117453301066465, 5.034136680848405,
@@ -35827,8 +35849,8 @@
         ]
       },
       {
-        "motif_name": "RBM5",
-        "RBP_key": 1,
+        "name": "RBM5",
+        "key": 1,
         "count": 285,
         "scores": [
           7.308715114505027, 9.850934958351353, 5.471316754190294,
@@ -36216,8 +36238,8 @@
         ]
       },
       {
-        "motif_name": "PCBP1",
-        "RBP_key": 52,
+        "name": "PCBP1",
+        "key": 52,
         "count": 280,
         "scores": [
           5.055677766082359, 6.060626982054092, 6.735319643431261,
@@ -36599,8 +36621,8 @@
         ]
       },
       {
-        "motif_name": "LIN28A",
-        "RBP_key": 37,
+        "name": "LIN28A",
+        "key": 37,
         "count": 279,
         "scores": [
           6.222674936180969, 6.171164098636752, 6.544520659602329,
@@ -36980,8 +37002,8 @@
         ]
       },
       {
-        "motif_name": "RBMS3",
-        "RBP_key": 35,
+        "name": "RBMS3",
+        "key": 35,
         "count": 267,
         "scores": [
           7.147827018525872, 6.584057217985382, 6.223958087741843,
@@ -37345,8 +37367,8 @@
         ]
       },
       {
-        "motif_name": "SAMD4A",
-        "RBP_key": 69,
+        "name": "SAMD4A",
+        "key": 69,
         "count": 251,
         "scores": [
           6.6480529671825686, 8.443694468676382, 9.362080703122729,
@@ -37689,8 +37711,8 @@
         ]
       },
       {
-        "motif_name": "SRSF1",
-        "RBP_key": 6,
+        "name": "SRSF1",
+        "key": 6,
         "count": 247,
         "scores": [
           5.8416736337659065, 5.684033983001108, 8.400724796036245,
@@ -38026,8 +38048,8 @@
         ]
       },
       {
-        "motif_name": "FMR1",
-        "RBP_key": 9,
+        "name": "FMR1",
+        "key": 9,
         "count": 247,
         "scores": [
           8.584410083701462, 5.50755441234497, 7.163307104487306,
@@ -38365,8 +38387,8 @@
         ]
       },
       {
-        "motif_name": "RBM46",
-        "RBP_key": 32,
+        "name": "RBM46",
+        "key": 32,
         "count": 245,
         "scores": [
           9.507401377298065, 8.891048457429362, 6.761594926692845,
@@ -38701,8 +38723,8 @@
         ]
       },
       {
-        "motif_name": "RBM3",
-        "RBP_key": 66,
+        "name": "RBM3",
+        "key": 66,
         "count": 236,
         "scores": [
           7.4115872618221506, 7.480849924259264, 6.514089958312068,
@@ -39025,8 +39047,8 @@
         ]
       },
       {
-        "motif_name": "RBM24",
-        "RBP_key": 59,
+        "name": "RBM24",
+        "key": 59,
         "count": 231,
         "scores": [
           9.854538282140258, 6.445085128458796, 6.488040693360867,
@@ -39342,8 +39364,8 @@
         ]
       },
       {
-        "motif_name": "SRSF10",
-        "RBP_key": 22,
+        "name": "SRSF10",
+        "key": 22,
         "count": 219,
         "scores": [
           5.318139229092052, 8.293529927631305, 6.703018592989521,
@@ -39643,8 +39665,8 @@
         ]
       },
       {
-        "motif_name": "TARDBP",
-        "RBP_key": 26,
+        "name": "TARDBP",
+        "key": 26,
         "count": 204,
         "scores": [
           11.036786398012632, 5.008284738741928, 5.008284738741928,
@@ -39924,8 +39946,8 @@
         ]
       },
       {
-        "motif_name": "RBM41",
-        "RBP_key": 67,
+        "name": "RBM41",
+        "key": 67,
         "count": 200,
         "scores": [
           10.60500734309465, 8.184104594317237, 8.08627854077358,
@@ -40200,8 +40222,8 @@
         ]
       },
       {
-        "motif_name": "SNRNP70",
-        "RBP_key": 61,
+        "name": "SNRNP70",
+        "key": 61,
         "count": 198,
         "scores": [
           6.889309849771439, 5.048007595790497, 9.52013428727616,
@@ -40473,8 +40495,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPL",
-        "RBP_key": 3,
+        "name": "HNRNPL",
+        "key": 3,
         "count": 189,
         "scores": [
           7.650257397335819, 5.646255466778323, 5.1648305701655755,
@@ -40734,8 +40756,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPA1L2",
-        "RBP_key": 30,
+        "name": "HNRNPA1L2",
+        "key": 30,
         "count": 189,
         "scores": [
           9.564512801848087, 5.003990633317322, 8.569891843022003,
@@ -40995,8 +41017,8 @@
         ]
       },
       {
-        "motif_name": "RBM6",
-        "RBP_key": 42,
+        "name": "RBM6",
+        "key": 42,
         "count": 188,
         "scores": [
           6.10059565646793, 6.10059565646793, 8.832442452985667,
@@ -41255,8 +41277,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPK",
-        "RBP_key": 25,
+        "name": "HNRNPK",
+        "key": 25,
         "count": 187,
         "scores": [
           5.956736764533873, 7.0235466056846265, 5.075660480796767,
@@ -41514,8 +41536,8 @@
         ]
       },
       {
-        "motif_name": "MBNL1",
-        "RBP_key": 73,
+        "name": "MBNL1",
+        "key": 73,
         "count": 186,
         "scores": [
           7.229466851954417, 5.39067432853062, 8.694865782453292,
@@ -41771,8 +41793,8 @@
         ]
       },
       {
-        "motif_name": "CNOT4",
-        "RBP_key": 68,
+        "name": "CNOT4",
+        "key": 68,
         "count": 182,
         "scores": [
           7.801894505795552, 10.681600272077839, 5.945256663280564,
@@ -42023,8 +42045,8 @@
         ]
       },
       {
-        "motif_name": "RBM28",
-        "RBP_key": 58,
+        "name": "RBM28",
+        "key": 58,
         "count": 180,
         "scores": [
           7.656904295443296, 7.277595064124974, 5.619212005371346,
@@ -42272,8 +42294,8 @@
         ]
       },
       {
-        "motif_name": "SNRPA",
-        "RBP_key": 18,
+        "name": "SNRPA",
+        "key": 18,
         "count": 169,
         "scores": [
           5.2759147308835495, 5.2759147308835495, 5.2759147308835495,
@@ -42507,8 +42529,8 @@
         ]
       },
       {
-        "motif_name": "RBMS1",
-        "RBP_key": 76,
+        "name": "RBMS1",
+        "key": 76,
         "count": 168,
         "scores": [
           8.2493146553211, 8.325991505099278, 8.118666531851773,
@@ -42740,8 +42762,8 @@
         ]
       },
       {
-        "motif_name": "RBM42",
-        "RBP_key": 50,
+        "name": "RBM42",
+        "key": 50,
         "count": 159,
         "scores": [
           5.267725277297309, 5.220380427277243, 7.2152855074425455,
@@ -42961,8 +42983,8 @@
         ]
       },
       {
-        "motif_name": "A1CF",
-        "RBP_key": 7,
+        "name": "A1CF",
+        "key": 7,
         "count": 148,
         "scores": [
           10.849065073785995, 8.355525600828434, 6.461394235935257,
@@ -43168,8 +43190,8 @@
         ]
       },
       {
-        "motif_name": "QKI",
-        "RBP_key": 23,
+        "name": "QKI",
+        "key": 23,
         "count": 142,
         "scores": [
           5.469405398327426, 7.65952413287828, 5.469405398327426,
@@ -43367,8 +43389,8 @@
         ]
       },
       {
-        "motif_name": "YBX1",
-        "RBP_key": 33,
+        "name": "YBX1",
+        "key": 33,
         "count": 142,
         "scores": [
           8.401345649757038, 5.109129275295273, 5.843759587967186,
@@ -43565,8 +43587,8 @@
         ]
       },
       {
-        "motif_name": "HNRPLL",
-        "RBP_key": 40,
+        "name": "HNRPLL",
+        "key": 40,
         "count": 142,
         "scores": [
           5.199334966104547, 7.567185779938949, 7.567185779938949,
@@ -43764,8 +43786,8 @@
         ]
       },
       {
-        "motif_name": "KHDRBS3",
-        "RBP_key": 56,
+        "name": "KHDRBS3",
+        "key": 56,
         "count": 136,
         "scores": [
           5.250354747036618, 8.485621571789599, 8.914464870593473,
@@ -43955,8 +43977,8 @@
         ]
       },
       {
-        "motif_name": "RBM45",
-        "RBP_key": 11,
+        "name": "RBM45",
+        "key": 11,
         "count": 135,
         "scores": [
           6.540280703475049, 5.072519964149372, 5.072519964149372,
@@ -44144,8 +44166,8 @@
         ]
       },
       {
-        "motif_name": "FXR2",
-        "RBP_key": 34,
+        "name": "FXR2",
+        "key": 34,
         "count": 132,
         "scores": [
           8.331178551271595, 6.6989883499781, 6.779908345361667,
@@ -44329,8 +44351,8 @@
         ]
       },
       {
-        "motif_name": "YBX2",
-        "RBP_key": 49,
+        "name": "YBX2",
+        "key": 49,
         "count": 116,
         "scores": [
           8.278688139576104, 5.97026503555353, 7.455691862723772,
@@ -44493,8 +44515,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPA2B1",
-        "RBP_key": 43,
+        "name": "HNRNPA2B1",
+        "key": 43,
         "count": 111,
         "scores": [
           7.336750951435757, 9.262317229070607, 8.21343070266528,
@@ -44650,8 +44672,8 @@
         ]
       },
       {
-        "motif_name": "FXR1",
-        "RBP_key": 54,
+        "name": "FXR1",
+        "key": 54,
         "count": 107,
         "scores": [
           5.932004302320826, 9.318243184678433, 8.69845531960413,
@@ -44802,8 +44824,8 @@
         ]
       },
       {
-        "motif_name": "PPRC1",
-        "RBP_key": 71,
+        "name": "PPRC1",
+        "key": 71,
         "count": 103,
         "scores": [
           5.000807794423717, 5.302932670084576, 6.2325094249309485,
@@ -44949,8 +44971,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPA1",
-        "RBP_key": 17,
+        "name": "HNRNPA1",
+        "key": 17,
         "count": 90,
         "scores": [
           9.428037960214219, 8.384755509671574, 8.969757509987275,
@@ -45078,8 +45100,8 @@
         ]
       },
       {
-        "motif_name": "RBM8A",
-        "RBP_key": 79,
+        "name": "RBM8A",
+        "key": 79,
         "count": 64,
         "scores": [
           7.538764425880101, 5.676901594245579, 5.676901594245579,
@@ -45173,8 +45195,8 @@
         ]
       },
       {
-        "motif_name": "ZC3H10",
-        "RBP_key": 75,
+        "name": "ZC3H10",
+        "key": 75,
         "count": 61,
         "scores": [
           8.601425107955782, 6.1114429996012225, 10.972792135577649,
@@ -45264,8 +45286,8 @@
         ]
       },
       {
-        "motif_name": "RBFOX1",
-        "RBP_key": 0,
+        "name": "RBFOX1",
+        "key": 0,
         "count": 55,
         "scores": [
           6.346906439759966, 6.346906439759966, 7.969101846680098,
@@ -45347,8 +45369,8 @@
         ]
       },
       {
-        "motif_name": "RBM4",
-        "RBP_key": 27,
+        "name": "RBM4",
+        "key": 27,
         "count": 46,
         "scores": [
           5.198626850041847, 7.13195581039656, 9.943912743150097,
@@ -45418,8 +45440,8 @@
         ]
       },
       {
-        "motif_name": "ANKHD1",
-        "RBP_key": 10,
+        "name": "ANKHD1",
+        "key": 10,
         "count": 26,
         "scores": [
           8.270658651281725, 9.642526429279107, 6.296129338797844,
@@ -45462,8 +45484,8 @@
         ]
       },
       {
-        "motif_name": "SRSF7",
-        "RBP_key": 47,
+        "name": "SRSF7",
+        "key": 47,
         "count": 19,
         "scores": [
           8.230888086550225, 7.203324611483714, 7.203324611483714,
@@ -45497,8 +45519,8 @@
         ]
       },
       {
-        "motif_name": "FUS",
-        "RBP_key": 38,
+        "name": "FUS",
+        "key": 38,
         "count": 17,
         "scores": [
           5.5225470037840445, 8.157349976450972, 5.56712664629188,
@@ -45535,8 +45557,8 @@
     "seq": "TCCAGGCCTCCTCTCTGCATCCCTCTATTTCCTCTTCCTCCTTGCCTTCCCACCACCCATAGCACCCCCACAACTCCATGGCGctctctctctctctctctctctctgcctctccctctctctcCTTTTCATCTACTCGGAAGGCTTT",
     "motifs": [
       {
-        "motif_name": "PCBP2",
-        "RBP_key": 41,
+        "name": "PCBP2",
+        "key": 41,
         "count": 12,
         "scores": [
           5.147834014738486, 5.008029430256701, 5.85460620361194,
@@ -45560,8 +45582,8 @@
         ]
       },
       {
-        "motif_name": "PCBP1",
-        "RBP_key": 52,
+        "name": "PCBP1",
+        "key": 52,
         "count": 3,
         "scores": [5.7987152988363775, 9.476787203949014, 5.253085210513321],
         "positions": [
@@ -45571,8 +45593,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPK",
-        "RBP_key": 25,
+        "name": "HNRNPK",
+        "key": 25,
         "count": 2,
         "scores": [6.653054354935166, 5.275212057515719],
         "positions": [
@@ -45581,57 +45603,57 @@
         ]
       },
       {
-        "motif_name": "RBM5",
-        "RBP_key": 1,
+        "name": "RBM5",
+        "key": 1,
         "count": 1,
         "scores": [5.661344265691515],
         "positions": [[140, 146]]
       },
       {
-        "motif_name": "HNRNPH2",
-        "RBP_key": 5,
+        "name": "HNRNPH2",
+        "key": 5,
         "count": 1,
         "scores": [6.3519223249472905],
         "positions": [[139, 145]]
       },
       {
-        "motif_name": "CPEB2",
-        "RBP_key": 13,
+        "name": "CPEB2",
+        "key": 13,
         "count": 1,
         "scores": [6.095134940860546],
         "positions": [[124, 130]]
       },
       {
-        "motif_name": "SNRPA",
-        "RBP_key": 18,
+        "name": "SNRPA",
+        "key": 18,
         "count": 1,
         "scores": [6.543387052959318],
         "positions": [[60, 66]]
       },
       {
-        "motif_name": "YBX1",
-        "RBP_key": 33,
+        "name": "YBX1",
+        "key": 33,
         "count": 1,
         "scores": [5.602751488463391],
         "positions": [[52, 58]]
       },
       {
-        "motif_name": "PTBP1",
-        "RBP_key": 36,
+        "name": "PTBP1",
+        "key": 36,
         "count": 1,
         "scores": [5.94981269384226],
         "positions": [[124, 130]]
       },
       {
-        "motif_name": "TIA1",
-        "RBP_key": 46,
+        "name": "TIA1",
+        "key": 46,
         "count": 1,
         "scores": [6.248190371343611],
         "positions": [[25, 31]]
       },
       {
-        "motif_name": "MBNL1",
-        "RBP_key": 73,
+        "name": "MBNL1",
+        "key": 73,
         "count": 1,
         "scores": [8.098689385553937],
         "positions": [[39, 45]]
@@ -45643,8 +45665,8 @@
     "seq": "aacacccattttattgtgctcacagattctacagatcaagagctcagacaggatgcagtggatttctctactccacaatgtctggggatccaggttggaagacatgaaaggcttaaggttgactcaaatggcagggggctggaatcatctggaggcttcttcacataca",
     "motifs": [
       {
-        "motif_name": "HNRNPH2",
-        "RBP_key": 5,
+        "name": "HNRNPH2",
+        "key": 5,
         "count": 3,
         "scores": [8.113114034793385, 5.371630705295447, 5.633208435337306],
         "positions": [
@@ -45654,8 +45676,8 @@
         ]
       },
       {
-        "motif_name": "RBM46",
-        "RBP_key": 32,
+        "name": "RBM46",
+        "key": 32,
         "count": 3,
         "scores": [7.817408679016736, 5.197546114711278, 7.304604457821216],
         "positions": [
@@ -45665,8 +45687,8 @@
         ]
       },
       {
-        "motif_name": "HNRPLL",
-        "RBP_key": 40,
+        "name": "HNRPLL",
+        "key": 40,
         "count": 3,
         "scores": [5.606560018273093, 5.851281801300572, 10.488431668524537],
         "positions": [
@@ -45676,8 +45698,8 @@
         ]
       },
       {
-        "motif_name": "G3BP2",
-        "RBP_key": 64,
+        "name": "G3BP2",
+        "key": 64,
         "count": 3,
         "scores": [5.703581246881661, 5.2117453301066465, 5.034136680848405],
         "positions": [
@@ -45687,8 +45709,8 @@
         ]
       },
       {
-        "motif_name": "ENOX1",
-        "RBP_key": 72,
+        "name": "ENOX1",
+        "key": 72,
         "count": 3,
         "scores": [5.30632807937743, 10.570221621723816, 6.593015438674266],
         "positions": [
@@ -45698,8 +45720,8 @@
         ]
       },
       {
-        "motif_name": "HNRNPL",
-        "RBP_key": 3,
+        "name": "HNRNPL",
+        "key": 3,
         "count": 2,
         "scores": [5.647960424449961, 5.016400400990078],
         "positions": [
@@ -45708,8 +45730,8 @@
         ]
       },
       {
-        "motif_name": "FMR1",
-        "RBP_key": 9,
+        "name": "FMR1",
+        "key": 9,
         "count": 2,
         "scores": [8.584410083701462, 5.238058514874883],
         "positions": [
@@ -45718,8 +45740,8 @@
         ]
       },
       {
-        "motif_name": "MATR3",
-        "RBP_key": 12,
+        "name": "MATR3",
+        "key": 12,
         "count": 2,
         "scores": [5.474830146296144, 5.28522013783949],
         "positions": [
@@ -45728,8 +45750,8 @@
         ]
       },
       {
-        "motif_name": "CPEB2",
-        "RBP_key": 13,
+        "name": "CPEB2",
+        "key": 13,
         "count": 2,
         "scores": [7.615499751500067, 6.440692782132808],
         "positions": [
@@ -45738,8 +45760,8 @@
         ]
       },
       {
-        "motif_name": "YBX1",
-        "RBP_key": 33,
+        "name": "YBX1",
+        "key": 33,
         "count": 2,
         "scores": [8.005098265806051, 8.005098265806051],
         "positions": [
@@ -45748,8 +45770,8 @@
         ]
       },
       {
-        "motif_name": "SNRNP70",
-        "RBP_key": 61,
+        "name": "SNRNP70",
+        "key": 61,
         "count": 2,
         "scores": [11.771673054272126, 5.442250422837839],
         "positions": [
@@ -45758,8 +45780,8 @@
         ]
       },
       {
-        "motif_name": "IGF2BP3",
-        "RBP_key": 65,
+        "name": "IGF2BP3",
+        "key": 65,
         "count": 2,
         "scores": [6.605139226278757, 8.998537667932354],
         "positions": [
@@ -45768,8 +45790,8 @@
         ]
       },
       {
-        "motif_name": "CNOT4",
-        "RBP_key": 68,
+        "name": "CNOT4",
+        "key": 68,
         "count": 2,
         "scores": [9.217258580828412, 6.6743601396738],
         "positions": [
@@ -45778,8 +45800,8 @@
         ]
       },
       {
-        "motif_name": "IGF2BP2",
-        "RBP_key": 77,
+        "name": "IGF2BP2",
+        "key": 77,
         "count": 2,
         "scores": [6.343002471487697, 9.273522813481115],
         "positions": [
@@ -45788,127 +45810,127 @@
         ]
       },
       {
-        "motif_name": "SFPQ",
-        "RBP_key": 2,
+        "name": "SFPQ",
+        "key": 2,
         "count": 1,
         "scores": [5.610431677395348],
         "positions": [[58, 64]]
       },
       {
-        "motif_name": "SRSF1",
-        "RBP_key": 6,
+        "name": "SRSF1",
+        "key": 6,
         "count": 1,
         "scores": [5.0519704979155],
         "positions": [[117, 123]]
       },
       {
-        "motif_name": "RBM45",
-        "RBP_key": 11,
+        "name": "RBM45",
+        "key": 11,
         "count": 1,
         "scores": [8.060500155397156],
         "positions": [[98, 104]]
       },
       {
-        "motif_name": "ZCRB1",
-        "RBP_key": 20,
+        "name": "ZCRB1",
+        "key": 20,
         "count": 1,
         "scores": [9.966949963059688],
         "positions": [[110, 117]]
       },
       {
-        "motif_name": "RALY",
-        "RBP_key": 21,
+        "name": "RALY",
+        "key": 21,
         "count": 1,
         "scores": [5.082299222451784],
         "positions": [[10, 16]]
       },
       {
-        "motif_name": "TARDBP",
-        "RBP_key": 26,
+        "name": "TARDBP",
+        "key": 26,
         "count": 1,
         "scores": [5.188626414669897],
         "positions": [[50, 57]]
       },
       {
-        "motif_name": "FXR2",
-        "RBP_key": 34,
+        "name": "FXR2",
+        "key": 34,
         "count": 1,
         "scores": [8.331178551271595],
         "positions": [[46, 52]]
       },
       {
-        "motif_name": "RBMS3",
-        "RBP_key": 35,
+        "name": "RBMS3",
+        "key": 35,
         "count": 1,
         "scores": [5.688999046312367],
         "positions": [[163, 169]]
       },
       {
-        "motif_name": "PTBP1",
-        "RBP_key": 36,
+        "name": "PTBP1",
+        "key": 36,
         "count": 1,
         "scores": [5.540484294237314],
         "positions": [[8, 14]]
       },
       {
-        "motif_name": "ZNF638",
-        "RBP_key": 39,
+        "name": "ZNF638",
+        "key": 39,
         "count": 1,
         "scores": [5.032104627604058],
         "positions": [[93, 99]]
       },
       {
-        "motif_name": "RBM6",
-        "RBP_key": 42,
+        "name": "RBM6",
+        "key": 42,
         "count": 1,
         "scores": [9.093901003893922],
         "positions": [[87, 93]]
       },
       {
-        "motif_name": "KHDRBS1",
-        "RBP_key": 44,
+        "name": "KHDRBS1",
+        "key": 44,
         "count": 1,
         "scores": [5.330397172488365],
         "positions": [[104, 110]]
       },
       {
-        "motif_name": "ESRP2",
-        "RBP_key": 45,
+        "name": "ESRP2",
+        "key": 45,
         "count": 1,
         "scores": [11.27488056763841],
         "positions": [[83, 89]]
       },
       {
-        "motif_name": "U2AF2",
-        "RBP_key": 48,
+        "name": "U2AF2",
+        "key": 48,
         "count": 1,
         "scores": [6.6085140377627685],
         "positions": [[62, 68]]
       },
       {
-        "motif_name": "YBX2",
-        "RBP_key": 49,
+        "name": "YBX2",
+        "key": 49,
         "count": 1,
         "scores": [5.139546120430416],
         "positions": [[38, 44]]
       },
       {
-        "motif_name": "FXR1",
-        "RBP_key": 54,
+        "name": "FXR1",
+        "key": 54,
         "count": 1,
         "scores": [7.103738672772296],
         "positions": [[127, 134]]
       },
       {
-        "motif_name": "ZC3H14",
-        "RBP_key": 55,
+        "name": "ZC3H14",
+        "key": 55,
         "count": 1,
         "scores": [5.792407715083572],
         "positions": [[10, 16]]
       },
       {
-        "motif_name": "SAMD4A",
-        "RBP_key": 69,
+        "name": "SAMD4A",
+        "key": 69,
         "count": 1,
         "scores": [9.445849060815327],
         "positions": [[138, 144]]
