@@ -39,7 +39,7 @@ const extractInfo = {
         break;
       }
     }
-    console.log(targets);
+    //console.log(targets);
     return targets;
   },
 };

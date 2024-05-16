@@ -5,6 +5,7 @@ import JsonFileLoader from "./components/fileLoader";
 import GeneList from "./components/geneList";
 import MotifList from "./components/motifList";
 import MetaPanel from "./components/metaPanel";
+import TypeSelector from "./components/typeSelector";
 
 function App() {
   /* Dev block */
@@ -18,7 +19,7 @@ function App() {
     length: 0,
   });
   //const [selectedAreaType, setSelectedAreaType] = useState("motifs");
-  const selectedAreaType = "miRNA";
+  const [selectedAreaType, setSelectedAreaType] = useState("motifs");
 
   return (
     <div className="main">
@@ -27,6 +28,10 @@ function App() {
           SeqData={SeqData}
           setSeqData={setSeqData}
         ></JsonFileLoader>
+        <TypeSelector
+          selectedAreaType={selectedAreaType}
+          setSelectedAreaType={setSelectedAreaType}
+        ></TypeSelector>
         <GeneList
           geneData={SeqData}
           selectedGene={selectedGene}
